@@ -1,5 +1,5 @@
 ---
-draft: "true"
+draft: 
 aliases:
   - Mugwort
   - mugwort
