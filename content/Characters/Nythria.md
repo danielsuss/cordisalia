@@ -3,6 +3,6 @@ draft: "true"
 aliases:
 ---
 *Race Gender Age Town*
-![[Crausse.png]]
+![[Nythria.png]]
 > **
 ###### Overview

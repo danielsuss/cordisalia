@@ -3,6 +3,6 @@ draft: "true"
 aliases:
 ---
 *Race Gender Age Town*
-![[Crausse.png]]
+![[Lyle 1.png]]
 > **
 ###### Overview
