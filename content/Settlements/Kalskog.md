@@ -1,4 +1,5 @@
 ---
-draft: "true"
+draft: 
 aliases:
 ---
+![[kalskog peaceful.webp]]

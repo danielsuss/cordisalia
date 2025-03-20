@@ -1,4 +1,5 @@
 ---
-draft: "true"
+draft: 
 aliases:
 ---
+![[rorkard guild 1.webp]]
