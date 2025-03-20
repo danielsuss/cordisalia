@@ -1,6 +1,6 @@
 ---
 aliases: 
-draft: "true"
+draft:
 ---
 *Human Male 24 [[City of Isdal]]*
 ![[Ysgarlad.png]]

@@ -3,7 +3,7 @@ aliases:
   - Woo
   - Wu
   - Woo Baby Woo
-draft: "true"
+draft:
 ---
 *High Elf Female 20 [[City of Virridius]]*
 ![[Woo.png]]
