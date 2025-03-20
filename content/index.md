@@ -1,5 +1,7 @@
 ---
 title: Cordisalia
+aliases:
+  - Cordisalia
 ---
 Welcome to the world of Cordisalia! Navigate through this wiki using the explorer on the side. ![[World Map.png]]
 

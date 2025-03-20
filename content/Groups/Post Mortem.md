@@ -3,7 +3,7 @@ draft:
 aliases:
 ---
 ###### Overview
-- An underground information syndicate running through Cordisalia, to which [[Ylvëstrïa Wuvarion|Woo]] has ties
+- An underground information syndicate running through Cordisalia, to which [[Ylvëstrïa Wuvarion|Woo]] and [[Wyatt Holloway|Wyatt]] have ties
 ###### Appearances
 ###### [[Chapter 1 - The Lumber Festival]]
 - In [[Gilbreives]] there is an information outpost in the southern part, run by a man disguised as a child
