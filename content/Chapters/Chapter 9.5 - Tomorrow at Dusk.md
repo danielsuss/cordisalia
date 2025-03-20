@@ -2,7 +2,7 @@
 draft: 
 aliases:
 ---
-###### Wyatt and Mugwort - Story
+###### Retribution, Cuisine - Story
 The world of Cordisalia, a tapestry of realms each woven with distinct landscapes steeped in ancient magic. Six continents sprawl across its surface, each shaped by the will of one of the divine brothers, in a grandiose event that has come to be known as [[The Coalescence]]. However, that is a story for another time, as for now, our focus falls upon a secluded traveller's tavern nestled within [[Florion's Ridge]], an expansive mountain range lying in the north of the [[Verdant Continent]].
 ![[Traveller's Tavern.png]]
 Inside this tavern, relaxing with a glass of whiskey as the warm hues of sunset begin to fade away, a man on his lonesome. [[Wyatt Holloway]].
