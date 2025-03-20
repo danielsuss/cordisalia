@@ -38,9 +38,9 @@ The prisoner takes in his surroundings, a cold stone maze, before looking to the
 ![[Breaker 1.png]]
 The man puts his hands on his head and cracks his neck.
 ****
-*"Wyatt Holloway. At last. You know, for months I've heard your name whispered in the halls of my most distinguished patrons. Always with a grimace, always with contempt. The troublesome gunslinger, the self-righteous vigilante, the... what did Lord Highvale call you? Ah yes, 'that persistent vermin.' How fitting. You've cost my clients considerable coin and peace of mind with your misguided crusade.
+*"Wyatt Holloway. At last. You know, for months I've heard your name whispered in the halls of my most distinguished patrons. Always with a grimace, always with contempt. The troublesome gunslinger, the self-righteous vigilante, the... what did Lord Highvale call you? Ah yes, 'that persistent vermin.' How fitting. You've cost my clients considerable coin and peace of mind with your misguided crusade.*
 
-*But look at you now. Chains suit you better than that coat, I think. All that righteous fire, all those dramatic rescues, and here you are - just another product in my inventory. I must admit, there's a certain... poetic justice to it. The hero of the downtrodden, soon to be sold to the very aristocrats whose operations you've disrupted.
+*But look at you now. Chains suit you better than that coat, I think. All that righteous fire, all those dramatic rescues, and here you are - just another product in my inventory. I must admit, there's a certain... poetic justice to it. The hero of the downtrodden, soon to be sold to the very aristocrats whose operations you've disrupted.*
 
 *I believe we'll make quite an example of you, Holloway. Perhaps I'll even let you keep your tongue, so you can witness first hand how utterly meaningless your antics have been. After all, what's more devastating than watching everything you've fought for crumble while you serve the very system you sought to destroy?"*
 ****
