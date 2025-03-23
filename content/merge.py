@@ -1,81 +1,99 @@
 import os
-import sys
-from collections import defaultdict
+import re
+import yaml
 
-def merge_markdown_files(input_directory, output_file):
-    """
-    Recursively merge all .md files from the specified directory and its subdirectories 
-    into a single output file, grouped by directory.
+def extract_front_matter(content):
+    """Extract YAML front matter from a markdown file."""
+    match = re.match(r'^---\n(.*?)\n---\n', content, re.DOTALL)
+    if match:
+        try:
+            front_matter = yaml.safe_load(match.group(1))
+            return front_matter, content[match.end():]
+        except yaml.YAMLError:
+            return {}, content
+    return {}, content
+
+def is_draft(file_path):
+    """Check if a file is marked as draft in its front matter."""
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        front_matter, _ = extract_front_matter(content)
+        return front_matter.get('draft') == "true"
+    except Exception as e:
+        print(f"Error reading {file_path}: {e}")
+        return False
+
+def get_markdown_files_by_category():
+    """Get all markdown files categorized by directory."""
+    base_path = os.path.dirname(os.path.abspath(__file__))
+    categories = {}
     
-    Args:
-        input_directory (str): Path to the directory containing .md files
-        output_file (str): Path to the output file where merged content will be saved
-    """
-    # Use a defaultdict to group files by their directory
-    directory_files = defaultdict(list)
-    
-    # Get all .md files in the directory and its subdirectories
-    for root, dirs, files in os.walk(input_directory):
+    for root, _, files in os.walk(base_path):
+        if root == base_path or os.path.basename(root) == "templates" or "Chapter Notes" in root:
+            continue
+            
+        category = os.path.basename(root)
+        if category not in categories:
+            categories[category] = []
+        
         for file in files:
             if file.endswith('.md'):
-                # Get full path and relative path from input directory
                 full_path = os.path.join(root, file)
-                rel_path = os.path.relpath(full_path, input_directory)
-                
-                # Get the directory path relative to input directory
-                rel_dir = os.path.dirname(rel_path)
-                
-                # Store file information
-                directory_files[rel_dir].append({
-                    'filename': file,
-                    'full_path': full_path
-                })
+                if not is_draft(full_path):
+                    # Remove the .md extension
+                    file_name = file[:-3]
+                    categories[category].append(file_name)
     
-    # Open the output file
-    with open(output_file, 'w', encoding='utf-8') as outfile:
-        # Sort directories to ensure consistent output
-        sorted_directories = sorted(directory_files.keys())
-        
-        # Iterate through directories
-        for directory in sorted_directories:
-            # Write directory header if it's not the root directory
-            if directory:
-                outfile.write(f"## Directory: {directory}\n\n")
-            
-            # Sort files within each directory
-            files_in_dir = sorted(directory_files[directory], key=lambda x: x['filename'])
-            
-            # Iterate through files in the directory
-            for file_info in files_in_dir:
-                # Write filename as a subheader
-                outfile.write(f"### {file_info['filename']}\n\n")
-                
-                # Read and write the content of each file
-                with open(file_info['full_path'], 'r', encoding='utf-8') as infile:
-                    outfile.write(infile.read())
-                    
-                    # Add a newline between files to separate content
-                    outfile.write("\n\n")
-    
-    # Count total files merged
-    total_files = sum(len(files) for files in directory_files.values())
-    print(f"Successfully merged {total_files} markdown files into {output_file}")
+    return categories
 
-def main():
-    # Check if correct number of arguments is provided
-    if len(sys.argv) != 3:
-        print("Usage: python merge_markdown.py <input_directory> <output_file>")
-        sys.exit(1)
+def generate_index_content():
+    """Generate the content for index.md."""
+    categories = get_markdown_files_by_category()
     
-    input_directory = sys.argv[1]
-    output_file = sys.argv[2]
+    # Start with the existing header
+    content = """---
+title: Cordisalia
+aliases:
+  - Cordisalia
+---
+Welcome to the world of Cordisalia! Navigate through this wiki using the explorer on the side. ![[World Map.png]]
+"""
     
-    # Validate input directory
-    if not os.path.isdir(input_directory):
-        print(f"Error: {input_directory} is not a valid directory")
-        sys.exit(1)
+    # Define the order of sections and their titles
+    section_order = [
+        ("Chapters", "###### Chapters:"),
+        ("Characters", "###### Characters:"),
+        ("Continents", "###### Continents:"),
+        ("Creatures", "###### Creatures:"),
+        ("Groups", "###### Groups:"),
+        ("Items", "###### Items:"),
+        ("Lore", "###### Lore:"),
+        ("Points of Interest", "###### Points of Interest:"),
+        ("Settlements", "###### Settlements:")
+    ]
     
-    merge_markdown_files(input_directory, output_file)
+    # Add each section
+    for category, header in section_order:
+        if category in categories and categories[category]:
+            content += f"{header}\n"
+            # Sort entries alphabetically
+            for item in sorted(categories[category]):
+                content += f"- [[{item}]]\n"
+            content += "\n"
+    
+    return content
+
+def update_index():
+    """Update the index.md file."""
+    index_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "index.md")
+    content = generate_index_content()
+    
+    with open(index_path, 'w', encoding='utf-8') as f:
+        f.write(content)
+    
+    print("index.md has been updated successfully!")
 
 if __name__ == "__main__":
-    main()
+    update_index()
