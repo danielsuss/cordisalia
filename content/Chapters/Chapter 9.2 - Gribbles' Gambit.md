@@ -1,0 +1,86 @@
+---
+draft: 
+aliases:
+---
+###### Abridged (WIP)
+- [[Mugwort Snaggletooth|Mugwort]] and [[Wyatt Holloway|Wyatt]] gain their senses back after being thrown into the cell
+- [[Gribbles the Gob|Gribbles]] heals [[Wyatt Holloway|Wyatt's]] back from the chain lashes
+- [[Mugwort Snaggletooth|Mugwort]] miscalls [[Wyatt Holloway|Wyatt]] william
+- [[Gribbles the Gob|Gribbles]] yaps on about how hes been in [[The Shacklehold]] for between 4 and 6 years
+- [[Mugwort Snaggletooth|Mugwort]] and [[Wyatt Holloway|Wyatt]] tell eachother about how they ended up in the cell
+- gribbles keeps calling wyatt william
+- 3 days pass of them all getting to know eachother and gribbles yapping
+- gribbles decides they are "worthy"
+- shows them his crude lockpick
+- explains that the strong members of the shacklehold are out on an escort mission in about a week, so they can try to escape then
+- another week passes
+- gribbles unlocks the cell while guards are not looking
+- just as they step out of the cell a guard turns the corner
+- gribbles disarms the guard of his club and chucks it to wyatt
+- mugwort one taps the guard with ray of sickness
+- even the prisoners look at him like what the fuck
+- mugwort and wyatt loot the guard taking money and a dagger
+- wyatt takes the dagger and gives the club to mug
+- gribbles suggests going and finding their gear
+- says it'll either be in the vault or in the master's quarters
+- they decide to go to the vault first
+- on their way deeper and deeper into the shacklehold, they hear monstrous groans getting louder and louder from the depths
+- gribbles yaps on
+- when they get to the vault, their stuff isn't there
+- however they find some money, and wyatt finds a purple hockey puck like gemstone with a glowing rune on it
+- mugwort tastes and gargles the gem, finding that its earthy and sweet and tingly
+- gribbles keeps yapping and yapping
+- they decide to go check the masters quarters for their gear
+- monsterous groans get quieter as they ascend again
+- they get to the master's quarters, gribbles goes to unlock the door
+- due to his yapping two guards show up
+- gribbles hits them with a glue trap before they can do anything, asks wyatt and mug to cover him while he unlocks the door
+- wyatt charges one of the guards with a dagger, badly slicing his arm, before plunging the dagger into his throat and killing him, before stepping back
+- the other guard manages to break free of the glue trap, charging wyatt
+- wyatt narrowly manages to parry his overhead swing with a club
+- mugwort charges the guard on all fours with the club in his mouth
+- he swipes at the guards ankles but the guard somehow manages to parry the attack
+- gribbles finally unlocks the master's quarters door and runs inside,
+- finds one of wyatt's pistols on the desk and throws it to him through the door
+- wyatt catches the gun, twirling it on his finger, before laying off a trickshot
+- he shoots the guards club, ricocheting off the head and hitting him through the eye
+- the guard falls back and dies in the puddle of blood from the other guard
+- mugwort takes all the clubs, and they go into the master's quarters to find their gear
+- to stop gribbles yapping, they decide to stuff his mouth with their socks which he doesn't like
+- mug sniffs the floor to see if he can find any trap doors or crawl spaces, but he ends up getting a nose full of dust instead, making him cough
+- wyatt finds his other gun in one of the desk drawers, albeit crushed
+- apologises to gribbles, who then casts mend on his pistol, taking a lot out of him
+- after regaining his senses, mug finds his pile of stuff in a corner
+- as they are leaving the master's quarters, gribbles sees a scroll on the desk that might be useful
+- it's a buyer's ledger of the slaves
+- gribbles takes it, and they leave, he states that they don't have time now, but they'll come back eventually and free the slaves.
+- they make their way out of the shacklehold and into the [[Highvale Manor]] courtyard, hearing one last groan from whatever is deep below
+- as they get to the courtyard they meet a big brute blocking their entrance
+- brute speaks in gibberish saying gobby no go ahhhr me gobbo
+- gribbles thinks he's speaking to him
+- wyatt shoots the brute with his pistol, hitting him square on in the chests, he takes the bullet stepping back with one foot, blood pouring from the hole. wyatt shoots a second shot tearing a gash in his shoulder
+- mugwort tries to fire off a ray of sickness, however grazes gribbles ear and misses before moving around the fountain
+- the brute picks up a stone slate tile and throws it like a discuss at wyatt, who narrowly ducks underneath it
+- the brute moves towards mugwort
+- gribbles moves a bit back and casts dizzy headache, but the brute shakes it off
+- wyatt moves to be infront of gribbles before firing off another shot, hitting the brute again in the chest
+- mugwort throws a club at the brute, who deflects it with his arms, before skirting around the back of the brute
+- gribbles casts another dizzy headache, this time connecting and disorienting the brute
+- the brute charges at wyatt, however due to the dizzy headache wyatt is able to dodge his double fist overhead slam
+- wyatt fires off a quickshot to the brutes leg
+- gribbles casts another dizzy headache, again confusing the brute
+- the brute shakes it off, and throws down another double fist slam on wyatt, this time connecting
+- mugwort fires off a final ray of sickness hitting the brute in the back of the head, causing him to projectile vomit everywhere
+- gribbles dives and pushes wyatt out of the way, only to get covered from the waste down in vomit
+- mugwort harvests some flesh from the brutes body with his cleaver, storing it in one of the brutes glove.
+- wyatt finds a health potion on his body,
+- mugwort finds a and tastes a sooty rock in a mouse hole type space
+- gribbles urges them to leave quickly so they do.
+- as they run out of the courtyard gate and onto the bridge, a rain of arrows falls on them
+- gribbles gets pierced through the chest with a large arrow, falling to his knees
+- mug and wyatt quickly turn back for the scroll
+- gribbles leaves it to them to come back and free the slaves
+- mug and wyatt run into the forest
+- as they look back they see gribbles smiling
+- gribbles fades into gold dust and blows away in the wind, the arrow dropping from what was once his body
+- mug and wyatt hear one last more serious voice, no longer gribbles' voice, saying "im counting on you", before leaving highvale manor and the shacklehold behind

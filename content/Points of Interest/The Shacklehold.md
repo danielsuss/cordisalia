@@ -13,3 +13,5 @@ aliases:
 |                                                         |                                                                   |
 | ------------------------------------------------------- | ----------------------------------------------------------------- |
 | *Shacklehold Corridors*![[Shacklehold Corridors 1.png]] | *[[Gribbles the Gob\|Gribbles']] Cell*![[Shacklehold Cell 1.png]] |
+| *Patrolling Guard*![[Shacklehold Guard 1.png]]          | *Lackeys on the Job*![[Shacklehold Guards 2.png]]                 |
+

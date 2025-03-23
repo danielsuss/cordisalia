@@ -8,7 +8,7 @@ aliases:
 ###### Overview
 - [[Kaelus]] is a large human man appearing to be working for [[The Shacklehold]]
 ###### Appearances
-###### [[Chapter 9.5 - Tomorrow at Dusk]]
+###### [[Chapter 9.1 - Retribution, Cuisine]]
 - Approached [[Mugwort Snaggletooth]] at his food stall in [[Breisken]] alongside [[Nythria]]
 - Showed interest in [[Mugwort Snaggletooth|Mugwort's]] food while evaluating him as a potential captive
 - Captured [[Mugwort Snaggletooth|Mugwort]] to be sold in the Soulmarket via [[The Shacklehold]]

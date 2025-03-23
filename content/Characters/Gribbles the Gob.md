@@ -1,6 +1,8 @@
 ---
 draft: 
 aliases:
+  - Gribbles
+  - Gribbles'
 ---
 *Human Male 65 ???*
 ![[Gribbles.png]]

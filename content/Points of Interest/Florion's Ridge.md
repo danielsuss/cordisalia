@@ -14,7 +14,7 @@ aliases:
 - The gang travelled through [[Florion's Ridge]] on their journey to [[Wyrmsgard]]
 - They encountered [[Halibon]], a friendly goblin who provided them shelter from the rain
 - They discovered [[Florion's Sanctum]], a sacred area guarded by armoured men who only allow entry to those deemed worthy
-###### [[Chapter 9.5 - Tomorrow at Dusk]]
+###### [[Chapter 9.1 - Retribution, Cuisine]]
 - A secluded traveller's tavern is located somewhere within [[Florion's Ridge]]
 - Wyatt Holloway was staying at this tavern when he met [[Lyle]], who tricked him into being captured
 ###### Gallery
