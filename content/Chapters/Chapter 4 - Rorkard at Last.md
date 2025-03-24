@@ -2,8 +2,12 @@
 draft: 
 aliases:
 ---
+
 ###### Abridged (WIP)
+- elinor 
 - Gang learn more about [[Liri]] at [[Elinor's Cabin]]
+- elinor gets liri to speak, offering her a thimble of tea
+- brogan and woo subtly inspect the room for anything they can steal
 - Gang helped [[Elinor]] by killing the [[Boar|Boars]] and the [[Giant Boar]]
 - finally made it to [[Rorkard]] and were greeted by a fisherman
 - [[Ysgarlad]] and [[Liri]] Delivered a cake to [[Sarmon]] at the [[Rocky Refuge]]
