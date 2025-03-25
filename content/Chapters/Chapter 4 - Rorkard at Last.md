@@ -2,7 +2,6 @@
 draft: 
 aliases:
 ---
-
 ###### Abridged (WIP)
 - elinor 
 - Gang learn more about [[Liri]] at [[Elinor's Cabin]]

@@ -3,8 +3,9 @@ title: Cordisalia
 aliases:
   - Cordisalia
 ---
-Welcome to the world of Cordisalia! Navigate through this wiki using the explorer on the side. ![[World Map.png]]
-###### Chapters:
+# Welcome to the World of Cordisalia!
+![[World Map.png]]
+## Story Chapters
 - [[Chapter 1 - The Lumber Festival]]
 - [[Chapter 2 - Into the Verdant Forest]]
 - [[Chapter 3 - The Dangling Tradesman]]
@@ -16,102 +17,23 @@ Welcome to the world of Cordisalia! Navigate through this wiki using the explore
 - [[Chapter 9 - Florion's Tears]]
 - [[Chapter 9.1 - Retribution, Cuisine]]
 - [[Chapter 9.2 - Gribbles' Gambit]]
-###### Characters:
-- [[Amara]]
-- [[Brogan Stone-Flask]]
-- [[Crausse]]
-- [[Elinor]]
-- [[Evie]]
-- [[Francindo]]
-- [[Gaffot]]
-- [[Gribbles the Gob]]
-- [[Grink Growheart]]
-- [[Gronk Growheart]]
-- [[Halibon]]
-- [[Hoagle]]
-- [[Hooded Man]]
-- [[Kaelus]]
-- [[Kiara]]
-- [[Korgar the Spiked Menace]]
-- [[Liri]]
-- [[Lunette Emberfall]]
-- [[Lyle]]
-- [[Merek]]
-- [[Mirabel Emberfall]]
-- [[Morgrith the Mother]]
-- [[Morgrith's Servant]]
-- [[Mugwort Snaggletooth]]
-- [[Norbert]]
-- [[Nythria]]
-- [[Orson Emberfall]]
-- [[Quin Fellbrook]]
-- [[Rowena Growheart]]
-- [[Runesmith]]
-- [[Sarmon]]
-- [[Shanya]]
-- [[The Willbreaker]]
-- [[Varthis the Cursed]]
-- [[Wren Briarwood]]
-- [[Wyatt Holloway]]
-- [[Ylvëstrïa Wuvarion]]
-- [[Ysgarlad]]
-###### Continents:
-- [[Verdant Continent]]
-###### Creatures:
-- [[Amara's Red Wolves]]
-- [[Boar]]
-- [[Giant Boar]]
-- [[Kobold]]
-- [[Tuskhoof]]
-- [[Winged Kobold]]
-###### Groups:
-- [[Cannibals of Gloomstone Cavern]]
-- [[Cruster Guild]]
-- [[Post Mortem]]
-- [[Shimmernail Guild]]
-###### Items:
-- [[Aetherquartz]]
-- [[Aetherquartz Powder]]
-- [[Aetherquartz Ring]]
-- [[Berserker Potion]]
-- [[Circlet of the Occult]]
-- [[Emerald Axe]]
-- [[Fragment of the Eternal Shadow]]
-- [[Korgar's Greatclub]]
-- [[Odd Stone]]
-- [[Orb of Varthis]]
-- [[Orson's Longswords]]
-- [[Orson's Scarf]]
-- [[Quin's Spice Blend]]
-###### Lore:
-- [[Lumber Festival]]
-- [[Shears Parchment Pebble]]
-- [[The Coalescence]]
-###### Points of Interest:
-- [[Abandoned Thieves Guild]]
-- [[Elinor's Cabin]]
-- [[Florion's Ridge]]
-- [[Florion's Tear]]
-- [[Gilbreives Town Hall]]
-- [[Gloomstone Cavern]]
-- [[Great Tree of Gilbreives]]
-- [[Haldor Shop]]
-- [[Highvale Manor]]
-- [[Ironhand Forge]]
-- [[Lythorax's Roost]]
-- [[Morgrith's Lair]]
-- [[Norbert's General]]
-- [[River Midwood]]
-- [[Rocky Refuge]]
-- [[Rorkard Sewers]]
-- [[Sleepy Leaf]]
-- [[Spirit Reader Shanya's]]
-- [[The Shacklehold]]
-- [[Verdant Forest]]
-- [[Windward Food Market]]
-###### Settlements:
-- [[Breisken]]
-- [[Gilbreives]]
-- [[Kalskog]]
+## Explore By Category
+- [Characters](https://cordisalia.pages.dev/Characters/)
+- [Creatures](https://cordisalia.pages.dev/Creatures/)
+- [Groups](https://cordisalia.pages.dev/Groups/)
+- [Continents](https://cordisalia.pages.dev/Continents/)
+- [Settlements](https://cordisalia.pages.dev/Settlements/)
+- [Points of Interest](https://cordisalia.pages.dev/Points-of-Interest/)
+- [Lore](https://cordisalia.pages.dev/Lore/)
+- [Items](https://cordisalia.pages.dev/Items/)
+## Recently Added / Updated
 - [[Rorkard]]
-- [[Wyrmsgard]]
+- [[Kalskog]]
+- [[Gilbreives]]
+- [[Breisken]]
+- [[Windward Food Market]]
+- [[Ysgarlad]]
+- [[Verdant Forest]]
+- [[The Shacklehold]]
+- [[Highvale Manor]]
+- [[Gribbles the Gob]]
