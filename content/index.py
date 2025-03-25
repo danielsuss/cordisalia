@@ -121,12 +121,23 @@ def format_wiki_link(file_path):
     # Obsidian style uses just the filename in double brackets
     return f"[[{file_name}]]"
 
-def collect_image_links():
+def extract_note_title_from_path(file_path):
+    """Extract the note title from the file path where the image was found."""
+    # Get directory and file name without extension
+    dir_name = os.path.dirname(file_path) if os.path.dirname(file_path) else "Root"
+    file_name = os.path.splitext(os.path.basename(file_path))[0]
+    
+    # Use the file name as the note title
+    return file_name
+
+def collect_image_links_with_context():
     """
-    Collect all unique image links from non-draft files, excluding specific directories.
-    Returns a randomized list of image links.
+    Collect unique image links from non-draft files, excluding specific directories.
+    Returns a randomized list of image links with their source file information.
+    Prevents duplicates based on image filename.
     """
-    image_links = set()
+    # Dictionary to track images by filename
+    unique_images = {}
     
     for root, dirs, files in os.walk('.'):
         # Skip the root directory and excluded directories
@@ -151,30 +162,38 @@ def collect_image_links():
                     image_link_pattern = r'!\[\[(.*?)\]\]'
                     links = re.findall(image_link_pattern, content)
                     
-                    # Add links to the set (automatically handles duplicates)
+                    # Get the note title for context
+                    note_title = extract_note_title_from_path(file_path)
+                    
+                    # Add links to the dictionary, using image name as key to prevent duplicates
                     for link in links:
-                        image_links.add(f"![[{link}]]")
+                        # Use the image filename as the key to prevent duplicates
+                        if link not in unique_images:
+                            unique_images[link] = (link, note_title)
+                            
                 except Exception as e:
                     print(f"Error processing {file_path}: {e}")
     
-    # Convert set to list and randomize
-    image_links_list = list(image_links)
-    random.shuffle(image_links_list)
+    # Convert dictionary values to list
+    image_links_with_context = list(unique_images.values())
     
-    return image_links_list
+    # Randomize the list
+    random.shuffle(image_links_with_context)
+    
+    return image_links_with_context
 
-def create_gallery_table(image_links, columns=3):
+def create_gallery_table(image_links_with_context, columns=3):
     """
     Create a markdown table with the given image links distributed across columns.
     
     Args:
-        image_links: List of image links
+        image_links_with_context: List of tuples (image_name, note_title)
         columns: Number of columns in the table
     
     Returns:
         A formatted markdown table as a string
     """
-    if not image_links:
+    if not image_links_with_context:
         return "No images found to create gallery."
     
     # Initialize table
@@ -182,15 +201,18 @@ def create_gallery_table(image_links, columns=3):
     table += "|---|---|---|\n"
     
     # Calculate how many rows we need
-    rows = (len(image_links) + columns - 1) // columns
+    rows = (len(image_links_with_context) + columns - 1) // columns
     
     # Create each row
     for row in range(rows):
         row_content = "|"
         for col in range(columns):
             idx = row * columns + col
-            if idx < len(image_links):
-                row_content += f" {image_links[idx]} |"
+            if idx < len(image_links_with_context):
+                img_name, note_title = image_links_with_context[idx]
+                # Format as [![[image.png]]](<Title of note>)
+                formatted_link = f"[![[{img_name}]]](<{note_title}>)"
+                row_content += f" {formatted_link} |"
             else:
                 row_content += " |"
         table += row_content + "\n"
@@ -244,10 +266,10 @@ def update_index_file():
         recently_updated += "No recently updated files found."
     
     # Collect image links for the gallery
-    image_links = collect_image_links()
+    image_links_with_context = collect_image_links_with_context()
     
     # Create the image gallery
-    gallery_table = create_gallery_table(image_links)
+    gallery_table = create_gallery_table(image_links_with_context)
     
     # Assemble the updated index.md content
     updated_content = (
@@ -261,12 +283,7 @@ def update_index_file():
         file.write(updated_content)
     
     print(f"Updated index.md with {len(chapter_files)} chapters and {len(unique_recent_files)} recently updated files.")
-    print(f"Added a gallery with {len(image_links)} random images.")
+    print(f"Added a gallery with {len(image_links_with_context)} random images.")
 
 if __name__ == "__main__":
     update_index_file()
-    
-    # Collect and print image links
-    print("\nCollecting image links from all non-excluded, non-draft files...")
-    image_links = collect_image_links()
-    print(f"Found {len(image_links)} unique image links.")
