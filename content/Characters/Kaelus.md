@@ -6,7 +6,7 @@ aliases:
 ![[Kaelus.png]]
 > *All right all right calm yourself just a lil' friendly on the job nickname that's all, anyhow gobbers, we'd like to try some of your slop and mead.*
 ###### Overview
-- [[Kaelus]] is a large human man appearing to be working for [[The Shacklehold]]
+- [[Kaelus]] is a man appearing to be working for [[The Shacklehold]]
 ###### Appearances
 ###### [[Chapter 9.1 - Retribution, Cuisine]]
 - Approached [[Mugwort Snaggletooth]] at his food stall in [[Breisken]] alongside [[Nythria]]

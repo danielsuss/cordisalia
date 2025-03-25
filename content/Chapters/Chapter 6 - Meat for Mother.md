@@ -44,7 +44,7 @@ aliases:
 - she doesn't know for how long
 - [[Liri]] comes back and says she found the way to [[Rorkard]]
 - gang follows [[Liri]]
-- in the forest they get ambushed by a [[Bugbear]] and his crew of [[Goblin|Goblins]]
+- in the forest they get ambushed by a group of [[Bugbear|Bugbears]]
 - they throw javelins and arrows, but the gang manages to successfully avoid any damage
 - just as combat is about to start, [[Liri]] flies in, glowing purple, and screams at the monsters to leave her friends alone
 - the monsters eyes go from glowing red to glowing purple, and they turn around and scatter into the forest

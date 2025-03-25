@@ -4,7 +4,7 @@ aliases:
 ---
 *Half-Orc Male 28 [[Gloomstone Cavern]]*
 ![[Pasted image 20240611203608.png]]
-> **
+> *GARRRR I WILL FEAST ON YOUR CORPSE!*
 ###### Overview
 - [[Korgar the Spiked Menace]] was one of the [[Cannibals of Gloomstone Cavern]]
 - He was a strong melee warrior, adept with a Greatclub

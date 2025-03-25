@@ -1,166 +1,6 @@
 ---
-draft: "true"
+draft: 'true'
 ---
-
-### index.md
-
----
-title: Cordisalia
----
-Welcome to the world of Cordisalia! Navigate through this wiki using the explorer on the side. ![[World Map.png]]
-
-###### Chapters:
-
-- [[Chapter 1 - The Lumber Festival]]
-- [[Chapter 2 - Into the Verdant Forest]]
-- [[Chapter 3 - The Dangling Tradesman]]
-- [[Chapter 4 - Rorkard at Last]]
-- [[Chapter 5 - Kiara's Deception]]
-- [[Chapter 6 - Meat for Mother]]
-- [[Chapter 7 - Morgrith's Final Banquet]]
-- [[Chapter 8 - Surprise Attack!]]
-- [[Chapter 9 - Florion's Tears]]
-
-###### Characters:
-
-- [[Amara]]
-- [[Brogan Stone-Flask]]
-- [[Ciaran Emberfall]]
-- [[Crystus]]
-- [[Elinor]]
-- [[Francindo]]
-- [[Gaffot]]
-- [[Gorbold the Gorgeful]]
-- [[Grink Growheart]]
-- [[Gronk Growheart]]
-- [[Halibon]]
-- [[Hoagle]]
-- [[Hooded Man]]
-- [[Kiara]]
-- [[Korgar the Spiked Menace]]
-- [[Liri]]
-- [[Lunette Emberfall]]
-- [[Merek]]
-- [[Mirabel Emberfall]]
-- [[Morgrith the Mother]]
-- [[Morgrith's Servant]]
-- [[Mugwort Snaggletooth]]
-- [[Norbert]]
-- [[Orson Emberfall]]
-- [[Quin Fellbrook]]
-- [[Rowena Growheart]]
-- [[Runesmith]]
-- [[Sarmon]]
-- [[Shanya]]
-- [[Varthis the Cursed]]
-- [[Wren Briarwood]]
-- [[Wyatt Holloway]]
-- [[Ylvëstrïa Wuvarion]]
-- [[Ysgarlad]]
-
-###### Continents:
-
-- [[Arid Continent]]
-- [[Burning Expanse]]
-- [[Frozen Highlands]]
-- [[Sunken Abyss]]
-- [[The Mirage]]
-- [[Verdant Continent]]
-
-###### Creatures:
-
-- [[Amara's Red Wolves]]
-- [[Boar]]
-- [[Bugbear]]
-- [[Giant Boar]]
-- [[Goblin]]
-- [[Kobold]]
-- [[Skeleton]]
-- [[Tuskhoof]]
-- [[Winged Kobold]]
-
-###### Groups:
-
-- [[Cannibals of Gloomstone Cavern]]
-- [[Cruster Guild]]
-- [[Post Mortem]]
-
-###### Items:
-
-- [[Aetherquartz Powder]]
-- [[Aetherquartz Ring]]
-- [[Aetherquartz]]
-- [[Berserker Potion]]
-- [[Circlet of the Occult]]
-- [[Emerald Axe]]
-- [[Fragment of the Eternal Shadow]]
-- [[Korgar's Greatclub]]
-- [[Lesser Green Lodestone]]
-- [[Lodestone]]
-- [[Odd Stone]]
-- [[Orb of Varthis]]
-- [[Orson's Longswords]]
-- [[Orson's Scarf]]
-- [[Quin's Spice Blend]]
-
-###### Lore:
-
-- [[Aladaroth, the Ancient Sentinel]]
-- [[Arcane Smith]]
-- [[Ctharun, Wrath of the Abyss]]
-- [[Eternal Shadow]]
-- [[Everlasting Light]]
-- [[Florion]]
-- [[God Heart]]
-- [[Illusia]]
-- [[Infernox, the Blaze Sovereign]]
-- [[Lumber Festival]]
-- [[Miragor, Scourge of the Sands]]
-- [[Pyraust]]
-- [[Regnaris]]
-- [[Regnir, Soldier of the Storm]]
-- [[Serrok]]
-- [[Shambari, the Dream Weaver]]
-- [[Shears Parchment Pebble]]
-- [[Skogbrew]]
-- [[Solidon]]
-- [[Spiritual Plane]]
-- [[The Coalescence]]
-- [[War of the Spiritual Plane]]
-
-###### Points of Interest:
-
-- [[Abandoned Thieves Guild]]
-- [[Elinor's Cabin]]
-- [[Emberfall Household]]
-- [[Florion's Ridge]]
-- [[Florion's Sanctum]]
-- [[Florion's Tear]]
-- [[Gilbreives Town Hall]]
-- [[Gloomstone Cavern]]
-- [[Great Tree of Gilbreives]]
-- [[Ironhand Forge]]
-- [[Morgrith's Lair]]
-- [[Norbert's General]]
-- [[River Midwood]]
-- [[Rocky Refuge]]
-- [[Rorkard Sewers]]
-- [[Sleepy Leaf]]
-- [[Spirit Reader Shanya's]]
-- [[Verdant Forest]]
-
-###### Settlements:
-
-- [[Bay of Groves]]
-- [[Breisken]]
-- [[City of Isdal]]
-- [[City of Virridius]]
-- [[Gilbreives]]
-- [[Kalskog]]
-- [[Lynhaven]]
-- [[Rorkard]]
-- [[Snøhaven]]
-- [[Wyrmsgard]]
 
 ## Directory: Chapter Notes
 
@@ -692,6 +532,69 @@ draft: "true"
 - if on the same day as meeting the fisherman crystus enters behind them
 - tells them of the myth of how the world came to be
 - "are you familiar with the story of the coalesence"
+
+****
+# Story
+![[Pasted image 20240423003101.png]]
+After accepting the invitation of tea and biscuits, the gang are now sitting in the cosy warm interior that is Elinor’s cabin. A nice log fire crackles away from the edge of the room.
+```
+Hoagle:
+	So Elinor, how ya been? You made any more of that wonderful fruit cake of yours lately?
+```
+```
+Elinor:
+	Oh Hoagle, you know me too well. Of course I have!
+```
+Elinor walks in from the kitchen carrying a large tray. On the tray a pot of tea, a set of cups and saucers, a large round cake, and a thimble.
+```
+Hoagle:
+	Oh just you wait til you get a try of this cake guys. Blissful stuff.
+```
+Elinor chuckles and places the tray down on the table in the middle of the room, before offering around a steaming cup of tea and a generous piece of fruit cake to each of her visitors. She pours some tea in the thimble and offers it to the sprite, who is seated between Ysgarlad and Brogan on a sofa. She nervously takes the thimble with both of her hands.
+```
+???:
+	Th-thank you..
+```
+The sprite takes a small worried sip from the tea. Seemingly more at ease, her cheeks gain a nice rosy glow.
+```
+Elinor:
+	You’re welcome little one. You’re a long way from home aren’t you? Tell me, what is your name?
+```
+The sprite hesitates and takes another sip of tea.
+```
+???:
+	M- my… my name is Liri!
+```
+She manages to shout her name with her eyes closed, after a moment of realisation she opens her eyes again, meeting a room of smiles. Her cheeks fade from pink to red, and she takes another sip of tea.
+```
+Elinor:
+	Well Liri, thank you for coming to visit me, it is wonderful to have your company.
+```
+Elinor’s voice seems to soothe Liri, and as more tea is sipped, and more conversation had, she seems to be enjoying the atmosphere around her just as much as everyone else.
+****
+After an afternoon of relaxing, and after Hoagle’s fourth iteration of how great the gang was in rescuing him, Ysgarlad, Brogan and Woo decide it’s time to be on their way, they still have half a day’s journey before they reach Rorkard.
+```
+Elinor:
+	Wait just a moment please! If you mind, I do have one request. You see, the boars of this here forest, they’ve gone mad!
+```
+The gang give each other a knowing glance, Brogan rubbing his thumb over his thigh in the spot that a couple days ago had a hole in it.
+```
+Elinor:
+	You see, every night, they come and wreak havoc on my precious garden! I don’t know what to do. I’ve tried peaceful means, but to no avail. I’m wondering that if they are met with some resistance, that they might finally get the message and leave my poor crops alone. However, my fighting days are over, and i’m afraid well, as you know, Hoagle really isn’t the strong sort.
+```
+Hoagle clenches his fists and starts to protest, only to sigh, shrug his shoulders and look at the floor.
+```
+Elinor:
+	Could you three stay a while longer and see if you can sort them out? I can pay, and you’d be welcome to stay this evening in my cabin. It’s much nicer travelling through the Verdant Forest when the sun is high anyway.
+```
+After a brief discussion with each other, with [[Ylvëstrïa Wuvarion|Woo]] stating that she’d rather they be on their way, the gang reaches an agreement.
+```
+Ysgarlad:
+	Alright Elinor, we’ll give you a hand, especially after you’ve treated us so well.
+```
+Elinor smiles back gratefully and states her thanks.
+****
+![[Pasted image 20240423013153.png]]
 
 ### Chapter 5.md
 
@@ -1789,7 +1692,10 @@ draft:
 aliases:
 ---
 ###### Abridged (WIP)
+- elinor 
 - Gang learn more about [[Liri]] at [[Elinor's Cabin]]
+- elinor gets liri to speak, offering her a thimble of tea
+- brogan and woo subtly inspect the room for anything they can steal
 - Gang helped [[Elinor]] by killing the [[Boar|Boars]] and the [[Giant Boar]]
 - finally made it to [[Rorkard]] and were greeted by a fisherman
 - [[Ysgarlad]] and [[Liri]] Delivered a cake to [[Sarmon]] at the [[Rocky Refuge]]
@@ -2145,7 +2051,7 @@ aliases:
 - they see a giant cliff face ahead of them, and upon closer inspection they look up and can see a village at the top of the cliff
 - as they are looking at the village, they feel coming from behind them, and suddenly a pure white dragon is over head, flying towards [[Wyrmsgard]]
 
-### Chapter 9.5 - Tomorrow at Dusk.md
+### Chapter 9.1 - Retribution, Cuisine.md
 
 ---
 draft: 
@@ -2163,12 +2069,12 @@ As you sit in this quiet tavern, ruminating over your past decisions, your atten
 ![[Lyle.png]]
 He introduces himself as [[Lyle]], explains he's a fan of your work, offers to buy you another round. You don't know how he knows who you are, especially in a place out in the boonies like this tavern, but for some reason you feel, warmed. As you two drink and converse together, you even feel yourself, weirdly, beginning to enjoy his company. Soon enough, his expression stiffens. He puts down his drink, and looks you in the eye. "What do you know of [[Highvale Manor]]?" He asks. You learn of the Highvale family, one of the families core to [[Wyrmsgard|Wyrmsgard's]] aristocracy, and their estate, [[Highvale Manor]]. [[Lyle]] explains how this estate is in fact, as corrupt as it gets. Its not common knowledge, but underneath the manor lies a prison, known as [[The Shacklehold]]. A prison where slaves and other highly sought after creatures are held in captivity, eventually to be sold into the [[Verdant Continent|Verdant Continent's]] Soulmarket. He slams his fists into the table, anger washing over his face. Then he looks back to you, with a glare so intense, you feel it deep within. "My group is planning a raid, tomorrow night." he says, his expression unwavering. "We'd be honoured to have you join us in liberating what poor souls lie beneath Highvale soil." After a moment, you nod back to him, feeling inspired by his fierceness. "This is where we will meet. Tomorrow at dusk." He says handing you a map. As you feel the coarse paper touch your fingers, you close your eyes, and you can almost see the words appear visibly in your head, tomorrow at dusk. When you open them again, you see [[Lyle]] wave at you with a grin, on his way out of the tavern. You don't think much of it, and you decide its best to get some rest, heading for your room, your head hitting the pillow hard. As your eyes close, you see the words again, tomorrow at dusk.
 ****
-As [[Wyatt Holloway|Wyatt Holloway's]] consciousness fades, our focus shifts on to a different part of the [[Verdant Continent]]. The windswept port city of [[Breisken]], about two weeks prior. This is a city brimming with trade, prosper, and souls arriving in the [[Verdant Continent]] from distant lands, in search of whatever their future might hold for them. A city rich with culture, one of its most notorious hotspots is its bustling and diverse food market.
+As [[Wyatt Holloway|Wyatt Holloway's]] consciousness fades, our focus shifts on to a different part of the [[Verdant Continent]]. The windswept port city of [[Breisken]], about two weeks prior. This is a city brimming with trade, prosper, and souls arriving in the [[Verdant Continent]] from distant lands, in search of whatever their future might hold for them. A city rich with culture, one of its most notorious hotspots is the bustling and diverse [[Windward Food Market]].
 ![[Breisken Foodcourt.png]]
 For the many who hold a stall here, business today would be no different than usual, however for one green chef, today would be monumental. His first day cooking for the crowds of [[Breisken]], let alone the rest of the [[Verdant Continent]]. Preparing a small food stall nestled in a corner of the market, [[Mugwort Snaggletooth]].
 ![[Mugwort 2.png]]
 ****
-You were once a well respected guild cook in the busy markets of [[The Mirage]]. Born into the Snaggletooth clan, a family known for their culinary traditions, you inherited an exceptional sense of taste and smell that set you apart from your peers. From a young age, you showed a natural talent for combining unlikely ingredients into surprisingly delectable concoctions. For fifteen years, you served as the head cook for the [[Shimmernail Guild]], a modestly successful trading collective that specialized in exotic spices and rare ingredients. Your signature dish became something of a legend among guild members and locals alike. A hearty, bubbling stew, that eventually became coloquially known as "Slop". Many gathered over the years to enjoy your cuisine, yet, none ever came to realise that the secret lay not in the stew itself, but in your special fermented mead, that you both cooked with and served alongside the meal. However, your rising popularity would soon become your downfall. The guild's leadership, primarily concerned with profits, attempted to force you to reveal your secret recipe so that they could mass produce Slop to sell throughout [[The Mirage]]. You refused, claiming that your culinary arts were meant to be experienced freshly made, rather than bottled and commodified. Infuriated at your lack of cooperation, the guild leaders mocked you publically, calling your principles "foolish", and your food "just soup and beer" that any goblin could make. Deeply insulted, and with your culinary reputation in tatters among the guild elites, you decided to leave the [[Shimmernail Guild|Shimmernail]] behind. Taking only your cooking implements, spice collection, and your trusty brewing equipment, you set out to prove that your cooking wasn't in fact just soup and beer that any goblin could make. You knew the difference in your heart and you wanted to show that to the world. To enlighten those around you to the beauty of slop and mead. Over the past two years, you traveled extensively – first upwards through [[The Mirage|The Mirage's]] various settlements, then following trade routes along the icy coast of the [[Frozen Highlands]]. Along the way, you set up temporary food stalls in countless marketplaces, offering slop and mead to anyone willing to try it. Your energetic personality and passionate (if sometimes long-winded) explanations of your cooking techniques made you a memorable character in many ports, mainly due to your enthusiasm often exceeding the patience of your audience. In many markets, particularly those you visited multiple times, locals began to roll their eyes when they saw you approach with your portable cooking station. "Here comes the goblin with his slop sermon again," they'd say, rudely declining your latest culinary innovations. Recently, you parted from the harbour of [[Snøhaven]] in the [[Frozen Highlands]], embarking across the vast cold ocean in search of new culinary horizons. You've since just arrived in [[Breisken]]. Here, amidst the cosmopolitan mix of travelers and locals, you have been hoping to finally find some souls that will share the passion for slop and mead that you do.
+You were once a well respected guild cook in the busy markets of [[The Mirage]]. Born into the Snaggletooth clan, a family known for their culinary traditions, you inherited an exceptional sense of taste and smell that set you apart from your peers. From a young age, you showed a natural talent for combining unlikely ingredients into surprisingly delectable concoctions. For fifteen years, you served as the head cook for the [[Shimmernail Guild]], a modestly successful trading collective that specialized in exotic spices and rare ingredients. Your signature dish became something of a legend among guild members and locals alike. A hearty, bubbling stew, that eventually became coloquially known as "Slop". Many gathered over the years to enjoy your cuisine, yet, none ever came to realise that the secret lay not in the stew itself, but in your special fermented mead, that you both cooked with and served alongside the meal. However, your rising popularity would soon become your downfall. The guild's leadership, primarily concerned with profits, attempted to force you to reveal your secret recipe so that they could mass produce Slop to sell throughout [[The Mirage]]. You refused, claiming that your culinary arts were meant to be experienced freshly made, rather than bottled and commodified. Infuriated at your lack of cooperation, the guild leaders mocked you publically, calling your principles "foolish", and your food "just soup and beer" that any goblin could make. Deeply insulted, and with your culinary reputation in tatters among the guild elites, you decided to leave the [[Shimmernail Guild|Shimmernail]] behind. Taking only your cooking implements, spice collection, and your trusty brewing equipment, you set out to prove that your cooking wasn't in fact just soup and beer that any goblin could make. You knew the difference in your heart and you wanted to show that to the world. To enlighten those around you to the beauty of slop and mead. Over the past two years, you traveled extensively – first upwards through [[The Mirage|The Mirage's]] various settlements, then following trade routes along the icy coast of the [[Frozen Highlands]]. Along the way, you set up temporary food stalls in countless marketplaces, offering slop and mead to anyone willing to try it. Your energetic personality and passionate (if sometimes long-winded) explanations of your cooking techniques made you a memorable character in many ports, mainly due to your enthusiasm often exceeding the patience of your audience. In many markets, particularly those you visited multiple times, locals began to roll their eyes when they saw you approach with your portable cooking station. "Here comes the goblin with his slop sermon again," they'd say, rudely declining your latest culinary innovations. Recently, you parted from the harbour of [[Snøhaven]] in the [[Frozen Highlands]], embarking across the vast cold ocean in search of new culinary horizons. You've since just arrived in [[Breisken]]. Here, amidst the cosmopolitan mix of travellers and locals, you have been hoping to finally find some souls that will share the passion for slop and mead that you do.
 ****
 After having set up your stall about two hours ago, you've been patiently wait for any potential customers to show interest. After checking your mead keg, and going to stir your slop cauldron, you double take in excitement. Two figures standing in front of your stall. One, a large man with a welcoming smile.
 ![[Kaelus 1.png]]
@@ -2195,8 +2101,95 @@ The man puts his hands on his head and cracks his neck.
 ****
 Chains drop from his sleeves, and with a grunt, he whips [[Wyatt Holloway|Wyatt]] across his back. He throws one of [[Wyatt Holloway|Wyatt's]] pistols on the floor in front of him, and snaps it in two with nothing but his boot. The man puts his hands on his head and cracks his neck again. He laughs, before nodding to the guards and walking away. The guards throw [[Wyatt Holloway|Wyatt]] into a nearby cell.
 ![[Shacklehold Cell.png]]
-###### Abridged (WIP)
 
+### Chapter 9.2 - Gribbles' Gambit.md
+
+---
+draft: 
+aliases:
+---
+###### Abridged (WIP)
+- [[Mugwort Snaggletooth|Mugwort]] and [[Wyatt Holloway|Wyatt]] gain their senses back after being thrown into the cell
+- [[Gribbles the Gob|Gribbles]] heals [[Wyatt Holloway|Wyatt's]] back from the chain lashes
+- [[Mugwort Snaggletooth|Mugwort]] miscalls [[Wyatt Holloway|Wyatt]] william
+- [[Gribbles the Gob|Gribbles]] yaps on about how hes been in [[The Shacklehold]] for between 4 and 6 years
+- [[Mugwort Snaggletooth|Mugwort]] and [[Wyatt Holloway|Wyatt]] tell eachother about how they ended up in the cell
+- gribbles keeps calling wyatt william
+- 3 days pass of them all getting to know eachother and gribbles yapping
+- gribbles decides they are "worthy"
+- shows them his crude lockpick
+- explains that the strong members of the shacklehold are out on an escort mission in about a week, so they can try to escape then
+- another week passes
+- gribbles unlocks the cell while guards are not looking
+- just as they step out of the cell a guard turns the corner
+- gribbles disarms the guard of his club and chucks it to wyatt
+- mugwort one taps the guard with ray of sickness
+- even the prisoners look at him like what the fuck
+- mugwort and wyatt loot the guard taking money and a dagger
+- wyatt takes the dagger and gives the club to mug
+- gribbles suggests going and finding their gear
+- says it'll either be in the vault or in the master's quarters
+- they decide to go to the vault first
+- on their way deeper and deeper into the shacklehold, they hear monstrous groans getting louder and louder from the depths
+- gribbles yaps on
+- when they get to the vault, their stuff isn't there
+- however they find some money, and wyatt finds a purple hockey puck like gemstone with a glowing rune on it
+- mugwort tastes and gargles the gem, finding that its earthy and sweet and tingly
+- gribbles keeps yapping and yapping
+- they decide to go check the masters quarters for their gear
+- monsterous groans get quieter as they ascend again
+- they get to the master's quarters, gribbles goes to unlock the door
+- due to his yapping two guards show up
+- gribbles hits them with a glue trap before they can do anything, asks wyatt and mug to cover him while he unlocks the door
+- wyatt charges one of the guards with a dagger, badly slicing his arm, before plunging the dagger into his throat and killing him, before stepping back
+- the other guard manages to break free of the glue trap, charging wyatt
+- wyatt narrowly manages to parry his overhead swing with a club
+- mugwort charges the guard on all fours with the club in his mouth
+- he swipes at the guards ankles but the guard somehow manages to parry the attack
+- gribbles finally unlocks the master's quarters door and runs inside,
+- finds one of wyatt's pistols on the desk and throws it to him through the door
+- wyatt catches the gun, twirling it on his finger, before laying off a trickshot
+- he shoots the guards club, ricocheting off the head and hitting him through the eye
+- the guard falls back and dies in the puddle of blood from the other guard
+- mugwort takes all the clubs, and they go into the master's quarters to find their gear
+- to stop gribbles yapping, they decide to stuff his mouth with their socks which he doesn't like
+- mug sniffs the floor to see if he can find any trap doors or crawl spaces, but he ends up getting a nose full of dust instead, making him cough
+- wyatt finds his other gun in one of the desk drawers, albeit crushed
+- apologises to gribbles, who then casts mend on his pistol, taking a lot out of him
+- after regaining his senses, mug finds his pile of stuff in a corner
+- as they are leaving the master's quarters, gribbles sees a scroll on the desk that might be useful
+- it's a buyer's ledger of the slaves
+- gribbles takes it, and they leave, he states that they don't have time now, but they'll come back eventually and free the slaves.
+- they make their way out of the shacklehold and into the [[Highvale Manor]] courtyard, hearing one last groan from whatever is deep below
+- as they get to the courtyard they meet a big brute blocking their entrance
+- brute speaks in gibberish saying gobby no go ahhhr me gobbo
+- gribbles thinks he's speaking to him
+- wyatt shoots the brute with his pistol, hitting him square on in the chests, he takes the bullet stepping back with one foot, blood pouring from the hole. wyatt shoots a second shot tearing a gash in his shoulder
+- mugwort tries to fire off a ray of sickness, however grazes gribbles ear and misses before moving around the fountain
+- the brute picks up a stone slate tile and throws it like a discuss at wyatt, who narrowly ducks underneath it
+- the brute moves towards mugwort
+- gribbles moves a bit back and casts dizzy headache, but the brute shakes it off
+- wyatt moves to be infront of gribbles before firing off another shot, hitting the brute again in the chest
+- mugwort throws a club at the brute, who deflects it with his arms, before skirting around the back of the brute
+- gribbles casts another dizzy headache, this time connecting and disorienting the brute
+- the brute charges at wyatt, however due to the dizzy headache wyatt is able to dodge his double fist overhead slam
+- wyatt fires off a quickshot to the brutes leg
+- gribbles casts another dizzy headache, again confusing the brute
+- the brute shakes it off, and throws down another double fist slam on wyatt, this time connecting
+- mugwort fires off a final ray of sickness hitting the brute in the back of the head, causing him to projectile vomit everywhere
+- gribbles dives and pushes wyatt out of the way, only to get covered from the waste down in vomit
+- mugwort harvests some flesh from the brutes body with his cleaver, storing it in one of the brutes glove.
+- wyatt finds a health potion on his body,
+- mugwort finds a and tastes a sooty rock in a mouse hole type space
+- gribbles urges them to leave quickly so they do.
+- as they run out of the courtyard gate and onto the bridge, a rain of arrows falls on them
+- gribbles gets pierced through the chest with a large arrow, falling to his knees
+- mug and wyatt quickly turn back for the scroll
+- gribbles leaves it to them to come back and free the slaves
+- mug and wyatt run into the forest
+- as they look back they see gribbles smiling
+- gribbles fades into gold dust and blows away in the wind, the arrow dropping from what was once his body
+- mug and wyatt hear one last more serious voice, no longer gribbles' voice, saying "im counting on you", before leaving highvale manor and the shacklehold behind
 
 ## Directory: Characters
 
@@ -2245,11 +2238,34 @@ aliases:
 ### Ciaran Emberfall.md
 
 ---
-draft: "true"
+draft: 
 aliases:
   - Ciaran
 ---
+*Human Male 5 [[Rorkard]]*
+![[Pasted image 20240611140122.png]]
+###### Overview
+- [[Ciaran Emberfall]] is the son of [[Orson Emberfall|Orson]] and [[Mirabel Emberfall]]
+###### Appearances
+###### [[Chapter 5 - Kiara's Deception]]
+- Pictured in his father's missing poster on the notice board in the [[Rocky Refuge]]
+###### [[Chapter 7 - Morgrith's Final Banquet]]
+- Opened the door with his mother when [[Ysgarlad]], [[Brogan Stone-Flask|Brogan]] and [[Liri]] went to return [[Orson's Scarf]]
 
+### Corbert.md
+
+---
+draft: "true"
+aliases:
+---
+*Human Male 65 [[Breisken]]*
+
+> *Welcome to [[Corbert's General]].*
+###### Overview
+- [[Corbert]] is a man from [[Breisken]] and the owner of [[Corbert's General]]
+- Identical twin brother of [[Norbert]] from [[Rorkard]]
+- Unlike his brother, Corbert is more cheerful and extroverted
+- Known for his meticulous organization and encyclopedic knowledge of his inventory
 
 ### Crausse.md
 
@@ -2280,6 +2296,9 @@ aliases:
 ###### [[Chapter 5 - Kiara's Deception]]
 - Upon reclaiming the [[Fragment of the Eternal Shadow]] stolen by the [[Hooded Man]], the gang took it to be inspected by [[Crystus]]
 - He confirms it is a [[Fragment of the Eternal Shadow]], however is no different to the few he has seen in the past
+###### [[Chapter 8 - Surprise Attack!]]
+- Along with [[Amara]], he met the gang in [[Kalskog]] after their battle with [[Kiara]] after hearing about the plan to summon [[Morgrith the Mother|Morgrith]] in [[Rorkard]]
+- Tells the gang that "he owes them one" for dealing with [[Morgrith the Mother|Morgrith]]
 
 ### Elinor.md
 
@@ -2360,12 +2379,14 @@ aliases:
 ### Gribbles the Gob.md
 
 ---
-draft: "true"
+draft: 
 aliases:
+  - Gribbles
+  - Gribbles'
 ---
 *Human Male 65 ???*
 ![[Gribbles.png]]
-> **
+> *To be honest he says too fucking much to write a quote for him.*
 ###### Overview
 - Gribbles is a man who has been trapped in [[The Shacklehold]] for over 5 years.
 
@@ -2462,13 +2483,19 @@ aliases:
 ### Kaelus.md
 
 ---
-draft: "true"
+draft: 
 aliases:
 ---
-*Race Gender Age Town*
+*Human Male ??? ???*
 ![[Kaelus.png]]
-> **
+> *All right all right calm yourself just a lil' friendly on the job nickname that's all, anyhow gobbers, we'd like to try some of your slop and mead.*
 ###### Overview
+- [[Kaelus]] is a large human man appearing to be working for [[The Shacklehold]]
+###### Appearances
+###### [[Chapter 9.1 - Retribution, Cuisine]]
+- Approached [[Mugwort Snaggletooth]] at his food stall in [[Breisken]] alongside [[Nythria]]
+- Showed interest in [[Mugwort Snaggletooth|Mugwort's]] food while evaluating him as a potential captive
+- Captured [[Mugwort Snaggletooth|Mugwort]] to be sold in the Soulmarket via [[The Shacklehold]]
 
 ### Kiara.md
 
@@ -2547,13 +2574,17 @@ aliases:
 ### Lyle.md
 
 ---
-draft: "true"
+draft: 
 aliases:
 ---
-*Race Gender Age Town*
+*Human Male ??? ???*
 ![[Lyle 1.png]]
-> **
+> *My group is planning a raid, tomorrow night. We'd be honoured to have you join us in liberating what poor souls lie beneath Highvale soil.*
 ###### Overview
+- [[Lyle]] is a mysterious man who approached [[Wyatt Holloway]] at a traveller's tavern in [[Florion's Ridge]]
+- He presented himself as an admirer of [[Wyatt Holloway|Wyatt's]] work and gained his trust by appearing warm and friendly
+- Claimed to be planning a raid on [[Highvale Manor]] to free slaves from [[The Shacklehold]]
+- In reality, [[Lyle]] appears to be working for whoever runs [[The Shacklehold]], and captured [[Wyatt Holloway|Wyatt]]
 
 ### Merek.md
 
@@ -2608,7 +2639,7 @@ aliases:
 ### Mugwort Snaggletooth.md
 
 ---
-draft: "true"
+draft: 
 aliases:
   - Mugwort
   - mugwort
@@ -2617,8 +2648,14 @@ aliases:
 ---
 *Goblin Male ??? ???*
 ![[Mugwort.png]]
-> **
+> *It's not just soup and beer that any goblin could make! It's SLOP!*
 ###### Overview
+- [[Mugwort Snaggletooth]] is a goblin chef from the Snaggletooth clan in [[The Mirage]]
+- Former head cook for the [[Shimmernail Guild]] for fifteen years, renowned for his signature dish "Slop"
+- Left the guild after refusing to reveal his secret recipe when they attempted to mass produce his creation
+- Traveled extensively through [[The Mirage]] and the [[Frozen Highlands]] before arriving in [[Breisken]] on the [[Verdant Continent]]
+- Passionate about his culinary arts, particularly his special fermented mead which complements his stew
+- Known for his enthusiastic (and often long-winded) explanations about cooking
 
 ### Norbert.md
 
@@ -2635,13 +2672,21 @@ aliases:
 ### Nythria.md
 
 ---
-draft: "true"
+draft: 
 aliases:
 ---
-*Race Gender Age Town*
+*Human Female ??? ???*
 ![[Nythria.png]]
-> **
+> *It's already dusk.*
 ###### Overview
+- [[Nythria]] is a woman appearing to be working for [[The Shacklehold]]
+- Despises being called "Nyth" by [[Kaelus]]
+- Seems to have some sort of sleep magic
+###### Appearances
+###### [[Chapter 9.1 - Retribution, Cuisine]]
+- Accompanied [[Kaelus]] to [[Mugwort Snaggletooth|Mugwort's]] food stall in [[Breisken]]
+- Showed little interest in [[Mugwort Snaggletooth|Mugwort's]] culinary enthusiasm
+- Whispered "It's already dusk" to [[Mugwort Snaggletooth|Mugwort]], causing him to lose consciousness before capturing him
 
 ### Orson Emberfall.md
 
@@ -2762,16 +2807,19 @@ aliases:
 ### The Willbreaker.md
 
 ---
-draft: "true"
+draft: 
 aliases:
 ---
-*Race Gender Age Town*
+*??? ??? ??? ???*
 ![[Breaker.png]]
-> **
+> *Chains suit you better than that coat, I think. All that righteous fire, all those dramatic rescues, and here you are - just another product in my inventory.*
 ###### Overview
-
-###### Misc
-- The Willbreaker, The Sovereign of Chains, The Eclipse
+- Not much is known about [[The Willbreaker]] other than he appears to be the leader of [[The Shacklehold]]
+###### Appearances
+###### [[Chapter 9.1 - Retribution, Cuisine]]
+- Abused [[Wyatt Holloway]] upon his capture and arrival at [[The Shacklehold]]
+- Broke one of [[Wyatt Holloway|Wyatt's]] pistols with his boot as a show of dominance
+- Promised to make an example of [[Wyatt Holloway|Wyatt]] by selling him to the very aristocrats whose operations he'd disrupted
 
 ### Varthis the Cursed.md
 
@@ -2808,7 +2856,7 @@ draft:
 ### Wyatt Holloway.md
 
 ---
-draft: "true"
+draft: 
 aliases:
   - Wyatt
   - wyatt
@@ -2817,8 +2865,13 @@ aliases:
 ---
 *Human Male 24 ???*
 ![[Wyatt.png]]
-> **
+> *Your hands will never be clean, but perhaps, in time, you can lighten their stain.*
 ###### Overview
+- [[Wyatt Holloway]] is a former gunslinger who once worked for the crime syndicate [[Post Mortem]]
+- He left the criminal life after falling in love with a woman named Eleanor, who believed he could be more than a hired gun
+- [[Post Mortem]] murdered Eleanor as punishment for [[Wyatt Holloway|Wyatt]] leaving the organization
+- Rather than seeking vengeance, [[Wyatt Holloway|Wyatt]] now wanders from town to town, using his skills to help those oppressed by the powerful
+- He carries dual pistols and is known for his exceptional aim
 
 ### Ylvëstrïa Wuvarion.md
 
@@ -2827,18 +2880,34 @@ aliases:
   - Woo
   - Wu
   - Woo Baby Woo
+draft:
 ---
 *High Elf Female 20 [[City of Virridius]]*
-![[Pasted image 20240303102545.png]]
+![[Woo.png]]
+###### Gallery
+|                                                |                        |
+| ---------------------------------------------- | ---------------------- |
+| *Season 1*![[Pasted image 20240303102545.png]] | *Season 2*![[Woo.png]] |
+
 
 ### Ysgarlad.md
 
 ---
-aliases:
+aliases: 
+draft:
 ---
-*Human Male 24 [[City of Isdal]]*
-![[ysgarlad icon.png]]
-> *Did you see who did it?! Hahahahaha*
+*Human Male 28 [[City of Isdal]]*
+![[Ysgarlad.png]]
+> *Did you see who did it? Bwahahahaha*
+###### Overview
+- [[Ysgarlad]] is a knight from a noble family in the [[City of Isdal]]
+- Formerly a member of [[The Swords of Isdal]], he left the knightly order and renounced his family name after realising the ways in which the order was deteriorating from its original values
+- Ysgarlad now fulfils his dream of adventuring across [[index|Cordisalia]], finding his own path and upholding the true values of knighthood originally taught to him
+###### Gallery
+|                                  |                             |
+| -------------------------------- | --------------------------- |
+| *Season 1*![[ysgarlad icon.png]] | *Season 2*![[Ysgarlad.png]] |
+
 
 ## Directory: Continents
 
@@ -3074,7 +3143,7 @@ draft:
 aliases:
 ---
 ###### Overview
-- An underground information syndicate running through Cordisalia, to which [[Ylvëstrïa Wuvarion|Woo]] has ties
+- An underground information syndicate running through Cordisalia, to which [[Ylvëstrïa Wuvarion|Woo]] and [[Wyatt Holloway|Wyatt]] have ties
 ###### Appearances
 ###### [[Chapter 1 - The Lumber Festival]]
 - In [[Gilbreives]] there is an information outpost in the southern part, run by a man disguised as a child
@@ -3090,6 +3159,14 @@ aliases:
 
 
 ### Shimmernail Guild.md
+
+---
+draft: "true"
+aliases:
+---
+
+
+### The Swords of Isdal.md
 
 ---
 draft: "true"
@@ -3529,6 +3606,62 @@ aliases:
 ---
 
 
+### Ysgarlad Backstory.md
+
+---
+draft: "true"
+aliases:
+---
+## TLDR
+
+Ysgarlad was born a noble, from a young age he was taught the ways of nobility. Raised by neglectful parents, he was tutored in the ways of diplomacy, politics and the manners of a noble. Ysgarlad would find ways of avoiding duties where he could growing up, skipping out and slacking where ever possible and this would lead to him being reprimanded by his tutors when they inevitably found out. He daydreamed off a life outside the castle, he didn’t like politics, he didn’t want to follow in his fathers footsteps, he wanted to explore the world and be an adventurer.
+
+His family’s name held a lot of weight in the city of Isdal, one of several upper class noble families, they retained a lot of wealth and influence. His father was the head, and was a right bastard. Taking more interest in how he could make more money than in anything his very own son did. Ysgarlad lacked a true role model growing up.
+
+One day when he was 13, while he was supposed to be sitting in law class set up by his father’s tutors, he snuck out to explore more of Isdal, his father wouldn’t let him leave the manor much and when he did he was usually only allowed to stay by his father’s side, but at times like today he would sneak further into the city to have fun and not having to learn boring lessons.
+
+When he snuck out this time there was a parade, the knights of valour (need to think of a proper name) were doing their yearly parade through the city, his family were one of the many patrons of the knightly order. He loved watching the knights, they were always dressed up proper with their tabards, their armor was pristine and flags were spread amongst them.
+
+Ysgarlad pushed his way to the front and would cheer along with the crowd, one of the knights, an older knight, came up to him, and asked him if he was enjoying the parade, Ysgarlad nodded enthusiastically, and the knight wrapped a scarf around him that he had previously wrapped around  his armor, the scarf was beige in colour and a bit tattered but in good condition. Ysgarlad held onto it close and would go home after the parade.
+
+When he got home his father found him and bollocked him for having skipped class again and found the scarf that he was hiding, where he grounded him for sneaking out. Ysgarlad proclaimed that he wanted to join the knights of valor when he could but his father protested slamming the door shut.
+
+Through the years Ysgarlad, nagged more and more at the notion of joining the knights until he hit 16 where his father suddenly deemed it beneficial for the family for him to go out and join them. Joining the order, as a boy, ysgarlad was mostly an errand boy for a couple years, still wearing the very scarf given to him, watching and learning about the order and its values. Studying the art of combat, from one to one fights to more larger scale war tactics, he never slacked from these studies, for once. While he spent his time here, an older knight by the name of Sir Emeric would act as a guardian for the young boy.
+
+From 18 he was allowed to train in combat with the others as a recruit for the order. Being taught more on a physical level a lot of the techniques he had been learning as a boy. He could now move out of his families manor and stay at the order’s barracks with the rest of the recruits which he could not have been more ready for.
+
+Ysgarlad and Emeric would, through the years adopt a Squire and Knight relationship, where Ysgarlad would learn a lot from Emeric and his experience, they would train together, eat together and studied together, Emeric was a kind man, he would always look out for others, and he would teach Ysgarlad many lessons in life and what manners and principles he believed he should have. Emeric believed it was the duty of the privileged to help those who were not. He believed those who were given much in life, should repay it back as much as they could, and this showed in every action Emeric took.
+
+As the years passed Ysgarlad would grow into a powerful warrior, going out on contract and duty with the other knights and eventually became a knight himself. Not needing the guidance and superior of Emeric, although the two would still reconcile and spend time with eachother where they could.
+
+Around 24 years old, Ysgarlad and a few other knights including Emeric, would be sent out on deployment to clear out a camp of barbarians that had been harassing local trade routes, this was a bit more of an unusual mission as usually they would be deployed to defend but despite Ysgarlads curiosity of the manner of it, they left all together.
+
+Emeric tried diplomacy with the barbarians at first, but, they were malicious bandits and cared not for his pleas of them leaving, instead they told the knights to give them everything they had and they *might* leave, causing a battle to break out.
+
+The battle was brutal, the knights were heavily outnumbered but not outclassed, they all fought and would have to split up to cover more of the camp. The barbarians attacked ruthlessly but were outmatched by Ysgarlads ability to read their movements and punish the small mistakes.
+
+Near the end, Ysgarlad would find Emeric laying on the floor, bleeding, an axe had been thrown from across a fight and was lodged between his neck and shoulder blade causing a lot of blood loss.
+
+Ysgarlad would exchange a few last words as his mentor would slowly fade, Emeric would say to Ysgarlad just holding onto his last bit of life, that he had made the right choice giving him that scarf so many years ago.
+
+As the years passed, Ysgarlad would carry on at the order, keeping to his promise he made to Emeric to keep the way he lived alive. His relationship with his father grew more cold, his father had become more and more obsessed with earning more and more money for this wealth, to which Ysgarlad silently found foul.
+
+Overtime, the order would slowly change however, and Ysgarlad noticed, the missions became more and more economically focused, where before they would defend villages and the civilians, they became more about defending the crops and other resources that the village produced. A change, not large or fast, but a noticed change that began to give Ysgarlad a sour taste in his mouth.
+
+At 28, there was talk of Ysgarlad being promoted and given his own squad to lead, meaning he would become ‘Sir Ysgarlad’ an immense privilege, he would become just like Emeric. He still kept onto the very scarf that Emeric had given him all those years ago.
+
+This last mission was the mission that would decide whether he got the promotion or not. They were tasked to defend a high yield mining village from a bandit raid, in the mission briefing however, it was very clear that the knights would only be stationed beside the mines, and not where the houses were which were only a bit infront of the mines, meaning the bandits would have to go through the village to get to them. Ysgarlad called out this ridiculous plan stating civilians would be killed and we couldn’t just let it happen. He stormed out of the room thinking he was not the only one of this mindset, but, he had grown numb to the corruption around him and was unaware as the other knights were more sellsword than knight.
+
+On arrival Ysgarlad began to reposition the knights further into the village and warned the civilians to stay indoors (it was too late to evacuate as the bandits might hunt them down and take them for slaves) Ysgarlad took a front position, unaware, the other knights had slowly taken themselves back to the original plans positioning, at the back, where all the mines were, the bandits approached rapidly and Ysgarlad only noticed too late that he was alone at the front.
+
+Bandits on horseback with torches in their hands went past him, Ysgarlad took down a few as they came past but couldn’t stop them all, he put up the fight of his life against as many bandits as he could, but he couldn’t hold them all back, others ran past him and would have been stopped if the squad had been in position like he said, but they had betrayed him.  The village was burned to the ground and although the bandits had been stopped before the mines, innocents were dead.
+
+Ysgarlad barely made it out with his life, he fought like a man possessed but it wasn’t enough. In a rage at his squad he lashed out at them to which he was met with disgruntled faces and ignored. One of them stepped forward saying it wasn’t the mission and that Ysgarlad should have just followed the mission. Ysgarlad knew he couldn’t kill the man where he stood as much as he’d like too, so he stormed away, collapsing in the street at the destruction that they let happen.
+
+On arrival back at the headquarters for mission debrief, Ysgarlad stormed in to where the higher ups sat in a court like room. Along with some of the other knights, they asked if the mission was a success to which Ysgarlad would lash out at them, he coulnd’t believe they were calling a mission where innocents were left to die a success. He had become all too aware of it now, the order was corrupt, to the core, patrons who supplied the order were given positions of power within it, to make the calls and decisions for the order, his very own father was in this room. Things are changing they told Ysgarlad, and he knew, but they had become poison, a vile blight, he would denounce them all here, exclaiming them as disgraces and abominations to the name, they knew nothing of what it meant to be a knight, it was all too much for him, as his very own father was apart of this council, spitting on the floor,  he would abolish his family name from himself  and leave the city of Isdal this moment. 
+
+He hated it all, his father, the council, what the very meaning of the order had become, he was almost glad Emeric wasn’t there to see it. Packing up back at the manor he would take what he needed to leave Isdal and explore the world, like he always wanted. His mother would call him ridiculous as left proclaiming that he would be back once he came to his sense, he ignored his mother and father as he left his family, and Isdal.
+
 ## Directory: Misc. Notes
 
 ### Generic Names.md
@@ -3671,13 +3804,15 @@ aliases:
 [Mic Stand](https://www.amazon.co.uk/TONOR-Microphone-Podcasting-Adjustable-T20LP/dp/B0CFKHCQ8W/ref=sr_1_5?dib=eyJ2IjoiMSJ9.juuhJJsf0bwhYQ1T3bYcrsb917ufW1JnCnvzLJbT0G2BsHoffAPGzgZkC6Qk_E24mtujVra9PGqG-Kt2Iljpdy8hLEEyYJoPFv2zLcREsoKhD8rmx0ZJTSA-2uSA2Gv0y7ylfitL_F4BLfefImA1XDeZ7cPZ4V1BJxrgyfOXbv1NqMLrNU0SouhP4rTc-LD6DcPuS_TE580wV6gBaAGNWLCxB4buyWQ1YwATNp8vV2oLm8t4Isr6jWUgLryuYoMDVOFtTt2y5p7tFz2ph1yO6tThHgEevymi4lg5tv0QnwY.lf2PWJTPRs_y8PELXb5z-lJ6MUQqMemV81msDP5Qlcc&dib_tag=se&keywords=mic%2Bstand%2Barm&qid=1728159421&sr=8-5&th=1)
 
 
-### Season 2 Ideas.md
+### The Library.md
 
 ---
 draft: "true"
 aliases:
 ---
-### Plots:
+- The stone smith - warrior using lodestones
+- Rorkard before the cruster guild
+- 
 
 ### todo.md
 
@@ -3718,7 +3853,20 @@ aliases:
 draft: 
 aliases:
 ---
-![[rorkard guild 1.webp]]
+![[rorkard guild.webp]]
+
+### Corbert's General.md
+
+---
+draft: "true"
+aliases:
+---
+
+###### Overview
+- [[Corbert's General]] is a general goods store run by [[Corbert]] in [[Breisken]]
+- Sells a wide array of items from potions to materials to basic weapons
+- Known for its colorful exterior and immaculately organized shelves
+- Features a small reading nook where Corbert keeps books on the history of Breisken
 
 ### Elinor's Cabin.md
 
@@ -3750,10 +3898,25 @@ draft:
 aliases:
 ---
 ![[florions ridge rain.webp]]
+###### Overview
+- [[Florion's Ridge]] is an expansive mountain range lying in the north of the [[Verdant Continent]]
+- Named after [[Florion]], the Overseer of the [[Verdant Continent]], one of the six divine brothers
+- Known for its constant rainfall, believed to be [[Florion|Florion's]] tears of sorrow
+- It has been raining continuously in the region for 25 years according to Halibon
+- There is a path through [[Florion's Ridge]] connecting [[Rorkard]] to [[Wyrmsgard]]
+###### Appearances
+###### [[Chapter 9 - Florion's Tears]]
+- The gang travelled through [[Florion's Ridge]] on their journey to [[Wyrmsgard]]
+- They encountered [[Halibon]], a friendly goblin who provided them shelter from the rain
+- They discovered [[Florion's Sanctum]], a sacred area guarded by armoured men who only allow entry to those deemed worthy
+###### [[Chapter 9.1 - Retribution, Cuisine]]
+- A secluded traveller's tavern is located somewhere within [[Florion's Ridge]]
+- Wyatt Holloway was staying at this tavern when he met [[Lyle]], who tricked him into being captured
 ###### Gallery
-|                                                         |                                                                            |
-| ------------------------------------------------------- | -------------------------------------------------------------------------- |
-| *[[Halibon\|Halibon's]] Shack*![[Halibon's Shack.webp]] | *Traveller's Tavern in the East of the Ridge*![[Traveller's Tavern 1.png]] |
+|                                                                            |                                                         |
+| -------------------------------------------------------------------------- | ------------------------------------------------------- |
+| *Rainy Ridge Path*![[florions ridge rain.webp]]                            | *[[Halibon\|Halibon's]] Shack*![[Halibon's Shack.webp]] |
+| *Traveller's Tavern in the East of the Ridge*![[Traveller's Tavern 1.png]] |                                                         |
 
 
 ### Florion's Sanctum.md
@@ -3823,10 +3986,15 @@ draft:
 aliases:
 ---
 ![[Shacklehold Outdoors.png]]
+###### Overview
+- [[Highvale Manor]] is an opulent estate located near [[Wyrmsgard]], owned by the aristocratic Highvale family
+- The manor serves as both a lavish residence and a front for more sinister operations
+- Beneath the manor lies a hidden prison known as [[The Shacklehold]], where slaves and rare creatures are held captive before being sold in the Verdant Continent's Soulmarket
 ###### Gallery
 |                                               |                                                      |
 | --------------------------------------------- | ---------------------------------------------------- |
 | *Highvale Manor*![[Shacklehold Outdoors.png]] | *[[Lyle\|Lyle's]] Meetup Spot*![[Meetup Spot 1.png]] |
+| *Highvale Brute*![[Shacklehold Brute.png]]    |                                                      |
 
 
 ### Ironhand Forge.md
@@ -3865,7 +4033,7 @@ aliases:
 draft: 
 aliases:
 ---
-![[Pasted image 20240611140308.png]]
+![[Pasted image 20240418185745.png]]
 ###### Overview
 - [[Norbert's General]] is a general goods store run by [[Norbert]] in [[Rorkard]]
 - Sells a wide array of items from potions to materials to basic weapons
@@ -3924,7 +4092,7 @@ aliases:
 draft: 
 aliases:
 ---
-![[Pasted image 20240611191332.png]]
+![[Pasted image 20240418185732.png]]
 ###### Overview
 - [[Spirit Reader Shanya's]] is a magic store in [[Rorkard]] owned by [[Shanya]]
 - All types of magical items can be found here, from spell scrolls to magic scrolls
@@ -3937,10 +4105,18 @@ draft:
 aliases:
 ---
 ![[Shacklehold Corridors 1.png]]
+###### Overview
+- [[The Shacklehold]] is a clandestine prison complex hidden beneath [[Highvale Manor]]
+- It serves as a holding facility where slaves and rare creatures are imprisoned before being sold in the [[Verdant Continent]]'s Soulmarket
+- The facility consists of winding stone corridors, cells of varying sizes, and specialized containment areas for different types of captives
+- Security is very tight and overseen by [[The Willbreaker]]
+- The existence of the facility is not common knowledge
 ###### Gallery
 |                                                         |                                                                   |
 | ------------------------------------------------------- | ----------------------------------------------------------------- |
 | *Shacklehold Corridors*![[Shacklehold Corridors 1.png]] | *[[Gribbles the Gob\|Gribbles']] Cell*![[Shacklehold Cell 1.png]] |
+| *Patrolling Guard*![[Shacklehold Guard 1.png]]          | *Lackeys on the Job*![[Shacklehold Guards 2.png]]                 |
+
 
 
 ### Verdant Forest.md
@@ -3964,11 +4140,26 @@ aliases:
 - [[Creatures/Kobold]]
 - [[Winged Kobold]]
 ###### Gallery
-|                                                               |                                                                   |
-| ------------------------------------------------------------- | ----------------------------------------------------------------- |
-| *[[River Midwood]] Day*![[Pasted image 20240305175936.png]]   | *[[River Midwood]] Evening*![[Pasted image 20240305181901.png]]   |
+|                                                               |                                                                             |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| *[[River Midwood]] Day*![[Pasted image 20240305175936.png]]   | *[[River Midwood]] Evening*![[Pasted image 20240305181901.png]]             |
 | *[[River Midwood]] Night*![[Pasted image 20240307192632.png]] | *[[Creatures/Kobold]] battle in the Verdant Forest*![[Midwood River 1.png]] |
 
+
+### Windward Food Market.md
+
+---
+draft: 
+aliases:
+---
+![[Breisken Foodcourt 1.png]]
+###### Overview
+- The Windward Food Market is the culinary heart of [[Breisken]], a bustling marketplace where vendors from across [[index|Cordisalia]] gather to sell their regional specialties
+- Known for its diverse array of foods, spices, and ingredients from all six continents
+- The market's open-air design allows the sea breeze to carry enticing aromas throughout, creating a sensory experience that draws visitors from far and wide
+###### Appearances
+###### [[Chapter 9.1 - Retribution, Cuisine]]
+- Mugwort Snaggletooth set up his food stall in the [[Windward Food Market]], hoping to find people who would appreciate his signature slop and fermented mead, only to be captured by [[Kaelus]] and [[Nythria]]
 
 ## Directory: Settlements
 
@@ -3987,6 +4178,12 @@ draft:
 aliases:
 ---
 ![[Breisken Foodcourt 1.png]]
+###### Overview
+[[Breisken]] is a windswept port city on the [[Verdant Continent]], serving as a major entry point for travellers and traders from across [[index|Cordisalia]].
+###### Characters from [[Breisken]]
+- No characters from Breisken have been introduced yet in the campaign.
+###### Locations
+- [[Windward Food Market]]
 
 ### City of Isdal.md
 
@@ -4042,7 +4239,6 @@ aliases:
 ---
 ![[kalskog peaceful.webp]]
 
-
 ### Lynhaven.md
 
 ---
@@ -4086,8 +4282,8 @@ aliases:
 ###### Gallery
 |                                                                  |                                                             |
 | ---------------------------------------------------------------- | ----------------------------------------------------------- |
-| *[[Rorkard]]*![[rorkard 1.webp]]                                 | *The [[Cruster Guild]]*![[Pasted image 20240418185808.png]] |
-| *[[Rocky Refuge]] Inn*![[rorkard inn 2.webp]]                    | *[[Ironhand Forge]]*![[Pasted image 20240418185756.png]]    |
+| *[[Rorkard]]*![[rorkard.webp]]                                   | *The [[Cruster Guild]]*![[Pasted image 20240418185808.png]] |
+| *[[Rocky Refuge]] Inn*![[Pasted image 20240610201559.png]]       | *[[Ironhand Forge]]*![[Pasted image 20240418185756.png]]    |
 | *[[Spirit Reader Shanya's]]*![[Pasted image 20240418185732.png]] | *[[Norbert's General]]*![[Pasted image 20240418185745.png]] |
 | [[Emberfall Household]]![[Pasted image 20240419133311.png]]      | [[Rorkard Sewers]]![[SEWERS.webp]]                          |
 | [[Abandoned Thieves Guild]]![[rorkard guild.webp]]               |                                                             |
@@ -4725,72 +4921,3 @@ draft: "true"
 aliases:
 ---
 ![[Pasted image 20240312150639.png]]
-
-## Directory: templates
-
-### chapter.template.md
-
----
-draft: "true"
-aliases:
----
-#hidden 
-### Preface
-
-### Characters
-
-### Items
-
-### Points of Interest
-
-
-### character.template.md
-
----
-draft: "true"
-aliases:
----
-*Race Gender Age Town*
-
-> **
-###### Overview
-
-### creature.template.md
-
----
-aliases: 
-draft: "true"
----
-*Size Beast Location*
-
-###### Overview
-
-
-### dialogue.template.md
-
-<%* const name = await tp.system.prompt("Enter Name") -%>
-```
-<%name %>:
-	<% tp.file.cursor() %>
-```
-
-### gallery.template.md
-
----
-draft: "true"
-aliases:
----
-###### Gallery
-|                                               |                                               |
-| --------------------------------------------- | --------------------------------------------- |
-| *Image 1*![[Pasted image 20240229220403.png]] | *Image 2*![[Pasted image 20240229220607.png]] |
-
-
-### new.template.md
-
----
-draft: "true"
-aliases:
----
-
-
