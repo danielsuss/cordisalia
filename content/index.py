@@ -6,11 +6,14 @@ This script updates the Cordisalia wiki index.md file by:
 3. Finding the 5 most recently created files that aren't drafts, chapters, templates, or in root
 4. Finding the 5 most recently modified files that aren't drafts, chapters, templates, or in root
 5. Updating the "Recently Added / Updated" section with wiki-style links to these files
+6. Collecting all unique image links from non-draft files (excluding specific directories)
+7. Creating a 3-column table of random images at the bottom of the index file
 """
 
 import os
 import re
 import glob
+import random
 from datetime import datetime
 import frontmatter
 
@@ -58,18 +61,31 @@ def is_draft(file_path):
         # If the file can't be parsed, assume it's not a draft
         return False
 
+def should_exclude_directory(directory):
+    """Check if this directory should be excluded from processing."""
+    excluded_dirs = [
+        'Chapters', 
+        'Chapter Notes', 
+        'Continents', 
+        'Misc. Notes', 
+        'Statblocks', 
+        'templates'
+    ]
+    
+    # Check if directory path contains any of the excluded directory names
+    for excluded_dir in excluded_dirs:
+        if excluded_dir in directory:
+            return True
+    return False
+
 def should_include_in_recent(file_path):
     """Determine if a file should be included in the recent files list."""
     # Exclude files in the root directory
     if os.path.dirname(file_path) == '.' or os.path.dirname(file_path) == '':
         return False
     
-    # Exclude files in the Chapters directory
-    if os.path.dirname(file_path).endswith('Chapters'):
-        return False
-    
-    # Exclude files in the templates directory
-    if 'templates' in os.path.dirname(file_path).lower():
+    # Check if file is in any excluded directory
+    if should_exclude_directory(os.path.dirname(file_path)):
         return False
     
     # Exclude draft files
@@ -104,6 +120,82 @@ def format_wiki_link(file_path):
     file_name = os.path.splitext(os.path.basename(file_path))[0]
     # Obsidian style uses just the filename in double brackets
     return f"[[{file_name}]]"
+
+def collect_image_links():
+    """
+    Collect all unique image links from non-draft files, excluding specific directories.
+    Returns a randomized list of image links.
+    """
+    image_links = set()
+    
+    for root, dirs, files in os.walk('.'):
+        # Skip the root directory and excluded directories
+        if root == '.' or should_exclude_directory(root):
+            continue
+            
+        for file in files:
+            if file.endswith('.md'):
+                file_path = os.path.join(root, file)
+                
+                # Skip draft files
+                if is_draft(file_path):
+                    continue
+                
+                # Read the file and search for image links
+                try:
+                    with open(file_path, 'r', encoding='utf-8') as f:
+                        content = f.read()
+                        
+                    # Find all image links using regex
+                    # Pattern matches ![[image.extension]] format
+                    image_link_pattern = r'!\[\[(.*?)\]\]'
+                    links = re.findall(image_link_pattern, content)
+                    
+                    # Add links to the set (automatically handles duplicates)
+                    for link in links:
+                        image_links.add(f"![[{link}]]")
+                except Exception as e:
+                    print(f"Error processing {file_path}: {e}")
+    
+    # Convert set to list and randomize
+    image_links_list = list(image_links)
+    random.shuffle(image_links_list)
+    
+    return image_links_list
+
+def create_gallery_table(image_links, columns=3):
+    """
+    Create a markdown table with the given image links distributed across columns.
+    
+    Args:
+        image_links: List of image links
+        columns: Number of columns in the table
+    
+    Returns:
+        A formatted markdown table as a string
+    """
+    if not image_links:
+        return "No images found to create gallery."
+    
+    # Initialize table
+    table = "| | | |\n"
+    table += "|---|---|---|\n"
+    
+    # Calculate how many rows we need
+    rows = (len(image_links) + columns - 1) // columns
+    
+    # Create each row
+    for row in range(rows):
+        row_content = "|"
+        for col in range(columns):
+            idx = row * columns + col
+            if idx < len(image_links):
+                row_content += f" {image_links[idx]} |"
+            else:
+                row_content += " |"
+        table += row_content + "\n"
+    
+    return table
 
 def update_index_file():
     # Read the current index.md file
@@ -151,10 +243,17 @@ def update_index_file():
     else:
         recently_updated += "No recently updated files found."
     
+    # Collect image links for the gallery
+    image_links = collect_image_links()
+    
+    # Create the image gallery
+    gallery_table = create_gallery_table(image_links)
+    
     # Assemble the updated index.md content
     updated_content = (
         f"{header}\n## Story Chapters\n{chapter_list}\n"
         f"{explore_section}\n## Recently Added / Updated{recently_updated}\n"
+        f"\n{gallery_table}"
     )
     
     # Write the updated content back to index.md
@@ -162,6 +261,12 @@ def update_index_file():
         file.write(updated_content)
     
     print(f"Updated index.md with {len(chapter_files)} chapters and {len(unique_recent_files)} recently updated files.")
+    print(f"Added a gallery with {len(image_links)} random images.")
 
 if __name__ == "__main__":
     update_index_file()
+    
+    # Collect and print image links
+    print("\nCollecting image links from all non-excluded, non-draft files...")
+    image_links = collect_image_links()
+    print(f"Found {len(image_links)} unique image links.")
