@@ -2,4 +2,4 @@
 draft: 
 aliases:
 ---
-![[rorkard guild 1.webp]]
+![[rorkard guild.webp]]

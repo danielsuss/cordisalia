@@ -30,8 +30,8 @@ aliases:
 ###### Gallery
 |                                                                  |                                                             |
 | ---------------------------------------------------------------- | ----------------------------------------------------------- |
-| *[[Rorkard]]*![[rorkard 1.webp]]                                 | *The [[Cruster Guild]]*![[Pasted image 20240418185808.png]] |
-| *[[Rocky Refuge]] Inn*![[rorkard inn 2.webp]]                    | *[[Ironhand Forge]]*![[Pasted image 20240418185756.png]]    |
+| *[[Rorkard]]*![[rorkard.webp]]                                   | *The [[Cruster Guild]]*![[Pasted image 20240418185808.png]] |
+| *[[Rocky Refuge]] Inn*![[Pasted image 20240610201559.png]]       | *[[Ironhand Forge]]*![[Pasted image 20240418185756.png]]    |
 | *[[Spirit Reader Shanya's]]*![[Pasted image 20240418185732.png]] | *[[Norbert's General]]*![[Pasted image 20240418185745.png]] |
 | [[Emberfall Household]]![[Pasted image 20240419133311.png]]      | [[Rorkard Sewers]]![[SEWERS.webp]]                          |
 | [[Abandoned Thieves Guild]]![[rorkard guild.webp]]               |                                                             |
