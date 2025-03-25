@@ -4,12 +4,12 @@
 // put your custom CSS here!
 
 .norbert {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .norbertImg {
-    width: 35rem;
+  width: 35rem;
 }
 
 .backBtn {
@@ -59,4 +59,56 @@
 table img {
   width: 20rem;
   height: auto;
+}
+
+a {
+  font-weight: $semiBoldWeight;
+  text-decoration: none;
+  transition: color 0.2s ease;
+  color: var(--secondary);
+}
+
+a:hover {
+  color: var(--tertiary) !important;
+}
+
+a.internal {
+  text-decoration: none;
+  background-color: var(--highlight);
+  padding: 0 0.1rem;
+  border-radius: 5px;
+  line-height: 1.4rem;
+}
+
+/* Remove background styling from links that contain images */
+a.internal img {
+  display: inline-block;
+  max-width: 100%;
+}
+
+/* This targets the link itself when it contains an image */
+a.internal:has(> img) {
+  background-color: transparent !important; /* Use !important to override */
+  border-radius: 0;
+  padding: 0;
+}
+
+/* Fallback for browsers that don't support :has() */
+a.internal.image-link {
+  background-color: transparent;
+  border-radius: 0;
+  padding: 0;
+}
+
+a.internal.tag-link::before {
+  content: "#";
+}
+
+a.external .external-icon {
+  height: 1ex;
+  margin: 0 0.15em;
+}
+
+a.external .external-icon > path {
+  fill: var(--dark);
 }
