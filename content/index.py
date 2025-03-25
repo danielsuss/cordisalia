@@ -221,8 +221,26 @@ def create_gallery_table(image_links_with_context, columns=3):
 
 def update_index_file():
     # Read the current index.md file
-    with open("index.md", "r", encoding="utf-8") as file:
-        content = file.read()
+    index_exists = os.path.exists("index.md")
+    
+    if index_exists:
+        with open("index.md", "r", encoding="utf-8") as file:
+            content = file.read()
+            
+        # Try to load existing frontmatter
+        try:
+            post = frontmatter.loads(content)
+            existing_frontmatter = dict(post)
+            # Update the content to exclude frontmatter
+            content = post.content
+        except:
+            existing_frontmatter = {}
+    else:
+        content = ""
+        existing_frontmatter = {}
+    
+    # Ensure title is set to "Cordisalia"
+    existing_frontmatter['title'] = "Cordisalia"
     
     # Extract sections without removing existing content
     header_match = re.match(r'# Welcome to the World of Cordisalia\s*?!?\[\[World Map\.png\]\]', content)
@@ -278,12 +296,16 @@ def update_index_file():
         f"\n{gallery_table}"
     )
     
+    # Create a new post with frontmatter and content
+    post = frontmatter.Post(updated_content, **existing_frontmatter)
+    
     # Write the updated content back to index.md
     with open("index.md", "w", encoding="utf-8") as file:
-        file.write(updated_content)
+        file.write(frontmatter.dumps(post))
     
     print(f"Updated index.md with {len(chapter_files)} chapters and {len(unique_recent_files)} recently updated files.")
     print(f"Added a gallery with {len(image_links_with_context)} random images.")
+    print(f"Set title to 'Cordisalia' in the frontmatter.")
 
 if __name__ == "__main__":
     update_index_file()
