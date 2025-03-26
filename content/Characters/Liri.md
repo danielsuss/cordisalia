@@ -34,5 +34,5 @@ aliases:
 ###### [[Chapter 8 - Surprise Attack!]]
 - Touched the fragment of the eternal shadow, causing it to crack, releasing a powerful blast of purple energy, wrecking the interior of the [[Skogbrew Tavern]] and sending everyone bar herself flying
 - The energy seemed to cling to her for a moment, her wings and eyes purple, with purple sparks around her body, before she fainted
-[[Chapter 9 - Florion's Tears]]
+###### [[Chapter 9 - Florion's Tears]]
 - Continued to travel with the gang through [[Florion's Ridge]]

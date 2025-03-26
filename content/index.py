@@ -293,7 +293,7 @@ def update_index_file():
     updated_content = (
         f"{header}\n## Story Chapters\n{chapter_list}\n"
         f"{explore_section}\n## Recently Added / Updated{recently_updated}\n"
-        f"\n{gallery_table}"
+        f"## Gallery\n{gallery_table}"
     )
     
     # Create a new post with frontmatter and content

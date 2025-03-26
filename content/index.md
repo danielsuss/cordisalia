@@ -32,42 +32,42 @@ title: Cordisalia
 - [[Kalskog]]
 - [[Gilbreives]]
 - [[Breisken]]
-- [[Windward Food Market]]
+- [[Verdant Forest]]
 - [[Liri]]
 - [[Korgar the Spiked Menace]]
 - [[Kiara]]
 - [[Kiara's Rats]]
 - [[Kaelus]]
-
+## Gallery
 | | | |
 |---|---|---|
-| [![[kiaras rats.webp]]](<Kiara's Rats>) | [![[Pasted image 20240418185808.png]]](<Rorkard>) | [![[SEWERS.webp]]](<Rorkard>) |
-| [![[Pasted image 20240418185732.png]]](<Spirit Reader Shanya's>) | [![[Pasted image 20240303214725.png]]](<Quin Fellbrook>) | [![[Pasted image 20240305171941.png]]](<Gilbreives>) |
-| [![[rorkard guild.webp]]](<Abandoned Thieves Guild>) | [![[Pasted image 20240611203608.png]]](<Korgar the Spiked Menace>) | [![[Pasted image 20240610205443.png]]](<Post Mortem>) |
-| [![[Pasted image 20240418140155.png]]](<Hooded Man>) | [![[gaffot.webp]]](<Gaffot>) | [![[Pasted image 20240423003243.png]]](<Elinor>) |
-| [![[Halibon.webp]]](<Halibon>) | [![[Pasted image 20240302234418.png]]](<Brogan Stone-Flask>) | [![[Meetup Spot 1.png]]](<Highvale Manor>) |
-| [![[Pasted image 20240611204602.png]]](<Cannibals of Gloomstone Cavern>) | [![[Pasted image 20240610201559.png]]](<Rocky Refuge>) | [![[Pasted image 20240611191615.png]]](<Shanya>) |
-| [![[Woo.png]]](<Ylvëstrïa Wuvarion>) | [![[Pasted image 20240305181901.png]]](<Verdant Forest>) | [![[Breaker.png]]](<The Willbreaker>) |
-| [![[Pasted image 20240611133639.png]]](<Mirabel Emberfall>) | [![[eye of mortem 1.gif]]](<Post Mortem>) | [![[Breisken Foodcourt 1.png]]](<Windward Food Market>) |
-| [![[Pasted image 20240229220403.png]]](<Gilbreives>) | [![[Pasted image 20240610200647.png]]](<Giant Boar>) | [![[kalskog peaceful.webp]]](<Kalskog>) |
-| [![[Shacklehold Corridors 1.png]]](<The Shacklehold>) | [![[Gribbles.png]]](<Gribbles the Gob>) | [![[Wyatt.png]]](<Wyatt Holloway>) |
-| [![[Berserker Potion.webp]]](<Berserker Potion>) | [![[Quin's Spice Blend.webp]]](<Quin's Spice Blend>) | [![[Pasted image 20240611140749.png]]](<Ironhand Forge>) |
-| [![[Pasted image 20240423005511.png]]](<Winged Kobold>) | [![[ysgarlad icon.png]]](<Ysgarlad>) | [![[Pasted image 20240610205904.png]]](<Crystus>) |
-| [![[Pasted image 20240307192632.png]]](<Verdant Forest>) | [![[Pasted image 20240611140516.png]]](<Norbert>) | [![[Pasted image 20240419142031.png]]](<Boar>) |
-| [![[Pasted image 20240423004856.png]]](<Kobold>) | [![[Amara.webp]]](<Amara>) | [![[Pasted image 20240305173822.png]]](<Hoagle>) |
-| [![[Mugwort.png]]](<Mugwort Snaggletooth>) | [![[Shacklehold Cell 1.png]]](<The Shacklehold>) | [![[Pasted image 20240418182746.png]]](<Sleepy Leaf>) |
-| [![[Pasted image 20240305175936.png]]](<River Midwood>) | [![[Pasted image 20240610200031.png]]](<Sarmon>) | [![[Pasted image 20240229220607.png]]](<Lumber Festival>) |
-| [![[Nythria.png]]](<Nythria>) | [![[Pasted image 20240423013153.png]]](<Elinor's Cabin>) | [![[Pasted image 20240229220442.png]]](<Gronk Growheart>) |
-| [![[florions ridge rain.webp]]](<Florion's Ridge>) | [![[Aetherquartz Ring.webp]]](<Aetherquartz Ring>) | [![[Halibon's Shack.webp]]](<Florion's Ridge>) |
-| [![[Ysgarlad.png]]](<Ysgarlad>) | [![[Pasted image 20240303214448.png]]](<Rowena Growheart>) | [![[Pasted image 20240611140122.png]]](<Ciaran Emberfall>) |
-| [![[Kaelus.png]]](<Kaelus>) | [![[Orb of Varthis.webp]]](<Orb of Varthis>) | [![[Midwood River 1.png]]](<Verdant Forest>) |
-| [![[Shacklehold Guard 1.png]]](<The Shacklehold>) | [![[Shacklehold Outdoors.png]]](<Highvale Manor>) | [![[Shacklehold Brute.png]]](<Highvale Manor>) |
-| [![[Pasted image 20240303102545.png]]](<Ylvëstrïa Wuvarion>) | [![[Pasted image 20240419133311.png]]](<Rorkard>) | [![[Pasted image 20240423002234.png]]](<Liri>) |
-| [![[rorkard.webp]]](<Rorkard>) | [![[Pasted image 20240418185756.png]]](<Rorkard>) | [![[Pasted image 20240611140949.png]]](<Francindo>) |
-| [![[Traveller's Tavern 1.png]]](<Florion's Ridge>) | [![[Pasted image 20240611203955.png]]](<Varthis the Cursed>) | [![[Lyle 1.png]]](<Lyle>) |
-| [![[Pasted image 20240418185745.png]]](<Norbert's General>) | [![[Pasted image 20240419140207.png]]](<Boar>) | [![[DALL·E 2024-04-12 19.23.35 - A large, expansive lair inside a cave, depicted in a gritty medieval fantasy painting style. The room is dark and vast, illuminated only by numerous l 1.webp]]](<Gloomstone Cavern>) |
-| [![[Pasted image 20240418150624.png]]](<Gilbreives Town Hall>) | [![[Pasted image 20240416144334.png]]](<Amara>) | [![[Pasted image 20240304095804.png]]](<Grink Growheart>) |
-| [![[Pasted image 20240423003101.png]]](<Elinor's Cabin>) | [![[Pasted image 20240610203027.png]]](<Gloomstone Cavern>) | [![[Shacklehold Guards 2.png]]](<The Shacklehold>) |
-| [![[Pasted image 20240610202251.png]]](<Kiara>) | [![[Pasted image 20240611134458.png]]](<Lunette Emberfall>) | [![[cave 2.png]]](<Gloomstone Cavern>) |
-| [![[inn bedroom.webp]]](<Rocky Refuge>) | [![[Circlet of the Occult.webp]]](<Circlet of the Occult>) | [![[Pasted image 20240611135239.png]]](<Orson Emberfall>) |
-| [![[Aetherquartz Ring 2.webp]]](<Aetherquartz Powder>) | | |
+| [![[Aetherquartz Ring.webp]]](<Aetherquartz Ring>) | [![[Lyle 1.png]]](<Lyle>) | [![[Pasted image 20240423003101.png]]](<Elinor's Cabin>) |
+| [![[Pasted image 20240303214448.png]]](<Rowena Growheart>) | [![[kalskog peaceful.webp]]](<Kalskog>) | [![[kiaras rats.webp]]](<Kiara's Rats>) |
+| [![[Kaelus.png]]](<Kaelus>) | [![[Mugwort.png]]](<Mugwort Snaggletooth>) | [![[Traveller's Tavern 1.png]]](<Florion's Ridge>) |
+| [![[Pasted image 20240418182746.png]]](<Sleepy Leaf>) | [![[Shacklehold Brute.png]]](<Highvale Manor>) | [![[Pasted image 20240418185745.png]]](<Norbert's General>) |
+| [![[Halibon.webp]]](<Halibon>) | [![[Halibon's Shack.webp]]](<Florion's Ridge>) | [![[Pasted image 20240419140207.png]]](<Boar>) |
+| [![[Pasted image 20240610202251.png]]](<Kiara>) | [![[Shacklehold Cell 1.png]]](<The Shacklehold>) | [![[rorkard.webp]]](<Rorkard>) |
+| [![[Wyatt.png]]](<Wyatt Holloway>) | [![[SEWERS.webp]]](<Rorkard>) | [![[Pasted image 20240423003243.png]]](<Elinor>) |
+| [![[Breisken Foodcourt 1.png]]](<Windward Food Market>) | [![[inn bedroom.webp]]](<Rocky Refuge>) | [![[Pasted image 20240418150624.png]]](<Gilbreives Town Hall>) |
+| [![[Quin's Spice Blend.webp]]](<Quin's Spice Blend>) | [![[Pasted image 20240611133639.png]]](<Mirabel Emberfall>) | [![[Woo.png]]](<Ylvëstrïa Wuvarion>) |
+| [![[Pasted image 20240611140516.png]]](<Norbert>) | [![[Pasted image 20240229220607.png]]](<Lumber Festival>) | [![[Amara.webp]]](<Amara>) |
+| [![[Pasted image 20240423005511.png]]](<Winged Kobold>) | [![[Pasted image 20240611135239.png]]](<Orson Emberfall>) | [![[Pasted image 20240418185756.png]]](<Rorkard>) |
+| [![[Pasted image 20240305175936.png]]](<River Midwood>) | [![[Pasted image 20240416144334.png]]](<Amara>) | [![[Pasted image 20240611203955.png]]](<Varthis the Cursed>) |
+| [![[Pasted image 20240423013153.png]]](<Elinor's Cabin>) | [![[Pasted image 20240229220403.png]]](<Gilbreives>) | [![[Pasted image 20240611134458.png]]](<Lunette Emberfall>) |
+| [![[Pasted image 20240229220442.png]]](<Gronk Growheart>) | [![[Berserker Potion.webp]]](<Berserker Potion>) | [![[Shacklehold Guards 2.png]]](<The Shacklehold>) |
+| [![[Pasted image 20240418185808.png]]](<Rorkard>) | [![[Pasted image 20240305181901.png]]](<Verdant Forest>) | [![[Aetherquartz Ring 2.webp]]](<Aetherquartz Powder>) |
+| [![[Gribbles.png]]](<Gribbles the Gob>) | [![[Pasted image 20240611191615.png]]](<Shanya>) | [![[Shacklehold Guard 1.png]]](<The Shacklehold>) |
+| [![[florions ridge rain.webp]]](<Florion's Ridge>) | [![[Shacklehold Corridors 1.png]]](<The Shacklehold>) | [![[Circlet of the Occult.webp]]](<Circlet of the Occult>) |
+| [![[Pasted image 20240303102545.png]]](<Ylvëstrïa Wuvarion>) | [![[Pasted image 20240610205904.png]]](<Crystus>) | [![[Pasted image 20240610200647.png]]](<Giant Boar>) |
+| [![[gaffot.webp]]](<Gaffot>) | [![[Pasted image 20240418140155.png]]](<Hooded Man>) | [![[Pasted image 20240418185732.png]]](<Spirit Reader Shanya's>) |
+| [![[Pasted image 20240611203608.png]]](<Korgar the Spiked Menace>) | [![[rorkard guild.webp]]](<Abandoned Thieves Guild>) | [![[Shacklehold Outdoors.png]]](<Highvale Manor>) |
+| [![[Pasted image 20240423004856.png]]](<Kobold>) | [![[Pasted image 20240611140749.png]]](<Ironhand Forge>) | [![[Pasted image 20240419142031.png]]](<Boar>) |
+| [![[Pasted image 20240610203027.png]]](<Gloomstone Cavern>) | [![[Pasted image 20240305173822.png]]](<Hoagle>) | [![[Pasted image 20240303214725.png]]](<Quin Fellbrook>) |
+| [![[cave 2.png]]](<Gloomstone Cavern>) | [![[Pasted image 20240423002234.png]]](<Liri>) | [![[Midwood River 1.png]]](<Verdant Forest>) |
+| [![[Pasted image 20240307192632.png]]](<Verdant Forest>) | [![[Meetup Spot 1.png]]](<Highvale Manor>) | [![[Orb of Varthis.webp]]](<Orb of Varthis>) |
+| [![[eye of mortem 1.gif]]](<Post Mortem>) | [![[Pasted image 20240305171941.png]]](<Gilbreives>) | [![[Pasted image 20240304095804.png]]](<Grink Growheart>) |
+| [![[DALL·E 2024-04-12 19.23.35 - A large, expansive lair inside a cave, depicted in a gritty medieval fantasy painting style. The room is dark and vast, illuminated only by numerous l 1.webp]]](<Gloomstone Cavern>) | [![[Ysgarlad.png]]](<Ysgarlad>) | [![[Nythria.png]]](<Nythria>) |
+| [![[Pasted image 20240610200031.png]]](<Sarmon>) | [![[Pasted image 20240611140122.png]]](<Ciaran Emberfall>) | [![[Pasted image 20240610201559.png]]](<Rocky Refuge>) |
+| [![[Pasted image 20240611204602.png]]](<Cannibals of Gloomstone Cavern>) | [![[Pasted image 20240419133311.png]]](<Rorkard>) | [![[Pasted image 20240611140949.png]]](<Francindo>) |
+| [![[Pasted image 20240302234418.png]]](<Brogan Stone-Flask>) | [![[Pasted image 20240610205443.png]]](<Post Mortem>) | [![[Breaker.png]]](<The Willbreaker>) |
+| [![[ysgarlad icon.png]]](<Ysgarlad>) | | |
