@@ -1,5 +1,5 @@
 ---
-draft: "true"
+draft: 
 aliases:
 ---
 *Half-Giant Male 50 [[Gloomstone Cavern]]*
