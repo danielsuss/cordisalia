@@ -6,7 +6,7 @@ aliases:
   - Mugwort's
   - mugwort's
 ---
-*Goblin Male ??? ???*
+*Goblin Male ??? [[The Mirage]]*
 ![[Mugwort.png]]
 > *It's not just soup and beer that any goblin could make! It's SLOP!*
 ###### Overview

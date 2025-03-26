@@ -4,7 +4,7 @@ aliases:
 ---
 *Elf Male ??? [[Gloomstone Cavern]]*
 ![[Pasted image 20240611203955.png]]
-> **
+> *Wagwan pussy rasclart me bombo skelly gwan an fookin dyied*
 ###### Overview
 - [[Varthis the Cursed]] was one of the [[Cannibals of Gloomstone Cavern]]
 - He was a strong mage, practicing necromancy, as well as other schools of offensive magic

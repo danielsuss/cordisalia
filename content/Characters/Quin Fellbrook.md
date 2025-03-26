@@ -14,4 +14,4 @@ aliases:
 ###### [[Chapter 2 - Into the Verdant Forest]]
 - Was part of the group that travelled with the gang through the thick part of the [[Verdant Forest]] on their journey to [[Rorkard]]
 - Inventor of [[Quin's Spice Blend]]
-- Lost to [[Brogan Stone-Flask|Brogan]] in an eating competition to see who could eat the most spicy food, giving him a bag of his spice blend as a reward
+- Lost to [[Brogan Stone-Flask|Brogan]] in an eating competition to see who could eat the most spicy food, giving him a bag of his [[Quin's Spice Blend|spice blend]] as a reward
