@@ -9,4 +9,4 @@ aliases:
 ###### Appearances
 ###### [[Chapter 5 - Kiara's Deception]]
 - Used by [[Orson Emberfall|Orson]] during the gangs fight with the [[Cannibals of Gloomstone Cavern]]
-- One was each taken by [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa Wuvarion|Woo]] after they won the fight
+- One was each taken by [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] after they won the fight

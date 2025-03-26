@@ -69,7 +69,7 @@ aliases:
 - Not sure where to go next on their journey, they talk to [[Amara]], who states she wants to go see the dragons in [[Wyrmsgard]]
 - gang decides to accompany [[Amara]] to [[Wyrmsgard]]
 - they go on one last shopping trip in [[Rorkard]] to gather supplies before their journey
-- [[Ylvëstrïa Wuvarion|Woo]] goes to [[Spirit Reader Shanya's]] and buys a new spell Sussmann's Mind Whip
+- [[Ylvëstrïa|Woo]] goes to [[Spirit Reader Shanya's]] and buys a new spell Sussmann's Mind Whip
 - Rest of the gang goes to [[Norbert's General]]
 - [[Norbert]] recommends they buy raincoats, as the path to [[Wyrmsgard]] through [[Florion's Ridge]] is constantly rainy
 - they buy raincoats and rations for the journey which is
@@ -82,7 +82,7 @@ aliases:
 - he raises his hand, and the smoke from his pipe starts swirling into a large mass putting the gang at alert
 - the smoke forms into a hand, and gently waves at the gang, they see the goblin laughing
 - they walk closer and the man speaks to them - "you all look freezing hahaha, it seems florion is sorrowful today as always"
-- [[Ysgarlad]] asks who [[Florion]] is and [[Ylvëstrïa Wuvarion|Woo]] explains
+- [[Ysgarlad]] asks who [[Florion]] is and [[Ylvëstrïa|Woo]] explains
 - the goblin introduces himself as [[Halibon]] and invites the gang into his shack to rest and for a warm meal
 - sceptical at first, the gang decide to take him up on his offer, [[Ysgarlad]] not so sure
 - as they walk inside, they see a small interior, with a fireplace in the corner of the room with a pot dangling above it, an arm chair next to it facing out into the room, two sofas facing the fireplace, and a small table behind towards another smaller room which is the kitchen
@@ -254,7 +254,7 @@ GRONK:
 ```
 - You hear a smack, Rowena slaps gronk across the face
 - After a brief discussion with Gronk about keeping his dick in his pants
-- End up leaving town with Brogan riding with Gronk, Rowena riding with [[Ylvëstrïa Wuvarion]] and Quin riding with [[Ysgarlad]]
+- End up leaving town with Brogan riding with Gronk, Rowena riding with [[Ylvëstrïa]] and Quin riding with [[Ysgarlad]]
 ### Scene 3 - Riding the horses through the forest along the river
 ![[Pasted image 20240305175936.png]]
 #### Sensory Description
@@ -587,7 +587,7 @@ Hoagle clenches his fists and starts to protest, only to sigh, shrug his shoulde
 Elinor:
 	Could you three stay a while longer and see if you can sort them out? I can pay, and you’d be welcome to stay this evening in my cabin. It’s much nicer travelling through the Verdant Forest when the sun is high anyway.
 ```
-After a brief discussion with each other, with [[Ylvëstrïa Wuvarion|Woo]] stating that she’d rather they be on their way, the gang reaches an agreement.
+After a brief discussion with each other, with [[Ylvëstrïa|Woo]] stating that she’d rather they be on their way, the gang reaches an agreement.
 ```
 Ysgarlad:
 	Alright Elinor, we’ll give you a hand, especially after you’ve treated us so well.
@@ -606,10 +606,10 @@ draft: "true"
 - finally made it to Rorkard and were greeted by a fisherman
 - [[Ysgarlad]] and [[Liri]] Delivered a cake to [[Sarmon]] at the [[Rocky Refuge]]
 - [[Ysgarlad]] approached by [[Kiara]] requesting help in 2 days time to carry crystals out of [[Gloomstone Cavern]]
-- [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa Wuvarion|Woo]] made some money by cheating a gambler called [[Merek]] at his own game
-- [[Ylvëstrïa Wuvarion|Woo]] was delivered a secret note by a cat from [[Post Mortem]] stating that the [[Hooded Man]] is resting in the tavern
+- [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] made some money by cheating a gambler called [[Merek]] at his own game
+- [[Ylvëstrïa|Woo]] was delivered a secret note by a cat from [[Post Mortem]] stating that the [[Hooded Man]] is resting in the tavern
 - The gang reconvened at the [[Cruster Guild]], seeking out [[Crystus]], end up running into the fisherman again, who turns out to be [[Crystus]]
-- [[Ylvëstrïa Wuvarion|Woo]] asks [[Crystus]] about the [[Odd Stone]], he says its a special type of ancient runic stone called a [[Lodestone]] that can be used to make special equipment
+- [[Ylvëstrïa|Woo]] asks [[Crystus]] about the [[Odd Stone]], he says its a special type of ancient runic stone called a [[Lodestone]] that can be used to make special equipment
 - The gang ask [[Crystus]] about the [[Fragment of the Eternal Shadow]], he tells them a about [[The Coalescence]]
 - [[Brogan Stone-Flask|Brogan]] steals a blue gem for [[Liri]]
 - The gang return to the [[Rocky Refuge]] in search of the [[Hooded Man]]
@@ -698,7 +698,7 @@ draft: "true"
 - Fight then ensues
 - [[Hooded Man]] ends up dying when [[Brogan Stone-Flask|Brogan]] displaces him mid teleportation spell with a thunderwave
 - His body dissolves
-- [[Ylvëstrïa Wuvarion|Woo]] puts on the [[Circlet of the Occult]] and becomes paralysed, seeing a vision of eyes and static looking into her soul, [[Brogan Stone-Flask|Brogan]] and [[Ysgarlad]] have to free her
+- [[Ylvëstrïa|Woo]] puts on the [[Circlet of the Occult]] and becomes paralysed, seeing a vision of eyes and static looking into her soul, [[Brogan Stone-Flask|Brogan]] and [[Ysgarlad]] have to free her
 - Gang recovers the [[Fragment of the Eternal Shadow]] from a bag in the room, [[Brogan Stone-Flask|Brogan]] claims a dagger
 - [[Sarmon]] comes to inspect the commotion, realising the gang started a brawl and caused damage, he demands reparations of 250GP in the next 3 days, allowing the gang to stay at the inn while they collect money
 - The next morning the gang overhears [[Mirabel Emberfall]] crying at the notice board in the inn
@@ -706,8 +706,8 @@ draft: "true"
 - the gang agrees to meet her and her friend [[Lunette Emberfall]] to go find [[Orson Emberfall]] the next day
 - in the mean time they visit the market district of [[Rorkard]]
 - They stop at [[Norbert's General]], meeting [[Norbert]], [[Brogan Stone-Flask|Brogan]] buys some nails
-- next [[Ironhand Forge]] where they meet [[Francindo]], [[Liri]] gets some new clothes, [[Ysgarlad]] and [[Ylvëstrïa Wuvarion|Woo]] sell the giant boar pelt for 60GP a piece
-- next [[Spirit Reader Shanya's]] where they meet [[Shanya]], [[Ylvëstrïa Wuvarion|Woo]] buys a scroll of spiderwalking
+- next [[Ironhand Forge]] where they meet [[Francindo]], [[Liri]] gets some new clothes, [[Ysgarlad]] and [[Ylvëstrïa|Woo]] sell the giant boar pelt for 60GP a piece
+- next [[Spirit Reader Shanya's]] where they meet [[Shanya]], [[Ylvëstrïa|Woo]] buys a scroll of spiderwalking
 - Gang gets their spirit read
 - [[Shanya]] gets scared of [[Liri]] while reading her spirit and apologises, begging the gang to leave
 - Finally gang visits the [[Cruster Guild]], where [[Crystus]] looks at the [[Fragment of the Eternal Shadow]]
@@ -718,11 +718,11 @@ draft: "true"
 - Inside the mining station the gang encounter three brutes, [[Korgar the Spiked Menace]], [[Varthis the Cursed]] and [[Gorbold the Gorgeful]], a bout ensues
 - [[Varthis the Cursed]], a necromancer, raises another skeleton to fight for him
 - the skeleton turns out to be [[Orson Emberfall]] recognisable by his red scarf
-- after a long gruelling fight and against all odds, the gang manages to come out on top, albeit with [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa Wuvarion|Woo]] going down.
-- [[Ysgarlad]] revives [[Brogan Stone-Flask|Brogan]] with a health potion, who then in turn revives [[Ylvëstrïa Wuvarion|Woo]] with a healing spell
+- after a long gruelling fight and against all odds, the gang manages to come out on top, albeit with [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] going down.
+- [[Ysgarlad]] revives [[Brogan Stone-Flask|Brogan]] with a health potion, who then in turn revives [[Ylvëstrïa|Woo]] with a healing spell
 - The gang loot the bodies of their adversaries, finding 300GP
-- [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa Wuvarion|Woo]] each take one of [[Orson's Longswords]]
-- [[Ylvëstrïa Wuvarion|Woo]] takes the [[Orb of Varthis]]
+- [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] each take one of [[Orson's Longswords]]
+- [[Ylvëstrïa|Woo]] takes the [[Orb of Varthis]]
 - [[Ysgarlad]] takes [[Orson's Scarf]] to give to [[Mirabel Emberfall]]
 - Left trapped in the cave, the story continues...
 ### Characters
@@ -798,25 +798,25 @@ draft: "true"
 - They see [[Morgrith the Mother|Mother]], [[Morgrith's Servant|Mother's Servant]] and [[Amara]] who is being tortured by [[Morgrith's Servant|Mother's Servant]] "meat for mother"
 - they are spotted by [[Amara]], who pleads them to help with her eyes, and warns them about [[Morgrith the Mother|Mother]]
 - gang devises a plan
-- [[Ylvëstrïa Wuvarion|Woo]] and [[Brogan Stone-Flask|Brogan]] will sneak around [[Morgrith the Mother|Mother]] and assassinate [[Morgrith's Servant|Mother's Servant]]
+- [[Ylvëstrïa|Woo]] and [[Brogan Stone-Flask|Brogan]] will sneak around [[Morgrith the Mother|Mother]] and assassinate [[Morgrith's Servant|Mother's Servant]]
 - [[Ysgarlad]] throws [[Liri]] in rat form, who hits the wall, distracting the servant as he looks to nab the rodent
 - they manage to sneak past and kill the servant successfully, using [[Orson's Longswords]]
 - [[Morgrith the Mother|Mother]] is demanding more food
 - [[Brogan Stone-Flask|Brogan]] fails to catch the servant's head before it hits the ground, causing [[Morgrith the Mother|Mother]] to look in their direction
-- [[Ylvëstrïa Wuvarion|Woo]] successfully deceives [[Morgrith the Mother|Mother]] by imitating the servant
+- [[Ylvëstrïa|Woo]] successfully deceives [[Morgrith the Mother|Mother]] by imitating the servant
 - [[Amara]] starts panicking as they do this, [[Brogan Stone-Flask|Brogan]] manages to calm her down before cutting her free
 - she collapses
 - [[Brogan Stone-Flask|Brogan]] gives her a piggy back as they start to sneak back past [[Morgrith the Mother|Mother]]
 - they get midway past mother before [[Brogan Stone-Flask|Brogan]] slips on a rock
 - he manages to catch himself, but [[Amara]] lets out a yelp, causing [[Morgrith the Mother|Mother]] to become wary again
 - [[Morgrith the Mother|Mother]] demands more food, trying to work out what is infront of them, she thinks its [[Korgar the Spiked Menace|Korgar]]
-- [[Ylvëstrïa Wuvarion|Woo]] manages to deceive [[Morgrith the Mother|Mother]] yet again, this time by imitating [[Korgar the Spiked Menace|Korgar]], telling [[Morgrith the Mother|Mother]] she will have more meat soon
+- [[Ylvëstrïa|Woo]] manages to deceive [[Morgrith the Mother|Mother]] yet again, this time by imitating [[Korgar the Spiked Menace|Korgar]], telling [[Morgrith the Mother|Mother]] she will have more meat soon
 - just as they get back to the entrance to the lair, the gang bolt
 - as they run away they hear [[Morgrith the Mother|Mother]] running rampant, confused as to what has been going on
 - they run all the way back to the fork, and head up the left fork before stopping
 - they get to the hidden waterfall entrance, where [[Amara]] is put down to rest
 - [[Liri]] transforms into a bird to work out where [[Rorkard]] is
-- [[Ylvëstrïa Wuvarion|Woo]] washes [[Amara|Amara's]] wounds with water from the waterfall
+- [[Ylvëstrïa|Woo]] washes [[Amara|Amara's]] wounds with water from the waterfall
 - [[Ysgarlad]] starts talking to [[Amara]] to work out what happened
 - discovers that [[Amara]] is an adventurer from the [[Bay of Groves]]
 - she got tricked by [[Kiara]] in the exact same way that the gang did, however she knows nothing of [[Lunette Emberfall]]
@@ -833,12 +833,12 @@ draft: "true"
 - they head to [[Spirit Reader Shanya's]]
 - [[Shanya]] agrees to help, on the condition that [[Liri]] stays outside
 - [[Ysgarlad]] heads outside with [[Liri]]
-- [[Shanya]] gets [[Ylvëstrïa Wuvarion|Woo]] to aid her in healing [[Amara]]
+- [[Shanya]] gets [[Ylvëstrïa|Woo]] to aid her in healing [[Amara]]
 - asks [[Brogan Stone-Flask|Brogan]] to leave as they undress [[Amara]]
 - they heal for a while, in the meantime [[Ysgarlad]] and [[Brogan Stone-Flask|Brogan]] are worried about [[Liri]]
 - [[Brogan Stone-Flask|Brogan]] concludes there is nothing wrong
 - [[Liri]] starts snoring faintly
-- [[Ylvëstrïa Wuvarion|Woo]] tells the gang that [[Amara]] is stable, and takes care of [[Liri]] while [[Brogan Stone-Flask|Brogan]] and [[Ysgarlad]] go inside to talk to [[Amara]]
+- [[Ylvëstrïa|Woo]] tells the gang that [[Amara]] is stable, and takes care of [[Liri]] while [[Brogan Stone-Flask|Brogan]] and [[Ysgarlad]] go inside to talk to [[Amara]]
 - [[Ysgarlad]] and [[Amara]] talk more about [[Kiara]], amara says she is too weak to even wield a sword at the moment
 - [[Ysgarlad]] swears to [[Amara]] that they will find and get their revenge on [[Kiara]]
 - [[Amara]] stays with [[Shanya]] for the evening
@@ -851,15 +851,15 @@ draft: "true"
 - in the meanwhile the entire inn has turned to look at who was arguing
 - the girl in the back was [[Kiara]], she sees the gang, looks in shock, and jumps out the window
 - [[Ysgarlad]] runs to the same window, and dives out, landing on his stomach and sliding in the mud
-- [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa Wuvarion|Woo]] exit the inn, to look for kiara aswell
+- [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] exit the inn, to look for kiara aswell
 - all of them see [[Kiara]] jump above ysgarlad across onto another nearby roof
 - [[Kiara]] is hopping across the rooves of [[Rorkard]]
-- [[Ylvëstrïa Wuvarion|Woo]] fires magic missiles at kiara
+- [[Ylvëstrïa|Woo]] fires magic missiles at kiara
 - the first one hits her shoulder, but she blocks the rest with a counterspell magic shield
 - Ysgarlad pulls himself onto the roof, and starts jumping after kiara - he screams her name
 - by this point she has disappeared off of the rooves into the back alley of [[Rorkard]]
 - [[Brogan Stone-Flask|Brogan]] runs to where they last saw her
-- [[Ylvëstrïa Wuvarion|Woo]] heads back inside the inn with [[Liri]] and starts talking to [[Gaffot]]
+- [[Ylvëstrïa|Woo]] heads back inside the inn with [[Liri]] and starts talking to [[Gaffot]]
 - [[Brogan Stone-Flask|Brogan]] and [[Ysgarlad]] arrive at the same spot, [[Ysgarlad]] jumps off of the roof into the alleyways
 - they follow the droplets of blood from [[Kiara]]'s shoulder, until they reach a storm drain
 - the blood heads into the drain
@@ -874,7 +874,7 @@ draft: "true"
 - sarmon agrees to extend the time on their debt while they are dealing with kiara
 - they pay to stay at the inn, 5 gold each
 - [[Ysgarlad]] plans to meet [[Mirabel Emberfall]] in the morning
-- [[Ylvëstrïa Wuvarion|Woo]] plans to send a message to [[Post Mortem]] about the supposed [[Rorkard]] thieves guild in the morning
+- [[Ylvëstrïa|Woo]] plans to send a message to [[Post Mortem]] about the supposed [[Rorkard]] thieves guild in the morning
 ### Loose Notes
 - Woo's dream about the occult
 - Ysgarlad and mirabel
@@ -993,7 +993,7 @@ aliases:
 - liri remembers nothing
 - gang discusses their plan for the day
 - ysgarlad liri and brogan will go to [[Mirabel Emberfall]]
-- [[Ylvëstrïa Wuvarion|Woo]] will go to find [[Post Mortem]]
+- [[Ylvëstrïa|Woo]] will go to find [[Post Mortem]]
 - ysgarlad liri and brogan set off
 - woo sees the post mortem cat on a roof and starts following it into a street
 - ysgarlad liri brogan arrive at mirabels
@@ -1252,7 +1252,7 @@ aliases:
 - ysgarlad wakes up and interrogates kiara
 - learns that she wanted to destroy [[Rorkard]] for power and the legacy of her family who used to run the[[Abandoned Thieves Guild]]
 - tells the gang to ask crystus about what happened to her family
-- brogan and [[Ylvëstrïa Wuvarion|Woo]] are in the background bullshitting during the interrogation
+- brogan and [[Ylvëstrïa|Woo]] are in the background bullshitting during the interrogation
 - after he's done, ysgarlad nods to amara
 - amara walks towards kiara, and points at her
 - the two red wolves instantly leap at kiara and maul her to death before eating her
@@ -1315,12 +1315,12 @@ aliases:
 ![[Pasted image 20240229220403.png]]
 At the 83rd annual [[Lumber Festival]] of the Forest town [[Gilbreives]] in the [[Verdant Continent]], howls of laughter can be heard from a crowd gathered around a man telling his stories.
 ![[Pasted image 20240229220442.png]]
-Attending the festival are also 4 individuals, who seem to have nothing in common, apart from the fact that they are the only people not laughing at the man's story. After seeing this, the man calls them out, demanding them to state their name and their case. Among the four, a Dwarf, [[Brogan Stone-Flask]] who flips a coin between his fingers while chugging down mugs of ale. A [[Hooded Man]], the only thing visible on his face a black goatee, who says nothing. An elf, [[Ylvëstrïa Wuvarion]], who throws insults at the man after he makes misogynistic advances. A human named [[Ysgarlad]], who introduces himself and then instantly challenges the man to an arm wrestle! The man accepts, betting 15 gold coins against [[Ysgarlad]]'s 5. Brogan bets 9 on [[Ysgarlad]] to win. After putting up a meagre amount of resistance, [[Ysgarlad]] loses. The crowd roars with laughter and the man scoops up his winnings.
+Attending the festival are also 4 individuals, who seem to have nothing in common, apart from the fact that they are the only people not laughing at the man's story. After seeing this, the man calls them out, demanding them to state their name and their case. Among the four, a Dwarf, [[Brogan Stone-Flask]] who flips a coin between his fingers while chugging down mugs of ale. A [[Hooded Man]], the only thing visible on his face a black goatee, who says nothing. An elf, [[Ylvëstrïa]], who throws insults at the man after he makes misogynistic advances. A human named [[Ysgarlad]], who introduces himself and then instantly challenges the man to an arm wrestle! The man accepts, betting 15 gold coins against [[Ysgarlad]]'s 5. Brogan bets 9 on [[Ysgarlad]] to win. After putting up a meagre amount of resistance, [[Ysgarlad]] loses. The crowd roars with laughter and the man scoops up his winnings.
 ```
 ???:
 	I didn't expect you to be this weak! Hahahahaha!
 ```
-The man finally introduces himself as [[Gronk Growheart]], the record holder for the most chops using the [[Emerald Axe]] against the [[Great Tree of Gilbreives]]. He then tells the gang about the wood chopping competition about how the winner gets to swing the [[Emerald Axe]], and welcomes them to [[Gilbreives]] and tells them to enjoy the festival. He seems to be very popular with the ladies. [[Gronk Growheart|Gronk]] notices that amongst all of the commotion that the fourth man has disappeared, but blames it on himself being drunk and convinces himself that there wasn't a fourth individual after all. After the crowd returns to normal, [[Ysgarlad]] decides to go look for the [[Hooded Man]], whom he happens to see walking towards the town hall. While [[Ysgarlad]] follows the mysterious figure, [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa Wuvarion|Woo]] decide to go enter themselves in the wood chopping competition.
+The man finally introduces himself as [[Gronk Growheart]], the record holder for the most chops using the [[Emerald Axe]] against the [[Great Tree of Gilbreives]]. He then tells the gang about the wood chopping competition about how the winner gets to swing the [[Emerald Axe]], and welcomes them to [[Gilbreives]] and tells them to enjoy the festival. He seems to be very popular with the ladies. [[Gronk Growheart|Gronk]] notices that amongst all of the commotion that the fourth man has disappeared, but blames it on himself being drunk and convinces himself that there wasn't a fourth individual after all. After the crowd returns to normal, [[Ysgarlad]] decides to go look for the [[Hooded Man]], whom he happens to see walking towards the town hall. While [[Ysgarlad]] follows the mysterious figure, [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] decide to go enter themselves in the wood chopping competition.
 ![[Pasted image 20240229220607.png]]
 Entering the [[Gilbreives Town Hall]], [[Ysgarlad]] finds nothing inside, apart from an old man sleeping in a throne.
 ![[Pasted image 20240418150551.png]]
@@ -1329,9 +1329,9 @@ He decides to wake the old man up, stating that he saw a shady figure enter the 
 Guard:
 	It's missing! The Emerald Axe is gone!
 ```
-The old man scowls in disbelief, and pleads with the guard and [[Ysgarlad]] to go inform the rest of the town of what has happened. All the meanwhile, [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa Wuvarion|Woo]] have entered into the [[Lumber Festival|wood chopping competition]]. While they wait for it to start, [[Brogan Stone-Flask|Brogan]] challenges the man standing next to him, to a pint off. The man accepts and introduces himself as [[Quin Fellbrook]], the man to last win the [[Lumber Festival|wood chopping competition]]. [[Brogan Stone-Flask|Brogan]] opens his throat and gulps his pint in one. On the contrary, [[Quin Fellbrook|Quin]] chokes on his drink and runs away in embarrassment dropping two gold coins on his way out. Laughter can be heard from [[Gronk Growheart|Gronk]], who was looking on from a distance. [[Ysgarlad]] and the guard come running to find [[Gronk Growheart|Gronk]], telling him that the axe has been stolen. [[Gronk Growheart|Gronk]] panics, and notifies everyone to find the axe as fast as possible. This attracts the attention of [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa Wuvarion|Woo]]. After providing some comfort to an official running the chopping competition they decide to go help [[Ysgarlad]] and [[Gronk Growheart|Gronk]] find the [[Emerald Axe]]. [[Gronk Growheart|Gronk]] sprints off officer Earl style.
+The old man scowls in disbelief, and pleads with the guard and [[Ysgarlad]] to go inform the rest of the town of what has happened. All the meanwhile, [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] have entered into the [[Lumber Festival|wood chopping competition]]. While they wait for it to start, [[Brogan Stone-Flask|Brogan]] challenges the man standing next to him, to a pint off. The man accepts and introduces himself as [[Quin Fellbrook]], the man to last win the [[Lumber Festival|wood chopping competition]]. [[Brogan Stone-Flask|Brogan]] opens his throat and gulps his pint in one. On the contrary, [[Quin Fellbrook|Quin]] chokes on his drink and runs away in embarrassment dropping two gold coins on his way out. Laughter can be heard from [[Gronk Growheart|Gronk]], who was looking on from a distance. [[Ysgarlad]] and the guard come running to find [[Gronk Growheart|Gronk]], telling him that the axe has been stolen. [[Gronk Growheart|Gronk]] panics, and notifies everyone to find the axe as fast as possible. This attracts the attention of [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]]. After providing some comfort to an official running the chopping competition they decide to go help [[Ysgarlad]] and [[Gronk Growheart|Gronk]] find the [[Emerald Axe]]. [[Gronk Growheart|Gronk]] sprints off officer Earl style.
 ![[run.mp4]]
-[[Ylvëstrïa Wuvarion|Woo]] spots some commotion in the distance; the [[Hooded Man]] pushing through a crowd of people, trying to escape towards the north gate of the town. As they run towards the north gate, [[Brogan Stone-Flask|Brogan]] riding on [[Ylvëstrïa Wuvarion|Woo]]'s shoulders, the hooded man comes into vision. Just as the man is about to escape, [[Gronk Growheart|Gronk]] crashes down in front of him, jumping from a tree.
+[[Ylvëstrïa|Woo]] spots some commotion in the distance; the [[Hooded Man]] pushing through a crowd of people, trying to escape towards the north gate of the town. As they run towards the north gate, [[Brogan Stone-Flask|Brogan]] riding on [[Ylvëstrïa|Woo]]'s shoulders, the hooded man comes into vision. Just as the man is about to escape, [[Gronk Growheart|Gronk]] crashes down in front of him, jumping from a tree.
 ```
 Gronk:
 	I've got you now you scoundrel! Hahahahahaha!
@@ -1341,7 +1341,7 @@ The hooded man decides to turn and face our gang of three, holding a big weapon 
 Gronk:
 	You guys are worthless! Hahahahahaha!
 ```
-The hooded man starts murmuring a spell and unbandages the weapon, a heavy battle axe glinting bright green in the sunlight a small shadowy jewel embedded in the centre of the head. The [[Emerald Axe]]! He rips the purple jewel from the head with his right hand, tossing the axe to the floor. Angered by this, [[Gronk Growheart|Gronk]] swiftly grabs the man by the neck and hoists him into the air. The man chants his spell faster and a portal starts to form around him. When the spell is complete the portal disappears, along with the man, and half of [[Gronk Growheart|Gronk]]'s Arm. [[Gronk Growheart|Gronk]] screams in pain. [[Brogan Stone-Flask|Brogan]] yells to the crowd for a healer, resulting in a lady to come running to [[Gronk Growheart|Gronk]]'s aid. His wife. The gang look at each other in irony, thinking of [[Gronk Growheart|Gronk]]'s manly behaviour all the while having a wife. The lady casts a spell which cauterizes the wound on his arm. Thinking he was whispering, [[Brogan Stone-Flask|Brogan]] yells a joke in the ear of [[Ylvëstrïa Wuvarion|Woo]], remarking about [[Gronk Growheart|Gronk]]'s arm.
+The hooded man starts murmuring a spell and unbandages the weapon, a heavy battle axe glinting bright green in the sunlight a small shadowy jewel embedded in the centre of the head. The [[Emerald Axe]]! He rips the purple jewel from the head with his right hand, tossing the axe to the floor. Angered by this, [[Gronk Growheart|Gronk]] swiftly grabs the man by the neck and hoists him into the air. The man chants his spell faster and a portal starts to form around him. When the spell is complete the portal disappears, along with the man, and half of [[Gronk Growheart|Gronk]]'s Arm. [[Gronk Growheart|Gronk]] screams in pain. [[Brogan Stone-Flask|Brogan]] yells to the crowd for a healer, resulting in a lady to come running to [[Gronk Growheart|Gronk]]'s aid. His wife. The gang look at each other in irony, thinking of [[Gronk Growheart|Gronk]]'s manly behaviour all the while having a wife. The lady casts a spell which cauterizes the wound on his arm. Thinking he was whispering, [[Brogan Stone-Flask|Brogan]] yells a joke in the ear of [[Ylvëstrïa|Woo]], remarking about [[Gronk Growheart|Gronk]]'s arm.
 ```
 Brogan:
 	I GUESS HE'S ARMLESS NOW!
@@ -1365,17 +1365,17 @@ Gronk:
 ???:
 	I am Grink Growheart, father of Gronk and leader of Gilbreives.
 ```
-[[Grink Growheart|Grink]] then continues to thank the three for their help in trying to retrieve the axe, and looks puzzled about the situation. [[Ylvëstrïa Wuvarion|Woo]] asks if the man stole the gemstone from the axe because it was a [[Fragment of the Eternal Shadow]].
+[[Grink Growheart|Grink]] then continues to thank the three for their help in trying to retrieve the axe, and looks puzzled about the situation. [[Ylvëstrïa|Woo]] asks if the man stole the gemstone from the axe because it was a [[Fragment of the Eternal Shadow]].
 ```
 Grink:
 	Where did you learn that name?
 ```
-[[Grink Growheart|Grink]] a shoots a serious look at [[Ylvëstrïa Wuvarion|Woo]]. She explains that she once read about a similar gemstone in a page torn out of a book.
+[[Grink Growheart|Grink]] a shoots a serious look at [[Ylvëstrïa|Woo]]. She explains that she once read about a similar gemstone in a page torn out of a book.
 ```
 Grink:
 	I have only heard that name once before - and I was told not to throw it around loosely. Perhaps though, as you seem to already know this name, you may be the most suitable person in Gilbreives to retreive the stone. What do you say?
 ```
-[[Ylvëstrïa Wuvarion|Woo]] and the rest of the gang look at each other, before [[Ylvëstrïa Wuvarion|Woo]] looks back to [[Grink Growheart|Grink]] and nods. [[Grink Growheart|Grink]] strokes his beard pensively.
+[[Ylvëstrïa|Woo]] and the rest of the gang look at each other, before [[Ylvëstrïa|Woo]] looks back to [[Grink Growheart|Grink]] and nods. [[Grink Growheart|Grink]] strokes his beard pensively.
 ```
 Grink:
 	Alright, It might be worth looking for information from the one man who told me that name years ago. He's much more an expert than I am. His name is Crystus, Crystus of the Cruster Guild.
@@ -1392,7 +1392,7 @@ As [[Ysgarlad]] and [[Grink Growheart|Grink]] talk back and forth about provisio
 Gronk:
 	He had black facial hair, glowing purple eyes, and scarred ragged skin.
 ```
-Upon hearing this information, [[Ylvëstrïa Wuvarion|Woo]] decides to head to an information outpost in the south of the village to send a message to the syndicate [[Post Mortem]] regarding the visual features of the [[Hooded Man]]. She finds a kid in a shed, who upon hearing the code word transforms into a tall lanky man, agreeing to distribute the information as he sees fit. Upon returning to the town hall, [[Ysgarlad]] and [[Grink Growheart|Grink]] have finished discussing the trip to [[Rorkard]]. Men from [[Gilbreives]] will take the three halfway to [[Rorkard]] by horseback, from where they will complete the rest by foot. [[Gilbreives]] will provide supplies for the journey. Finally, as the sun is setting [[Grink Growheart|Grink]] provides rooms at the  [[Sleepy Leaf]], an inn for the three to sleep, with the plan being to set out in the morning.
+Upon hearing this information, [[Ylvëstrïa|Woo]] decides to head to an information outpost in the south of the village to send a message to the syndicate [[Post Mortem]] regarding the visual features of the [[Hooded Man]]. She finds a kid in a shed, who upon hearing the code word transforms into a tall lanky man, agreeing to distribute the information as he sees fit. Upon returning to the town hall, [[Ysgarlad]] and [[Grink Growheart|Grink]] have finished discussing the trip to [[Rorkard]]. Men from [[Gilbreives]] will take the three halfway to [[Rorkard]] by horseback, from where they will complete the rest by foot. [[Gilbreives]] will provide supplies for the journey. Finally, as the sun is setting [[Grink Growheart|Grink]] provides rooms at the  [[Sleepy Leaf]], an inn for the three to sleep, with the plan being to set out in the morning.
 
 *Our story continues in [[Chapter 2 - Into the Verdant Forest]]...*
 
@@ -1403,12 +1403,12 @@ draft:
 aliases:
 ---
 ![[Pasted image 20240418182746.png]]
-After a restful night at the [[Sleepy Leaf]] in [[Gilbreives]], we find [[Brogan Stone-Flask|Brogan]], [[Ylvëstrïa Wuvarion|Woo]] and [[Ysgarlad]] in the morning sitting downstairs waiting for breakfast. Just as they get their food, the door to the Inn slams open.
+After a restful night at the [[Sleepy Leaf]] in [[Gilbreives]], we find [[Brogan Stone-Flask|Brogan]], [[Ylvëstrïa|Woo]] and [[Ysgarlad]] in the morning sitting downstairs waiting for breakfast. Just as they get their food, the door to the Inn slams open.
 ```
 Gronk:
 	BWAHAHAHAHAHA THERE'S MY FAVOURITE CREW OF REJECTS! AND BY THAT I MEAN THE TWO GOONS DISGRACING THE PRESENCE OF THIS WELL-ENDOWED ELF!
 ```
-[[Gronk Growheart|Gronk]] bursts through the door and paces towards the table where the gang is sat. He laughs and smacks [[Brogan Stone-Flask|Brogan]] on the back just as he takes his first bite of breakfast, causing him to choke and spit it out. He informs the gang that their escort to [[Rorkard]] is waiting at the north gate, and that they should be on their way as soon as they can. After [[Ylvëstrïa Wuvarion|Woo]] decides to steal and chug a tankard of ale from an unsuspecting patron of the inn, the gang makes their way outside and towards the gates.
+[[Gronk Growheart|Gronk]] bursts through the door and paces towards the table where the gang is sat. He laughs and smacks [[Brogan Stone-Flask|Brogan]] on the back just as he takes his first bite of breakfast, causing him to choke and spit it out. He informs the gang that their escort to [[Rorkard]] is waiting at the north gate, and that they should be on their way as soon as they can. After [[Ylvëstrïa|Woo]] decides to steal and chug a tankard of ale from an unsuspecting patron of the inn, the gang makes their way outside and towards the gates.
 ![[Pasted image 20240305171941.png]]
 As they get nearer, five figures come into sight. Two people and three horses. [[Gronk Growheart|Gronk]] immediately strides over to one of the horses and starts nuzzling it and calling it pet names, with the horse responding with a passionate neigh.
 ```
@@ -1443,12 +1443,12 @@ Quin:
 Quin:
 	Don't tell me I have to spend 3 days with this rat! This cheat of a dwarf humiliated me by slipping something in my drink yesterday!
 ```
-[[Quin Fellbrook|Quin]] protests the woman, who is now glaring at [[Brogan Stone-Flask|Brogan]]. She seems to recognise him as well and does not have an impressed look on her face. Ultimately, she decides to ignore [[Quin Fellbrook|Quin]] and introduces herself as [[Rowena Growheart]], [[Gronk Growheart|Gronk]]'s wife. [[Rowena Growheart|Rowena]] explains that [[Quin Fellbrook|Quin]], [[Gronk Growheart|Gronk]] and herself will be accompanying the gang through the [[Verdant Forest]], about half way to their destination of [[Rorkard]]. [[Ylvëstrïa Wuvarion|Woo]] walks over to her with a glint in her eye and serenades [[Rowena Growheart|Rowena]]. [[Rowena Growheart|Rowena]] looks at [[Ylvëstrïa Wuvarion|Woo]] with a puzzled look. The rest of the gang laughs. [[Gronk Growheart|Gronk]] walks over to [[Ylvëstrïa Wuvarion|Woo]] and starts looking at her with a sultry look on his face.
+[[Quin Fellbrook|Quin]] protests the woman, who is now glaring at [[Brogan Stone-Flask|Brogan]]. She seems to recognise him as well and does not have an impressed look on her face. Ultimately, she decides to ignore [[Quin Fellbrook|Quin]] and introduces herself as [[Rowena Growheart]], [[Gronk Growheart|Gronk]]'s wife. [[Rowena Growheart|Rowena]] explains that [[Quin Fellbrook|Quin]], [[Gronk Growheart|Gronk]] and herself will be accompanying the gang through the [[Verdant Forest]], about half way to their destination of [[Rorkard]]. [[Ylvëstrïa|Woo]] walks over to her with a glint in her eye and serenades [[Rowena Growheart|Rowena]]. [[Rowena Growheart|Rowena]] looks at [[Ylvëstrïa|Woo]] with a puzzled look. The rest of the gang laughs. [[Gronk Growheart|Gronk]] walks over to [[Ylvëstrïa|Woo]] and starts looking at her with a sultry look on his face.
 ```
 Gronk:
 	Three days, you're gonna ride with me right? Little lady.
 ```
-[[Ylvëstrïa Wuvarion|Woo]] does not look happy. [[Brogan Stone-Flask|Brogan]] points out [[Gronk Growheart|Gronk]]'s behaviour to [[Rowena Growheart|Rowena]], who promptly walks over and slaps him. After a brief discussion with [[Gronk Growheart|Gronk]] about keeping his misogynistic behaviour, [[Ylvëstrïa Wuvarion|Woo]] decides to ride the three days on [[Rowena Growheart|Rowena]]'s horse. While they are saddling up, the gang sees [[Quin Fellbrook|Quin]] on his horse already, staring out of the gate and into the [[Verdant Forest]]. [[Brogan Stone-Flask|Brogan]] seizes this opportunity. He runs towards [[Quin Fellbrook|Quin]]'s horse, and prepares himself to make a leap onto [[Quin Fellbrook|Quin]]'s Saddle. [[Quin Fellbrook|Quin]] sees this and ushers the Horse to start moving, however the horse only starts trotting away. [[Brogan Stone-Flask|Brogan]] makes a leap, however the only thing in reach is the horses tail, which he firmly clings onto. Startled, the horse starts galloping out of the gate, [[Brogan Stone-Flask|Brogan]] hanging on and bouncing behind the Horse like a speedball. With some effort he manages to rope climb up the tail and hoists himself onto [[Quin Fellbrook|Quin]]'s saddle. He locks his knees into [[Quin Fellbrook|Quin]]'s, and as the Horse continues to gallop off, the rest of the group waiting at the gate hears [[Quin Fellbrook|Quin]]'s angered screams getting quieter and quieter. [[Gronk Growheart|Gronk]] laughs. As they set out of the gate together, [[Rowena Growheart|Rowena]] rejects more of Woo's advances. [[Ysgarlad]] and [[Gronk Growheart|Gronk]] discuss their seating arrangement. [[Gronk Growheart|Gronk]] is avid on being big spoon. Trying to persuade him otherwise, [[Ysgarlad]] fails, [[Gronk Growheart|Gronk]] explaining that they need to "bond". Reluctantly, [[Ysgarlad]] climbs onto the horse in [[Gronk Growheart|Gronk]]'s lap, which then proceeds to make its way out of the gate.
+[[Ylvëstrïa|Woo]] does not look happy. [[Brogan Stone-Flask|Brogan]] points out [[Gronk Growheart|Gronk]]'s behaviour to [[Rowena Growheart|Rowena]], who promptly walks over and slaps him. After a brief discussion with [[Gronk Growheart|Gronk]] about keeping his misogynistic behaviour, [[Ylvëstrïa|Woo]] decides to ride the three days on [[Rowena Growheart|Rowena]]'s horse. While they are saddling up, the gang sees [[Quin Fellbrook|Quin]] on his horse already, staring out of the gate and into the [[Verdant Forest]]. [[Brogan Stone-Flask|Brogan]] seizes this opportunity. He runs towards [[Quin Fellbrook|Quin]]'s horse, and prepares himself to make a leap onto [[Quin Fellbrook|Quin]]'s Saddle. [[Quin Fellbrook|Quin]] sees this and ushers the Horse to start moving, however the horse only starts trotting away. [[Brogan Stone-Flask|Brogan]] makes a leap, however the only thing in reach is the horses tail, which he firmly clings onto. Startled, the horse starts galloping out of the gate, [[Brogan Stone-Flask|Brogan]] hanging on and bouncing behind the Horse like a speedball. With some effort he manages to rope climb up the tail and hoists himself onto [[Quin Fellbrook|Quin]]'s saddle. He locks his knees into [[Quin Fellbrook|Quin]]'s, and as the Horse continues to gallop off, the rest of the group waiting at the gate hears [[Quin Fellbrook|Quin]]'s angered screams getting quieter and quieter. [[Gronk Growheart|Gronk]] laughs. As they set out of the gate together, [[Rowena Growheart|Rowena]] rejects more of Woo's advances. [[Ysgarlad]] and [[Gronk Growheart|Gronk]] discuss their seating arrangement. [[Gronk Growheart|Gronk]] is avid on being big spoon. Trying to persuade him otherwise, [[Ysgarlad]] fails, [[Gronk Growheart|Gronk]] explaining that they need to "bond". Reluctantly, [[Ysgarlad]] climbs onto the horse in [[Gronk Growheart|Gronk]]'s lap, which then proceeds to make its way out of the gate.
 ![[Pasted image 20240305175936.png]]
 As the gang sets out into the [[Verdant Forest]], they are met with a pleasant breeze and the subtle scent of pine trees. They can hear the trees swaying in the wind, as well as the crashing yet calming sound of the river flowing downstream.
 ```
@@ -1465,10 +1465,10 @@ Gronk:
 	Alright alright enough enough. I'll change Gronky Boy's name okay, happy? Anyway, my Motley crew, take a look down to your left, you see that river? Thats the River Midwood. Follow that, and it'll take you all the way to Rorkard.
 ```
 ![[Pasted image 20240305181901.png]]
-After a peaceful journey alongside the [[River Midwood]], as the evening sets in the gang decides to settle down in a spot to camp for the night. [[Rowena Growheart|Rowena]] lights a camp fire with her magic, and [[Quin Fellbrook|Quin]] decides to start cooking claiming that he is the best cook. After eating their fill, [[Ylvëstrïa Wuvarion|Woo]] suggests the gang plays poker. This ends in [[Ylvëstrïa Wuvarion|Woo]] wiping the floor with the rest of the game members, raking in a profit of three gold and one silver pieces from [[Brogan Stone-Flask|Brogan]], [[Quin Fellbrook|Quin]] and [[Gronk Growheart|Gronk]]. As a feeling of contempt and slight drowsiness washes over the gang, they settle down for the night, with [[Gronk Growheart|Gronk]] and [[Quin Fellbrook|Quin]] alternating night watch.
+After a peaceful journey alongside the [[River Midwood]], as the evening sets in the gang decides to settle down in a spot to camp for the night. [[Rowena Growheart|Rowena]] lights a camp fire with her magic, and [[Quin Fellbrook|Quin]] decides to start cooking claiming that he is the best cook. After eating their fill, [[Ylvëstrïa|Woo]] suggests the gang plays poker. This ends in [[Ylvëstrïa|Woo]] wiping the floor with the rest of the game members, raking in a profit of three gold and one silver pieces from [[Brogan Stone-Flask|Brogan]], [[Quin Fellbrook|Quin]] and [[Gronk Growheart|Gronk]]. As a feeling of contempt and slight drowsiness washes over the gang, they settle down for the night, with [[Gronk Growheart|Gronk]] and [[Quin Fellbrook|Quin]] alternating night watch.
 ![[Pasted image 20240305175936.png]]
 The second day of riding is quite uneventful, with the only changes being the following:
-[[Gronk Growheart|Gronk]] has started to rest the stump of his right arm on [[Ysgarlad]]'s shoulder, claiming that they are bonding. Everyone is growing increasingly tired of hearing [[Quin Fellbrook|Quin]] yap on about his accolades. [[Rowena Growheart|Rowena]] confides in [[Ylvëstrïa Wuvarion|Woo]] whilst complaining about [[Gronk Growheart|Gronk]]. [[Ylvëstrïa Wuvarion|Woo]] baby woo listens calmly.
+[[Gronk Growheart|Gronk]] has started to rest the stump of his right arm on [[Ysgarlad]]'s shoulder, claiming that they are bonding. Everyone is growing increasingly tired of hearing [[Quin Fellbrook|Quin]] yap on about his accolades. [[Rowena Growheart|Rowena]] confides in [[Ylvëstrïa|Woo]] whilst complaining about [[Gronk Growheart|Gronk]]. [[Ylvëstrïa|Woo]] baby woo listens calmly.
 ![[Pasted image 20240305181901.png]]
 Before long it is the evening and camp has been set up again. While sitting around the fire eating soup made by [[Quin Fellbrook|Quin]], the gang hears a large sigh from [[Gronk Growheart|Gronk]].
 ```
@@ -1499,7 +1499,7 @@ Confused, [[Brogan Stone-Flask|Brogan]] asks who [[Wren Briarwood]] is, and [[Qu
 Gronk:
 	BWAAHAHAHAHAH Who would've thought that the fearless Quin was a wuss when it comes to being a real man! 
 ```
-[[Quin Fellbrook|Quin]] explains that they grew up around each other but she never noticed him, so now he thinks she hates him and is scared to approach her. [[Gronk Growheart|Gronk]] laughs again. He bets on [[Brogan Stone-Flask|Brogan]] to win and states that if [[Quin Fellbrook|Quin]] wins he'll personally go tell the girl to acknowledge him. [[Ysgarlad]] decides to eat the spicy food as well, but only to prove a point and not as a competition. [[Quin Fellbrook|Quin]] ends up tapping out first, with [[Brogan Stone-Flask|Brogan]] eating most of the food, and [[Ysgarlad]] asking for seconds. [[Quin Fellbrook|Quin]] is humiliated again and hands over his special spice blend to [[Brogan Stone-Flask|Brogan]]. [[Ysgarlad]] settles for guard duty again. A couple hours into the night, he hears a familiar sound. This time he sees three [[Boar|Boars]], and decides to wake [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa Wuvarion|Woo]] to aid him in battle. [[Brogan Stone-Flask|Brogan]] takes the initiative, making some distance towards the pack before stopping to throw his dagger at the closest [[Boar]]. The dagger hits, but hits with the pommel and bounces off, leaving the [[Boar]] unwounded. [[Ysgarlad]] follows up by charging at the pack, and slashes his sword through one of the boars' legs, cutting a shallow wound. Enraged at [[Brogan Stone-Flask|Brogan]], the first [[Boar]] charges, and digs its tusk deep into his thigh. Seeing this, [[Ylvëstrïa Wuvarion|Woo]] responds with a magic missile spell, taking the [[Boar]] out with three projectiles of magical energy. Seeing his [[Boar]] brother perish, the [[Boar]] hurt by [[Ysgarlad]] charges at [[Brogan Stone-Flask|Brogan]], however [[Ysgarlad]] takes this opportunity to finish it off with another slash of his sword. Now staring at the corpses of its brethren, the largest and final [[Boar]] charges towards [[Brogan Stone-Flask|Brogan]], however not before taking a hit from [[Ysgarlad]]. Reaching [[Brogan Stone-Flask|Brogan]], it digs its tusk into the wound in his leg left by the first [[Boar]], going clean through. This causes [[Brogan Stone-Flask|Brogan]] to keel over in pain, and faint. [[Ylvëstrïa Wuvarion|Woo]] retaliates with a ray of frost, injuring it gravely, however not taking it out. [[Ysgarlad]] makes a final attempt to kill the [[Boar]] with a swing of his sword, but misses. The [[Boar]], realising its mortality, flees. [[Ylvëstrïa Wuvarion|Woo]] tries to hit it with another long ranged ray of frost, but whiffs. [[Ysgarlad]] picks up [[Brogan Stone-Flask|Brogan]]'s dagger, and runs over to his aid. He carries [[Brogan Stone-Flask|Brogan]] back to the camp, where [[Rowena Growheart|Rowena]] promptly heals his leg, causing the muscle fibres to reform. [[Brogan Stone-Flask|Brogan]] wakes with a startled look on his face, and receives comfort and reassurance from the rest of the gang.  three wake up [[Gronk Growheart|Gronk]], and return to their bedrolls for rest.
+[[Quin Fellbrook|Quin]] explains that they grew up around each other but she never noticed him, so now he thinks she hates him and is scared to approach her. [[Gronk Growheart|Gronk]] laughs again. He bets on [[Brogan Stone-Flask|Brogan]] to win and states that if [[Quin Fellbrook|Quin]] wins he'll personally go tell the girl to acknowledge him. [[Ysgarlad]] decides to eat the spicy food as well, but only to prove a point and not as a competition. [[Quin Fellbrook|Quin]] ends up tapping out first, with [[Brogan Stone-Flask|Brogan]] eating most of the food, and [[Ysgarlad]] asking for seconds. [[Quin Fellbrook|Quin]] is humiliated again and hands over his special spice blend to [[Brogan Stone-Flask|Brogan]]. [[Ysgarlad]] settles for guard duty again. A couple hours into the night, he hears a familiar sound. This time he sees three [[Boar|Boars]], and decides to wake [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] to aid him in battle. [[Brogan Stone-Flask|Brogan]] takes the initiative, making some distance towards the pack before stopping to throw his dagger at the closest [[Boar]]. The dagger hits, but hits with the pommel and bounces off, leaving the [[Boar]] unwounded. [[Ysgarlad]] follows up by charging at the pack, and slashes his sword through one of the boars' legs, cutting a shallow wound. Enraged at [[Brogan Stone-Flask|Brogan]], the first [[Boar]] charges, and digs its tusk deep into his thigh. Seeing this, [[Ylvëstrïa|Woo]] responds with a magic missile spell, taking the [[Boar]] out with three projectiles of magical energy. Seeing his [[Boar]] brother perish, the [[Boar]] hurt by [[Ysgarlad]] charges at [[Brogan Stone-Flask|Brogan]], however [[Ysgarlad]] takes this opportunity to finish it off with another slash of his sword. Now staring at the corpses of its brethren, the largest and final [[Boar]] charges towards [[Brogan Stone-Flask|Brogan]], however not before taking a hit from [[Ysgarlad]]. Reaching [[Brogan Stone-Flask|Brogan]], it digs its tusk into the wound in his leg left by the first [[Boar]], going clean through. This causes [[Brogan Stone-Flask|Brogan]] to keel over in pain, and faint. [[Ylvëstrïa|Woo]] retaliates with a ray of frost, injuring it gravely, however not taking it out. [[Ysgarlad]] makes a final attempt to kill the [[Boar]] with a swing of his sword, but misses. The [[Boar]], realising its mortality, flees. [[Ylvëstrïa|Woo]] tries to hit it with another long ranged ray of frost, but whiffs. [[Ysgarlad]] picks up [[Brogan Stone-Flask|Brogan]]'s dagger, and runs over to his aid. He carries [[Brogan Stone-Flask|Brogan]] back to the camp, where [[Rowena Growheart|Rowena]] promptly heals his leg, causing the muscle fibres to reform. [[Brogan Stone-Flask|Brogan]] wakes with a startled look on his face, and receives comfort and reassurance from the rest of the gang.  three wake up [[Gronk Growheart|Gronk]], and return to their bedrolls for rest.
 ![[Pasted image 20240305175936.png]]
 The morning comes, and so does the departure of [[Gronk Growheart|Gronk]], [[Rowena Growheart|Rowena]] and [[Quin Fellbrook|Quin]] to head back to [[Gilbreives]]. After recapping what happened in the night, [[Quin Fellbrook|Quin]] laughs and tells [[Brogan Stone-Flask|Brogan]] that it was deserved. Goodbyes and good lucks are said, and before long the gang finds themselves on their own for the next half of the journey.
 
@@ -1522,7 +1522,7 @@ The gang hears a male voice shouting for help coming from up ahead on the path. 
 ???:
 	HEEEEEEEEELP!
 ```
-The shouting continues, and as they get closer, they realise that the shouts are coming from the dangling figure, which is actually man tied by his feet dangling upside down from a large tree. [[Ylvëstrïa Wuvarion|Woo]] remains cautious as ever, however [[Ysgarlad]] walks closer to inspect the situation, stopping next to the man.
+The shouting continues, and as they get closer, they realise that the shouts are coming from the dangling figure, which is actually man tied by his feet dangling upside down from a large tree. [[Ylvëstrïa|Woo]] remains cautious as ever, however [[Ysgarlad]] walks closer to inspect the situation, stopping next to the man.
 ```
 ???:
 	Please man, you gotta help me! Please!
@@ -1543,7 +1543,7 @@ The gnome nods and thanks [[Brogan Stone-Flask|Brogan]] and [[Ysgarlad]] before 
 Hoagle:
 	Please guys, you gotta help me get my bag back! That's my whole career in there! you gotta help me get it back please you gotta understan-
 ```
-[[Ysgarlad]] interrupts [[Hoagle]] and tells him to calm down, to take a breather. [[Ysgarlad]] discusses with the rest of the gang what to do. [[Ylvëstrïa Wuvarion|Woo]] seems disinterested in helping the gnome, but after a brief back and forth, they go back to speak with [[Hoagle]]. [[Ysgarlad]] asks if there will be a reward for their help.
+[[Ysgarlad]] interrupts [[Hoagle]] and tells him to calm down, to take a breather. [[Ysgarlad]] discusses with the rest of the gang what to do. [[Ylvëstrïa|Woo]] seems disinterested in helping the gnome, but after a brief back and forth, they go back to speak with [[Hoagle]]. [[Ysgarlad]] asks if there will be a reward for their help.
 ```
 Hoagle:
 	Why of course! What do I look like to you? A goblin? Please, some respect. If you help me out, I'll give you each an item from my stock for free.
@@ -1565,16 +1565,16 @@ Peering over the river from the bank on the right, the gang sees some rustling i
 Hoagle:
 	Actually man.. I think I'm gonna stay over here. You guys look like you got this all undah control. Those lizards give me the heeby jeebies if ya know what im sayin'.
 ```
-[[Ysgarlad]] shoots the gnome a stern look, who in turn backs himself onto a tree and makes it very clear that he doesn't want to move. Nevertheless, [[Ysgarlad]] parkours across the stones on to the left bank. As [[Brogan Stone-Flask|Brogan]] pulls himself up onto the island in the middle of the river, [[Ylvëstrïa Wuvarion|Woo]] hops across elegantly to the same point. Collecting themselves, they notice a strange line of sticks, stretching across the small landmass. Upon further inspection, they see a pair of red stones connected to either end of the sticks. [[Ysgarlad]] seems interested in what they're doing and starts shouting across the river.
+[[Ysgarlad]] shoots the gnome a stern look, who in turn backs himself onto a tree and makes it very clear that he doesn't want to move. Nevertheless, [[Ysgarlad]] parkours across the stones on to the left bank. As [[Brogan Stone-Flask|Brogan]] pulls himself up onto the island in the middle of the river, [[Ylvëstrïa|Woo]] hops across elegantly to the same point. Collecting themselves, they notice a strange line of sticks, stretching across the small landmass. Upon further inspection, they see a pair of red stones connected to either end of the sticks. [[Ysgarlad]] seems interested in what they're doing and starts shouting across the river.
 ```
 Ysgarlad:
 	OI- OOOIII! WHAS THA? WHAT YOU GUYS DOING?! WHA YOU LOOKIN AT?! OI-
 ```
-[[Ylvëstrïa Wuvarion|Woo]] and [[Brogan Stone-Flask|Brogan]] debate throwing one of the red rocks at [[Ysgarlad]] to shut up his yapping, but realize that its probably a trap. They carefully step over the sticks, and jump across to [[Ysgarlad]] on the other side of the river, warning him to watch his step and tread lightly. [[Ysgarlad]] tells them not to worry, and points towards the rustling vegetation with a grin and a glint in his eye. Before anyone can say anything he charges full speed! After about 10 feet he is somehow flying through the air, his trajectory headed straight for the grass! A carefully strung tripwire caught him mid stride, causing trees to shake from which birds crow and scatter. The clashing of [[Ysgarlad|Ysgarlad's]] armour is loud as he crashes into the ground, landing flat, face down. Just as [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa Wuvarion|Woo]] look at the knight on the floor in second hand embarrassment, they find a barrage of small stones flying fast in their direction. Managing to avoid the projectiles unscathed, they hear high pitched cackling coming from the same direction. They see four scaly figures, each about 3 foot tall.
+[[Ylvëstrïa|Woo]] and [[Brogan Stone-Flask|Brogan]] debate throwing one of the red rocks at [[Ysgarlad]] to shut up his yapping, but realize that its probably a trap. They carefully step over the sticks, and jump across to [[Ysgarlad]] on the other side of the river, warning him to watch his step and tread lightly. [[Ysgarlad]] tells them not to worry, and points towards the rustling vegetation with a grin and a glint in his eye. Before anyone can say anything he charges full speed! After about 10 feet he is somehow flying through the air, his trajectory headed straight for the grass! A carefully strung tripwire caught him mid stride, causing trees to shake from which birds crow and scatter. The clashing of [[Ysgarlad|Ysgarlad's]] armour is loud as he crashes into the ground, landing flat, face down. Just as [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] look at the knight on the floor in second hand embarrassment, they find a barrage of small stones flying fast in their direction. Managing to avoid the projectiles unscathed, they hear high pitched cackling coming from the same direction. They see four scaly figures, each about 3 foot tall.
 ![[Pasted image 20240419204723.png]]
 Its the [[Creatures/Kobold|Kobolds]]! Three of them start walking towards the gang menacingly, whirling their slings around, loaded ready with more stones.
 ![[Pasted image 20240419204736.png]]
-The last one has wings, and is standing next to the body of a [[Boar]] that looks like it was killed pretty recently. It picks up a heavy rock from nearby and takes flight towards the gang. It flies directly over [[Brogan Stone-Flask|Brogan]] and drops the rock on his head, causing heavy pain and disorientation. [[Ylvëstrïa Wuvarion|Woo]] fires off three magic missiles at the foe, one to each eye and one to the groin. The [[Winged Kobold]] splits into three pieces, its legs falling on top of [[Brogan Stone-Flask|Brogan]] and its torso getting blasted further away. In anger, the other three fire off more stones at [[Ysgarlad]], who is still on the floor. He tucks in his head, avoiding any damage and causing the stones to bounce off of his armour. With a chant of bardic inspiration from [[Brogan Stone-Flask|Brogan]], [[Ysgarlad]] picks himself up off of the ground and charges towards the [[Creatures/Kobold|Kobolds]]. He plants his leading foot and slashes the nearest one twice through with his greatsword, instantly killing it. He doesn't stop pushing. The second one looks up at him, paralysed in fear as [[Ysgarlad|Ysgarlad's]] shadow engulfs the three foot tall being. He plunges his sword deep through the chest of the scaly creature, hoisting it up into the air in triumph, before throwing the corpse into the surrounding shrubbery with a flick of his blade. The final remaining [[Kobold]], seeing its lizard comrades brutally killed, turns to flee. [[Ylvëstrïa Wuvarion|Woo]] fires off a second set of magic missiles at the foe, blasting through its back, killing the fourth and final [[Kobold]]. The gang stands up straight, collecting themselves in victory. They go to loot the bodies of the fallen, finding only 9 gold pieces to split between them. [[Brogan Stone-Flask|Brogan]] finds a boot in one of the [[Creatures/Kobold|Kobold's]] sacks, and takes it for his exposed left foot.
+The last one has wings, and is standing next to the body of a [[Boar]] that looks like it was killed pretty recently. It picks up a heavy rock from nearby and takes flight towards the gang. It flies directly over [[Brogan Stone-Flask|Brogan]] and drops the rock on his head, causing heavy pain and disorientation. [[Ylvëstrïa|Woo]] fires off three magic missiles at the foe, one to each eye and one to the groin. The [[Winged Kobold]] splits into three pieces, its legs falling on top of [[Brogan Stone-Flask|Brogan]] and its torso getting blasted further away. In anger, the other three fire off more stones at [[Ysgarlad]], who is still on the floor. He tucks in his head, avoiding any damage and causing the stones to bounce off of his armour. With a chant of bardic inspiration from [[Brogan Stone-Flask|Brogan]], [[Ysgarlad]] picks himself up off of the ground and charges towards the [[Creatures/Kobold|Kobolds]]. He plants his leading foot and slashes the nearest one twice through with his greatsword, instantly killing it. He doesn't stop pushing. The second one looks up at him, paralysed in fear as [[Ysgarlad|Ysgarlad's]] shadow engulfs the three foot tall being. He plunges his sword deep through the chest of the scaly creature, hoisting it up into the air in triumph, before throwing the corpse into the surrounding shrubbery with a flick of his blade. The final remaining [[Kobold]], seeing its lizard comrades brutally killed, turns to flee. [[Ylvëstrïa|Woo]] fires off a second set of magic missiles at the foe, blasting through its back, killing the fourth and final [[Kobold]]. The gang stands up straight, collecting themselves in victory. They go to loot the bodies of the fallen, finding only 9 gold pieces to split between them. [[Brogan Stone-Flask|Brogan]] finds a boot in one of the [[Creatures/Kobold|Kobold's]] sacks, and takes it for his exposed left foot.
 ```
 Hoagle:
 	That was frickin' awesome man!
@@ -1604,7 +1604,7 @@ He places the necklace on top of the bag, takes a step back, the kicks the bag c
 Hoagle:
 	Welcome to Hoagle's Haul! What can I do for ya? I got potions, rocks, trinkets, equipment, the lot! Each of ya can get somethin' for free as promised!
 ```
-[[Ysgarlad]] chooses a healing potion. [[Ylvëstrïa Wuvarion|Woo]] chooses an [[Odd Stone]] with a slight green glow, and also decides to buy a [[Berserker Potion]]. [[Brogan Stone-Flask|Brogan]] wants to keep [[Hoagle|Hoagle's]] ring.
+[[Ysgarlad]] chooses a healing potion. [[Ylvëstrïa|Woo]] chooses an [[Odd Stone]] with a slight green glow, and also decides to buy a [[Berserker Potion]]. [[Brogan Stone-Flask|Brogan]] wants to keep [[Hoagle|Hoagle's]] ring.
 ```
 Hoagle:
 	Man ya see that ring's special to me! I gotta get that back from you, it was my fathers.. But here look, I have the exact same ring just like it.
@@ -1629,7 +1629,7 @@ Inside they see a small humanoid girl in a tattered robe. She has light blue eye
 Hoagle:
 	Well I'll be damned, a sprite! Those lil' fellas are pretty rare!
 ```
-The gang discusses what to do, with [[Ysgarlad]] and [[Ylvëstrïa Wuvarion|Woo]] being in favour of freeing the sprite. [[Brogan Stone-Flask|Brogan]] decides to agree, but makes a bet with [[Ysgarlad]] which he will win if their decision comes back to bite them in the ass. [[Ysgarlad]] walks over and crouches down by the cage and says hello to the sprite. The sprite pushes up against the back wall of the cage with a scared look. [[Ysgarlad]] unlocks the cage, and moves back to give the sprite some space. After some brief hesitation, the sprite bursts out of the door of the cage at high speed. Just before it flies away it pauses, turns around and looks at [[Ysgarlad]].
+The gang discusses what to do, with [[Ysgarlad]] and [[Ylvëstrïa|Woo]] being in favour of freeing the sprite. [[Brogan Stone-Flask|Brogan]] decides to agree, but makes a bet with [[Ysgarlad]] which he will win if their decision comes back to bite them in the ass. [[Ysgarlad]] walks over and crouches down by the cage and says hello to the sprite. The sprite pushes up against the back wall of the cage with a scared look. [[Ysgarlad]] unlocks the cage, and moves back to give the sprite some space. After some brief hesitation, the sprite bursts out of the door of the cage at high speed. Just before it flies away it pauses, turns around and looks at [[Ysgarlad]].
 ```
 ???:
 	Th- thank you.
@@ -1700,10 +1700,10 @@ aliases:
 - finally made it to [[Rorkard]] and were greeted by a fisherman
 - [[Ysgarlad]] and [[Liri]] Delivered a cake to [[Sarmon]] at the [[Rocky Refuge]]
 - [[Ysgarlad]] approached by [[Kiara]] requesting help in 2 days time to carry crystals out of [[Gloomstone Cavern]]
-- [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa Wuvarion|Woo]] made some money by cheating a gambler called [[Merek]] at his own game
-- [[Ylvëstrïa Wuvarion|Woo]] was delivered a secret note by a cat from [[Post Mortem]] stating that the [[Hooded Man]] is resting in the tavern
+- [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] made some money by cheating a gambler called [[Merek]] at his own game
+- [[Ylvëstrïa|Woo]] was delivered a secret note by a cat from [[Post Mortem]] stating that the [[Hooded Man]] is resting in the tavern
 - The gang reconvened at the [[Cruster Guild]], seeking out [[Crystus]], end up running into the fisherman again, who turns out to be [[Crystus]]
-- [[Ylvëstrïa Wuvarion|Woo]] asks [[Crystus]] about the [[Odd Stone]], he says its a special type of ancient runic stone called a [[Lodestone]] that can be used to make special equipment
+- [[Ylvëstrïa|Woo]] asks [[Crystus]] about the [[Odd Stone]], he says its a special type of ancient runic stone called a [[Lodestone]] that can be used to make special equipment
 - The gang ask [[Crystus]] about the [[Fragment of the Eternal Shadow]], he tells them about [[The Coalescence]]
 - [[Brogan Stone-Flask|Brogan]] steals a blue gem for [[Liri]]
 - The gang return to the [[Rocky Refuge]] in search of the [[Hooded Man]]
@@ -1724,7 +1724,7 @@ aliases:
 - Fight then ensues
 - [[Hooded Man]] ends up dying when [[Brogan Stone-Flask|Brogan]] displaces him mid teleportation spell with a thunderwave
 - His body dissolves
-- [[Ylvëstrïa Wuvarion|Woo]] puts on the [[Circlet of the Occult]] and becomes paralysed, seeing a vision of eyes and static looking into her soul, [[Brogan Stone-Flask|Brogan]] and [[Ysgarlad]] have to free her
+- [[Ylvëstrïa|Woo]] puts on the [[Circlet of the Occult]] and becomes paralysed, seeing a vision of eyes and static looking into her soul, [[Brogan Stone-Flask|Brogan]] and [[Ysgarlad]] have to free her
 - Gang recovers the [[Fragment of the Eternal Shadow]] from a bag in the room, [[Brogan Stone-Flask|Brogan]] claims a dagger
 - [[Sarmon]] comes to inspect the commotion, realising the gang started a brawl and caused damage, he demands reparations of 250GP in the next 3 days, allowing the gang to stay at the inn while they collect money
 - The next morning the gang overhears [[Mirabel Emberfall]] crying at the notice board in the inn
@@ -1732,8 +1732,8 @@ aliases:
 - the gang agrees to meet her and her friend [[Lunette Emberfall]] to go find [[Orson Emberfall]] the next day
 - in the mean time they visit the market district of [[Rorkard]]
 - They stop at [[Norbert's General]], meeting [[Norbert]], [[Brogan Stone-Flask|Brogan]] buys some nails
-- next [[Ironhand Forge]] where they meet [[Francindo]], [[Liri]] gets some new clothes, [[Ysgarlad]] and [[Ylvëstrïa Wuvarion|Woo]] sell the giant boar pelt for 60GP a piece
-- next [[Spirit Reader Shanya's]] where they meet [[Shanya]], [[Ylvëstrïa Wuvarion|Woo]] buys a scroll of spiderwalking
+- next [[Ironhand Forge]] where they meet [[Francindo]], [[Liri]] gets some new clothes, [[Ysgarlad]] and [[Ylvëstrïa|Woo]] sell the giant boar pelt for 60GP a piece
+- next [[Spirit Reader Shanya's]] where they meet [[Shanya]], [[Ylvëstrïa|Woo]] buys a scroll of spiderwalking
 - Gang gets their spirit read
 - [[Shanya]] gets scared of [[Liri]] while reading her spirit and apologises, begging the gang to leave
 - Finally gang visits the [[Cruster Guild]], where [[Crystus]] looks at the [[Fragment of the Eternal Shadow]]
@@ -1744,11 +1744,11 @@ aliases:
 - Inside the mining station the gang encounter three brutes, [[Korgar the Spiked Menace]], [[Varthis the Cursed]] and [[Gorbold the Gorgeful]], a bout ensues - the [[Cannibals of Gloomstone Cavern]]
 - [[Varthis the Cursed]], a necromancer, raises another skeleton to fight for him
 - the skeleton turns out to be [[Orson Emberfall]] recognisable by his red scarf
-- after a long gruelling fight and against all odds, the gang manages to come out on top, albeit with [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa Wuvarion|Woo]] going down.
-- [[Ysgarlad]] revives [[Brogan Stone-Flask|Brogan]] with a health potion, who then in turn revives [[Ylvëstrïa Wuvarion|Woo]] with a healing spell
+- after a long gruelling fight and against all odds, the gang manages to come out on top, albeit with [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] going down.
+- [[Ysgarlad]] revives [[Brogan Stone-Flask|Brogan]] with a health potion, who then in turn revives [[Ylvëstrïa|Woo]] with a healing spell
 - The gang loot the bodies of their adversaries, finding 300GP
-- [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa Wuvarion|Woo]] each take one of [[Orson's Longswords]]
-- [[Ylvëstrïa Wuvarion|Woo]] takes the [[Orb of Varthis]]
+- [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] each take one of [[Orson's Longswords]]
+- [[Ylvëstrïa|Woo]] takes the [[Orb of Varthis]]
 - [[Ysgarlad]] takes [[Orson's Scarf]] to give to [[Mirabel Emberfall]]
 - Left trapped in the cave
 
@@ -1776,25 +1776,25 @@ aliases:
 - They see [[Morgrith the Mother|Mother]], [[Morgrith's Servant|Mother's Servant]] and [[Amara]] who is being tortured by [[Morgrith's Servant|Mother's Servant]] "meat for mother"
 - they are spotted by [[Amara]], who pleads them to help with her eyes, and warns them about [[Morgrith the Mother|Mother]]
 - gang devises a plan
-- [[Ylvëstrïa Wuvarion|Woo]] and [[Brogan Stone-Flask|Brogan]] will sneak around [[Morgrith the Mother|Mother]] and assassinate [[Morgrith's Servant|Mother's Servant]]
+- [[Ylvëstrïa|Woo]] and [[Brogan Stone-Flask|Brogan]] will sneak around [[Morgrith the Mother|Mother]] and assassinate [[Morgrith's Servant|Mother's Servant]]
 - [[Ysgarlad]] throws [[Liri]] in rat form, who hits the wall, distracting the servant as he looks to nab the rodent
 - they manage to sneak past and kill the servant successfully, using [[Orson's Longswords]]
 - [[Morgrith the Mother|Mother]] is demanding more food
 - [[Brogan Stone-Flask|Brogan]] fails to catch the servant's head before it hits the ground, causing [[Morgrith the Mother|Mother]] to look in their direction
-- [[Ylvëstrïa Wuvarion|Woo]] successfully deceives [[Morgrith the Mother|Mother]] by imitating the servant
+- [[Ylvëstrïa|Woo]] successfully deceives [[Morgrith the Mother|Mother]] by imitating the servant
 - [[Amara]] starts panicking as they do this, [[Brogan Stone-Flask|Brogan]] manages to calm her down before cutting her free
 - she collapses
 - [[Brogan Stone-Flask|Brogan]] gives her a piggy back as they start to sneak back past [[Morgrith the Mother|Mother]]
 - they get midway past mother before [[Brogan Stone-Flask|Brogan]] slips on a rock
 - he manages to catch himself, but [[Amara]] lets out a yelp, causing [[Morgrith the Mother|Mother]] to become wary again
 - [[Morgrith the Mother|Mother]] demands more food, trying to work out what is infront of them, she thinks its [[Korgar the Spiked Menace|Korgar]]
-- [[Ylvëstrïa Wuvarion|Woo]] manages to deceive [[Morgrith the Mother|Mother]] yet again, this time by imitating [[Korgar the Spiked Menace|Korgar]], telling [[Morgrith the Mother|Mother]] she will have more meat soon
+- [[Ylvëstrïa|Woo]] manages to deceive [[Morgrith the Mother|Mother]] yet again, this time by imitating [[Korgar the Spiked Menace|Korgar]], telling [[Morgrith the Mother|Mother]] she will have more meat soon
 - just as they get back to the entrance to the lair, the gang bolt
 - as they run away they hear [[Morgrith the Mother|Mother]] running rampant, confused as to what has been going on
 - they run all the way back to the fork, and head up the left fork before stopping
 - they get to the hidden waterfall entrance, where [[Amara]] is put down to rest
 - [[Liri]] transforms into a bird to work out where [[Rorkard]] is
-- [[Ylvëstrïa Wuvarion|Woo]] washes [[Amara|Amara's]] wounds with water from the waterfall
+- [[Ylvëstrïa|Woo]] washes [[Amara|Amara's]] wounds with water from the waterfall
 - [[Ysgarlad]] starts talking to [[Amara]] to work out what happened
 - discovers that [[Amara]] is an adventurer from the [[Bay of Groves]]
 - she got tricked by [[Kiara]] in the exact same way that the gang did, however she knows nothing of [[Lunette Emberfall]]
@@ -1811,12 +1811,12 @@ aliases:
 - they head to [[Spirit Reader Shanya's]]
 - [[Shanya]] agrees to help, on the condition that [[Liri]] stays outside
 - [[Ysgarlad]] heads outside with [[Liri]]
-- [[Shanya]] gets [[Ylvëstrïa Wuvarion|Woo]] to aid her in healing [[Amara]]
+- [[Shanya]] gets [[Ylvëstrïa|Woo]] to aid her in healing [[Amara]]
 - asks [[Brogan Stone-Flask|Brogan]] to leave as they undress [[Amara]]
 - they heal for a while, in the meantime [[Ysgarlad]] and [[Brogan Stone-Flask|Brogan]] are worried about [[Liri]]
 - [[Brogan Stone-Flask|Brogan]] concludes there is nothing wrong
 - [[Liri]] starts snoring faintly
-- [[Ylvëstrïa Wuvarion|Woo]] tells the gang that [[Amara]] is stable, and takes care of [[Liri]] while [[Brogan Stone-Flask|Brogan]] and [[Ysgarlad]] go inside to talk to [[Amara]]
+- [[Ylvëstrïa|Woo]] tells the gang that [[Amara]] is stable, and takes care of [[Liri]] while [[Brogan Stone-Flask|Brogan]] and [[Ysgarlad]] go inside to talk to [[Amara]]
 - [[Ysgarlad]] and [[Amara]] talk more about [[Kiara]], amara says she is too weak to even wield a sword at the moment
 - [[Ysgarlad]] swears to [[Amara]] that they will find and get their revenge on [[Kiara]]
 - [[Amara]] stays with [[Shanya]] for the evening
@@ -1829,15 +1829,15 @@ aliases:
 - in the meanwhile the entire inn has turned to look at who was arguing
 - the girl in the back was [[Kiara]], she sees the gang, looks in shock, and jumps out the window
 - [[Ysgarlad]] runs to the same window, and dives out, landing on his stomach and sliding in the mud
-- [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa Wuvarion|Woo]] exit the inn, to look for kiara aswell
+- [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] exit the inn, to look for kiara aswell
 - all of them see [[Kiara]] jump above ysgarlad across onto another nearby roof
 - [[Kiara]] is hopping across the rooves of [[Rorkard]]
-- [[Ylvëstrïa Wuvarion|Woo]] fires magic missiles at kiara
+- [[Ylvëstrïa|Woo]] fires magic missiles at kiara
 - the first one hits her shoulder, but she blocks the rest with a counterspell magic shield
 - Ysgarlad pulls himself onto the roof, and starts jumping after kiara - he screams her name
 - by this point she has disappeared off of the rooves into the back alley of [[Rorkard]]
 - [[Brogan Stone-Flask|Brogan]] runs to where they last saw her
-- [[Ylvëstrïa Wuvarion|Woo]] heads back inside the inn with [[Liri]] and starts talking to [[Gaffot]]
+- [[Ylvëstrïa|Woo]] heads back inside the inn with [[Liri]] and starts talking to [[Gaffot]]
 - [[Brogan Stone-Flask|Brogan]] and [[Ysgarlad]] arrive at the same spot, [[Ysgarlad]] jumps off of the roof into the alleyways
 - they follow the droplets of blood from [[Kiara]]'s shoulder, until they reach a storm drain
 - the blood heads into the drain
@@ -1852,7 +1852,7 @@ aliases:
 - sarmon agrees to extend the time on their debt while they are dealing with kiara
 - they pay to stay at the inn, 5 gold each
 - [[Ysgarlad]] plans to meet [[Mirabel Emberfall]] in the morning
-- [[Ylvëstrïa Wuvarion|Woo]] plans to send a message to [[Post Mortem]] about the supposed [[Rorkard]] thieves guild in the morning
+- [[Ylvëstrïa|Woo]] plans to send a message to [[Post Mortem]] about the supposed [[Rorkard]] thieves guild in the morning
 
 *Our story continues in [[Chapter 7 - Morgrith's Final Banquet]]...*
 
@@ -1871,7 +1871,7 @@ aliases:
 - liri remembers nothing
 - gang discusses their plan for the day
 - ysgarlad liri and brogan will go to [[Mirabel Emberfall]]
-- [[Ylvëstrïa Wuvarion|Woo]] will go to find [[Post Mortem]]
+- [[Ylvëstrïa|Woo]] will go to find [[Post Mortem]]
 - ysgarlad liri and brogan set off
 - woo sees the post mortem cat on a roof and starts following it into a street
 - ysgarlad liri brogan arrive at mirabels
@@ -1964,7 +1964,7 @@ aliases:
 - ysgarlad wakes up and interrogates kiara
 - learns that she wanted to destroy [[Rorkard]] for power and the legacy of her family who used to run the[[Abandoned Thieves Guild]]
 - tells the gang to ask crystus about what happened to her family
-- brogan and [[Ylvëstrïa Wuvarion|Woo]] are in the background bullshitting during the interrogation
+- brogan and [[Ylvëstrïa|Woo]] are in the background bullshitting during the interrogation
 - after he's done, ysgarlad nods to amara
 - amara walks towards kiara, and points at her
 - the two red wolves instantly leap at kiara and maul her to death before eating her
@@ -1997,7 +1997,7 @@ aliases:
 - Not sure where to go next on their journey, they talk to [[Amara]], who states she wants to go see the dragons in [[Wyrmsgard]]
 - gang decides to accompany [[Amara]] to [[Wyrmsgard]]
 - they go on one last shopping trip in [[Rorkard]] to gather supplies before their journey
-- [[Ylvëstrïa Wuvarion|Woo]] goes to [[Spirit Reader Shanya's]] and buys a new spell Sussmann's Mind Whip
+- [[Ylvëstrïa|Woo]] goes to [[Spirit Reader Shanya's]] and buys a new spell Sussmann's Mind Whip
 - Rest of the gang goes to [[Norbert's General]]
 - [[Norbert]] recommends they buy raincoats, as the path to [[Wyrmsgard]] through [[Florion's Ridge]] is constantly rainy
 - they buy raincoats and rations for the journey which is
@@ -2010,7 +2010,7 @@ aliases:
 - he raises his hand, and the smoke from his pipe starts swirling into a large mass putting the gang at alert
 - the smoke forms into a hand, and gently waves at the gang, they see the goblin laughing
 - they walk closer and the man speaks to them - "you all look freezing hahaha, it seems florion is sorrowful today as always"
-- [[Ysgarlad]] asks who [[Florion]] is and [[Ylvëstrïa Wuvarion|Woo]] explains
+- [[Ysgarlad]] asks who [[Florion]] is and [[Ylvëstrïa|Woo]] explains
 - the goblin introduces himself as [[Halibon]] and invites the gang into his shack to rest and for a warm meal
 - sceptical at first, the gang decide to take him up on his offer, [[Ysgarlad]] not so sure
 - as they walk inside, they see a small interior, with a fireplace in the corner of the room with a pot dangling above it, an arm chair next to it facing out into the room, two sofas facing the fireplace, and a small table behind towards another smaller room which is the kitchen
@@ -2212,7 +2212,7 @@ aliases:
 - The gang brought her to [[Rorkard]] to be healed by [[Shanya]]
 - [[Ysgarlad]] swore to her that they would get their revenge on [[Kiara]]
 ###### [[Chapter 7 - Morgrith's Final Banquet]]
-- After being healed by [[Shanya]], she was taken by [[Ylvëstrïa Wuvarion|Woo]] to buy new clothes at the [[Ironhand Forge]]
+- After being healed by [[Shanya]], she was taken by [[Ylvëstrïa|Woo]] to buy new clothes at the [[Ironhand Forge]]
 - She explored the [[Abandoned Thieves Guild]] with the gang
 - She took the notes of [[Kiara|Kiara's]] plan to summon [[Morgrith the Mother|Morgrith]] in [[Kalskog]] to the [[Cruster Guild]] while the gang went to fight in [[Morgrith's Lair]]
 ###### [[Chapter 8 - Surprise Attack!]]
@@ -2295,7 +2295,7 @@ aliases:
 ###### Appearances
 ###### [[Chapter 4 - Rorkard at Last]]
 - Was originally met by the gang fishing in the river, and treated rudely by [[Ysgarlad]] upon their entrance to [[Rorkard]], as [[Ysgarlad]] did not know who he was and thought he was a beggar
-- Later met the gang again at the [[Cruster Guild]], where he told them what he knew about the [[Fragment of the Eternal Shadow]], [[The Coalescence]] and [[Ylvëstrïa Wuvarion|Woo's]] [[Lodestone]]
+- Later met the gang again at the [[Cruster Guild]], where he told them what he knew about the [[Fragment of the Eternal Shadow]], [[The Coalescence]] and [[Ylvëstrïa|Woo's]] [[Lodestone]]
 ###### [[Chapter 5 - Kiara's Deception]]
 - Upon reclaiming the [[Fragment of the Eternal Shadow]] stolen by the [[Hooded Man]], the gang took it to be inspected by [[Crystus]]
 - He confirms it is a [[Fragment of the Eternal Shadow]], however is no different to the few he has seen in the past
@@ -2349,7 +2349,7 @@ aliases:
 - [[Francindo]] is a man from [[Rorkard]] and the owner of the [[Ironhand Forge]]
 ###### Appearances
 ###### [[Chapter 5 - Kiara's Deception]]
-- He bought [[Giant Boar]] pelt from [[Ysgarlad]] and [[Ylvëstrïa Wuvarion|Woo]], and outfitted [[Liri]] with some much needed new clothes
+- He bought [[Giant Boar]] pelt from [[Ysgarlad]] and [[Ylvëstrïa|Woo]], and outfitted [[Liri]] with some much needed new clothes
 ###### [[Chapter 7 - Morgrith's Final Banquet]]
 - Outfitted [[Amara]] with new apparel after her rescue
 
@@ -2479,7 +2479,7 @@ draft:
 ###### [[Chapter 3 - The Dangling Tradesman]]
 - The gang helped [[Hoagle]] to get his bag back when it was stolen a gang of [[Creatures/Kobold|Kobolds]] in the [[Verdant Forest]]
 - Gave [[Brogan Stone-Flask|Brogan]] an [[Aetherquartz Ring]]
-- Gave [[Ylvëstrïa Wuvarion|Woo]] an [[Odd Stone]]
+- Gave [[Ylvëstrïa|Woo]] an [[Odd Stone]]
 - Travelled with the gang through the [[Verdant Forest]] until they reached [[Elinor's Cabin]]
 ###### [[Chapter 4 - Rorkard at Last]]
 - Stayed at [[Elinor's Cabin]] after the gang departed for [[Rorkard]]
@@ -2544,7 +2544,7 @@ aliases:
 - After travelling with the gang through [[Gloomstone Cavern]], she betrays them with lunette, trapping them with the [[Cannibals of Gloomstone Cavern]]
 ###### [[Chapter 6 - Meat for Mother]]
 - Fled from the [[Rocky Refuge]] after [[Ysgarlad]] got into an argument with [[Sarmon]]
-- Was wounded by [[Ylvëstrïa Wuvarion|Woo]] with a magic missile during their chase over the rooves of [[Rorkard]], before disappearing into the back alleys
+- Was wounded by [[Ylvëstrïa|Woo]] with a magic missile during their chase over the rooves of [[Rorkard]], before disappearing into the back alleys
 ###### [[Chapter 7 - Morgrith's Final Banquet]]
 - The gang discovered her secret hideout at the end of the [[Rorkard Sewers]] and her plan to summon [[Morgrith the Mother|Morgrith]] in [[Kalskog]] to test out the destruction
 ###### [[Chapter 8 - Surprise Attack!]]
@@ -2663,7 +2663,7 @@ draft:
 - He is a well known cheat, that makes his money off of his players by rigging his games
 ###### Appearances
 ###### [[Chapter 4 - Rorkard at Last]]
-- Was scammed by [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa Wuvarion|Woo]] at his own game, embarrassing him and causing a bit of an uproar
+- Was scammed by [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] at his own game, embarrassing him and causing a bit of an uproar
 
 ### Mirabel Emberfall.md
 
@@ -2704,7 +2704,7 @@ aliases:
 - Could be heard cackling from the depths of [[Gloomstone Cavern]] as the gang were trying to escape after their fight with the [[Cannibals of Gloomstone Cavern|cannibals]]
 - Was being fed [[Amara|Amara's]] flesh by [[Morgrith's Servant|Mother's Servant]] before her rescue
 ###### [[Chapter 7 - Morgrith's Final Banquet]]
-- Killed by [[Ylvëstrïa Wuvarion|Woo]] during her fight with the gang in [[Gloomstone Cavern]] before she could be summoned to wreak havoc on [[Kalskog]]
+- Killed by [[Ylvëstrïa|Woo]] during her fight with the gang in [[Gloomstone Cavern]] before she could be summoned to wreak havoc on [[Kalskog]]
 
 ### Morgrith's Servant.md
 
@@ -2722,7 +2722,7 @@ aliases:
 ###### Appearances
 ###### [[Chapter 6 - Meat for Mother]]
 - Tortured [[Amara]] by cutting off strips of her flesh, feeding them to [[Morgrith the Mother|Mother]], healing the wound and repeating again and again
-- Was killed by [[Ylvëstrïa Wuvarion|Woo]] and [[Brogan Stone-Flask|Brogan]] during [[Amara|Amara's]] rescue
+- Was killed by [[Ylvëstrïa|Woo]] and [[Brogan Stone-Flask|Brogan]] during [[Amara|Amara's]] rescue
 
 ### Mugwort Snaggletooth.md
 
@@ -2802,7 +2802,7 @@ aliases:
 ###### Appearances
 ###### [[Chapter 5 - Kiara's Deception]]
 - The gang fought him when they had to fight the [[Cannibals of Gloomstone Cavern]]
-- [[Orson's Scarf]] was taken by [[Ysgarlad]] to give to [[Mirabel Emberfall]], and one of each of [[Orson's Longswords]] were taken by [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa Wuvarion|Woo]]
+- [[Orson's Scarf]] was taken by [[Ysgarlad]] to give to [[Mirabel Emberfall]], and one of each of [[Orson's Longswords]] were taken by [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]]
 ###### Gallery
 |                                                                         |                                                                                                   |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
@@ -2903,15 +2903,15 @@ aliases:
 - [[Shanya]] read each member of the gang's spirit
 - [[Ysgarlad]] depicted as a lone pensive lion with a red crystal
 - [[Brogan Stone-Flask|Brogan]] depicted as a strong three legged hare with an orange crystal
-- [[Ylvëstrïa Wuvarion|Woo]] depicted as an elegant white snake with a green crystal
+- [[Ylvëstrïa|Woo]] depicted as an elegant white snake with a green crystal
 - When she read [[Liri|Liri's]] spirit, she freaked out, apologising profusely and begging for [[Liri]] to leave her alone - purple crystal
 ###### [[Chapter 6 - Meat for Mother]]
 - Healed [[Amara]] and provided her with hospitality after her rescue from [[Gloomstone Cavern]], only on the condition that [[Liri]] did not enter her shop
 ###### [[Chapter 7 - Morgrith's Final Banquet]]
-- Told [[Ylvëstrïa Wuvarion|Woo]] to buy [[Amara]] some new clothes at the [[Ironhand Forge]]
-- Sold [[Ylvëstrïa Wuvarion|Woo]] a scroll of identify
+- Told [[Ylvëstrïa|Woo]] to buy [[Amara]] some new clothes at the [[Ironhand Forge]]
+- Sold [[Ylvëstrïa|Woo]] a scroll of identify
 ###### [[Chapter 9 - Florion's Tears]]
-- Sold [[Ylvëstrïa Wuvarion|Woo]] a scroll of mind whip
+- Sold [[Ylvëstrïa|Woo]] a scroll of mind whip
 
 ### The Willbreaker.md
 
@@ -2947,8 +2947,8 @@ aliases:
 - Raised the first two skeletons that the gang fought whilst exploring [[Gloomstone Cavern]]
 - Fought the gang after they were trapped by [[Kiara]] and [[Lunette Emberfall|Lunette]]
 - Raised the skeleton of [[Orson Emberfall]] as an undead soldier to fight for him
-- Was killed by [[Ylvëstrïa Wuvarion]] after raising [[Korgar the Spiked Menace]] from the dead after he was killed by [[Ysgarlad]]
-- [[Ylvëstrïa Wuvarion|Woo]] took the [[Orb of Varthis]]
+- Was killed by [[Ylvëstrïa]] after raising [[Korgar the Spiked Menace]] from the dead after he was killed by [[Ysgarlad]]
+- [[Ylvëstrïa|Woo]] took the [[Orb of Varthis]]
 
 ### Wren Briarwood.md
 
@@ -3269,13 +3269,13 @@ draft:
 aliases:
 ---
 ###### Overview
-- An underground information syndicate running through Cordisalia, to which [[Ylvëstrïa Wuvarion|Woo]] and [[Wyatt Holloway|Wyatt]] have ties
+- An underground information syndicate running through Cordisalia, to which [[Ylvëstrïa|Woo]] and [[Wyatt Holloway|Wyatt]] have ties
 ###### Appearances
 ###### [[Chapter 1 - The Lumber Festival]]
 - In [[Gilbreives]] there is an information outpost in the southern part, run by a man disguised as a child
-- [[Ylvëstrïa Wuvarion|Woo]] used this outpost to request the syndicate to keep lookout for the [[Hooded Man]]
+- [[Ylvëstrïa|Woo]] used this outpost to request the syndicate to keep lookout for the [[Hooded Man]]
 ###### [[Chapter 4 - Rorkard at Last]]
-- In [[Rorkard]], [[Ylvëstrïa Wuvarion|Woo]] was delivered a letter by a grey cat, stating:
+- In [[Rorkard]], [[Ylvëstrïa|Woo]] was delivered a letter by a grey cat, stating:
 	- *"The one you seek rests within the inn"*
 - The letter also contained a symbol known as the Eye of Mortem
 ###### Gallery
@@ -3359,7 +3359,7 @@ aliases:
 	- Inability to concentrate on or cast spells
 ###### Appearances
 ###### [[Chapter 3 - The Dangling Tradesman]]
-- [[Ylvëstrïa Wuvarion|Woo]] bought one from [[Hoagle]] after the gang reclaimed his magic bag
+- [[Ylvëstrïa|Woo]] bought one from [[Hoagle]] after the gang reclaimed his magic bag
 
 ### Circlet of the Occult.md
 
@@ -3373,7 +3373,7 @@ aliases:
 ###### Appearances
 ###### [[Chapter 5 - Kiara's Deception]]
 - It seemed to be the source of his power during his fight with the gang in the [[Rocky Refuge]]
-- [[Ylvëstrïa Wuvarion|Woo]] decided to put on the circlet, causing her to hallucinate and be briefly paralysed until it was removed by the others
+- [[Ylvëstrïa|Woo]] decided to put on the circlet, causing her to hallucinate and be briefly paralysed until it was removed by the others
 
 ### Emerald Axe.md
 
@@ -3399,7 +3399,7 @@ A mysterious purple gemstone.
 	- Many have tried to unlock this power, none have succeeded
 	- He is unsure whether or not this power actually exists, as there is no proof
 	- It could all just be a folktale and they are really just nothing more than purple gemstones
-- [[Ylvëstrïa Wuvarion]] read about them in a page torn from an old book
+- [[Ylvëstrïa]] read about them in a page torn from an old book
 - One was encrusted in the head of the [[Emerald Axe]] in [[Gilbreives]]. This was stolen by the [[Hooded Man]]
 	- This was later recovered after the [[Hooded Man]] was killed by [[Brogan Stone-Flask|Brogan]] in the [[Rocky Refuge]]
 
@@ -3439,7 +3439,7 @@ draft:
 aliases:
 ---
 ###### Overview
-- A stone with green runic inscriptions on it acquired by [[Ylvëstrïa Wuvarion]] from [[Hoagle]] as a reward for helping him get his magic bag back
+- A stone with green runic inscriptions on it acquired by [[Ylvëstrïa]] from [[Hoagle]] as a reward for helping him get his magic bag back
 - According to [[Crystus]] this type of stone is known as a [[Lodestone]] and can be used to imbue pieces of equipment with special properties by an [[Arcane Smith]]
 
 ### Orb of Varthis.md
@@ -3450,14 +3450,14 @@ aliases:
 ---
 ![[Orb of Varthis.webp]]
 ###### Overview
-- An orb found on the corpse of [[Varthis the Cursed]] by [[Ysgarlad]] after he was killed by [[Ylvëstrïa Wuvarion|Woo]] during their fight
+- An orb found on the corpse of [[Varthis the Cursed]] by [[Ysgarlad]] after he was killed by [[Ylvëstrïa|Woo]] during their fight
 - It has the following abilities:
 	- Necrosiphon: Twice per long rest, when the wielder successfully hits a creature with a spell while holding the Orb of Varthis, they can choose to invoke the orb, sending out souls of the dead trapped inside that inflict a further (Siphoned Soulsxd4+4) necrotic damage, healing the wielder for half as much.
 	- If the damage inflicted by Necrosiphon kills its target, their soul is trapped inside the orb, permanently increasing the number of Siphoned Souls by 1.
 ###### Appearances
 ###### [[Chapter 5 - Kiara's Deception]]
 - Found on the corpse of [[Varthis the Cursed]] by [[Ysgarlad]]
-- Taken by [[Ylvëstrïa Wuvarion|Woo]]
+- Taken by [[Ylvëstrïa|Woo]]
 
 ### Orson's Longswords.md
 
@@ -3472,7 +3472,7 @@ aliases:
 ###### Appearances
 ###### [[Chapter 5 - Kiara's Deception]]
 - Used by [[Orson Emberfall|Orson]] during the gangs fight with the [[Cannibals of Gloomstone Cavern]]
-- One was each taken by [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa Wuvarion|Woo]] after they won the fight
+- One was each taken by [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] after they won the fight
 
 ### Orson's Scarf.md
 

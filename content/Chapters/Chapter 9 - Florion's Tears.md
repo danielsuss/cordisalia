@@ -9,7 +9,7 @@ aliases:
 - Not sure where to go next on their journey, they talk to [[Amara]], who states she wants to go see the dragons in [[Wyrmsgard]]
 - gang decides to accompany [[Amara]] to [[Wyrmsgard]]
 - they go on one last shopping trip in [[Rorkard]] to gather supplies before their journey
-- [[Ylvëstrïa Wuvarion|Woo]] goes to [[Spirit Reader Shanya's]] and buys a new spell Sussmann's Mind Whip
+- [[Ylvëstrïa|Woo]] goes to [[Spirit Reader Shanya's]] and buys a new spell Sussmann's Mind Whip
 - Rest of the gang goes to [[Norbert's General]]
 - [[Norbert]] recommends they buy raincoats, as the path to [[Wyrmsgard]] through [[Florion's Ridge]] is constantly rainy
 - they buy raincoats and rations for the journey which is
@@ -22,7 +22,7 @@ aliases:
 - he raises his hand, and the smoke from his pipe starts swirling into a large mass putting the gang at alert
 - the smoke forms into a hand, and gently waves at the gang, they see the goblin laughing
 - they walk closer and the man speaks to them - "you all look freezing hahaha, it seems florion is sorrowful today as always"
-- [[Ysgarlad]] asks who [[Florion]] is and [[Ylvëstrïa Wuvarion|Woo]] explains
+- [[Ysgarlad]] asks who [[Florion]] is and [[Ylvëstrïa|Woo]] explains
 - the goblin introduces himself as [[Halibon]] and invites the gang into his shack to rest and for a warm meal
 - sceptical at first, the gang decide to take him up on his offer, [[Ysgarlad]] not so sure
 - as they walk inside, they see a small interior, with a fireplace in the corner of the room with a pot dangling above it, an arm chair next to it facing out into the room, two sofas facing the fireplace, and a small table behind towards another smaller room which is the kitchen

@@ -10,6 +10,6 @@ A mysterious purple gemstone.
 	- Many have tried to unlock this power, none have succeeded
 	- He is unsure whether or not this power actually exists, as there is no proof
 	- It could all just be a folktale and they are really just nothing more than purple gemstones
-- [[Ylvëstrïa Wuvarion]] read about them in a page torn from an old book
+- [[Ylvëstrïa]] read about them in a page torn from an old book
 - One was encrusted in the head of the [[Emerald Axe]] in [[Gilbreives]]. This was stolen by the [[Hooded Man]]
 	- This was later recovered after the [[Hooded Man]] was killed by [[Brogan Stone-Flask|Brogan]] in the [[Rocky Refuge]]

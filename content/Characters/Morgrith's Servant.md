@@ -12,4 +12,4 @@ aliases:
 ###### Appearances
 ###### [[Chapter 6 - Meat for Mother]]
 - Tortured [[Amara]] by cutting off strips of her flesh, feeding them to [[Morgrith the Mother|Mother]], healing the wound and repeating again and again
-- Was killed by [[Ylvëstrïa Wuvarion|Woo]] and [[Brogan Stone-Flask|Brogan]] during [[Amara|Amara's]] rescue
+- Was killed by [[Ylvëstrïa|Woo]] and [[Brogan Stone-Flask|Brogan]] during [[Amara|Amara's]] rescue

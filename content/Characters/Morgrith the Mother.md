@@ -16,4 +16,4 @@ aliases:
 - Could be heard cackling from the depths of [[Gloomstone Cavern]] as the gang were trying to escape after their fight with the [[Cannibals of Gloomstone Cavern|cannibals]]
 - Was being fed [[Amara|Amara's]] flesh by [[Morgrith's Servant|Mother's Servant]] before her rescue
 ###### [[Chapter 7 - Morgrith's Final Banquet]]
-- Killed by [[Ylvëstrïa Wuvarion|Woo]] during her fight with the gang in [[Gloomstone Cavern]] before she could be summoned to wreak havoc on [[Kalskog]]
+- Killed by [[Ylvëstrïa|Woo]] during her fight with the gang in [[Gloomstone Cavern]] before she could be summoned to wreak havoc on [[Kalskog]]

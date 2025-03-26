@@ -23,7 +23,7 @@ aliases:
 - ysgarlad wakes up and interrogates kiara
 - learns that she wanted to destroy [[Rorkard]] for power and the legacy of her family who used to run the[[Abandoned Thieves Guild]]
 - tells the gang to ask crystus about what happened to her family
-- brogan and [[Ylvëstrïa Wuvarion|Woo]] are in the background bullshitting during the interrogation
+- brogan and [[Ylvëstrïa|Woo]] are in the background bullshitting during the interrogation
 - after he's done, ysgarlad nods to amara
 - amara walks towards kiara, and points at her
 - the two red wolves instantly leap at kiara and maul her to death before eating her

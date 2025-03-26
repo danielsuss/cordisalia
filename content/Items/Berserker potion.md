@@ -11,4 +11,4 @@ aliases:
 	- Inability to concentrate on or cast spells
 ###### Appearances
 ###### [[Chapter 3 - The Dangling Tradesman]]
-- [[Ylvëstrïa Wuvarion|Woo]] bought one from [[Hoagle]] after the gang reclaimed his magic bag
+- [[Ylvëstrïa|Woo]] bought one from [[Hoagle]] after the gang reclaimed his magic bag

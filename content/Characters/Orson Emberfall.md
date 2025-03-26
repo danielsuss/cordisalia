@@ -14,7 +14,7 @@ aliases:
 ###### Appearances
 ###### [[Chapter 5 - Kiara's Deception]]
 - The gang fought him when they had to fight the [[Cannibals of Gloomstone Cavern]]
-- [[Orson's Scarf]] was taken by [[Ysgarlad]] to give to [[Mirabel Emberfall]], and one of each of [[Orson's Longswords]] were taken by [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa Wuvarion|Woo]]
+- [[Orson's Scarf]] was taken by [[Ysgarlad]] to give to [[Mirabel Emberfall]], and one of each of [[Orson's Longswords]] were taken by [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]]
 ###### Gallery
 |                                                                         |                                                                                                   |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |

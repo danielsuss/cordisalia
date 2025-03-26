@@ -11,7 +11,7 @@ aliases:
 - liri remembers nothing
 - gang discusses their plan for the day
 - ysgarlad liri and brogan will go to [[Mirabel Emberfall]]
-- [[Ylvëstrïa Wuvarion|Woo]] will go to find [[Post Mortem]]
+- [[Ylvëstrïa|Woo]] will go to find [[Post Mortem]]
 - ysgarlad liri and brogan set off
 - woo sees the post mortem cat on a roof and starts following it into a street
 - ysgarlad liri brogan arrive at mirabels

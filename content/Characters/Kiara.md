@@ -18,7 +18,7 @@ aliases:
 - After travelling with the gang through [[Gloomstone Cavern]], she betrays them with lunette, trapping them with the [[Cannibals of Gloomstone Cavern]]
 ###### [[Chapter 6 - Meat for Mother]]
 - Fled from the [[Rocky Refuge]] after [[Ysgarlad]] got into an argument with [[Sarmon]]
-- Was wounded by [[Ylvëstrïa Wuvarion|Woo]] with a magic missile during their chase over the rooves of [[Rorkard]], before disappearing into the back alleys
+- Was wounded by [[Ylvëstrïa|Woo]] with a magic missile during their chase over the rooves of [[Rorkard]], before disappearing into the back alleys
 ###### [[Chapter 7 - Morgrith's Final Banquet]]
 - The gang discovered her secret hideout at the end of the [[Rorkard Sewers]] and her plan to summon [[Morgrith the Mother|Morgrith]] in [[Kalskog]] to test out the destruction
 ###### [[Chapter 8 - Surprise Attack!]]

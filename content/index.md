@@ -33,7 +33,7 @@ title: Cordisalia
 - [[Gilbreives]]
 - [[Breisken]]
 - [[Windward Food Market]]
-- [[Ylvëstrïa Wuvarion]]
+- [[Ylvëstrïa]]
 - [[Wren Briarwood]]
 - [[Varthis the Cursed]]
 - [[Shanya]]
@@ -47,13 +47,13 @@ title: Cordisalia
 | [![[Pasted image 20240418140155.png]]](<Hooded Man>) | [![[Circlet of the Occult.webp]]](<Circlet of the Occult>) | [![[Pasted image 20240229220607.png]]](<Lumber Festival>) |
 | [![[Pasted image 20240423005511.png]]](<Winged Kobold>) | [![[SEWERS.webp]]](<Rorkard>) | [![[rorkard.webp]]](<Rorkard>) |
 | [![[Pasted image 20240611203608.png]]](<Korgar the Spiked Menace>) | [![[Pasted image 20240305175936.png]]](<River Midwood>) | [![[Pasted image 20240610203027.png]]](<Gloomstone Cavern>) |
-| [![[Quin's Spice Blend.webp]]](<Quin's Spice Blend>) | [![[Pasted image 20240229220442.png]]](<Gronk Growheart>) | [![[Pasted image 20240303102545.png]]](<Ylvëstrïa Wuvarion>) |
+| [![[Quin's Spice Blend.webp]]](<Quin's Spice Blend>) | [![[Pasted image 20240229220442.png]]](<Gronk Growheart>) | [![[Pasted image 20240303102545.png]]](<Ylvëstrïa.md>) |
 | [![[Pasted image 20240611140749.png]]](<Ironhand Forge>) | [![[Mugwort.png]]](<Mugwort Snaggletooth>) | [![[Breaker.png]]](<The Willbreaker>) |
 | [![[Pasted image 20240307192632.png]]](<Verdant Forest>) | [![[Wyatt.png]]](<Wyatt Holloway>) | [![[Pasted image 20240418185756.png]]](<Rorkard>) |
 | [![[Servant of Morgrith.webp]]](<Morgrith's Servant>) | [![[ysgarlad icon.png]]](<Ysgarlad>) | [![[Pasted image 20240423013153.png]]](<Elinor's Cabin>) |
 | [![[Pasted image 20240302234418.png]]](<Brogan Stone-Flask>) | [![[Pasted image 20240611135239.png]]](<Orson Emberfall>) | [![[Gribbles.png]]](<Gribbles the Gob>) |
 | [![[Pasted image 20240611191615.png]]](<Shanya>) | [![[Pasted image 20240610205904.png]]](<Crystus>) | [![[Aetherquartz Ring 2.webp]]](<Aetherquartz Powder>) |
-| [![[kiaras rats.webp]]](<Kiara's Rats>) | [![[Woo.png]]](<Ylvëstrïa Wuvarion>) | [![[Pasted image 20240611204602.png]]](<Cannibals of Gloomstone Cavern>) |
+| [![[kiaras rats.webp]]](<Kiara's Rats>) | [![[Woo.png]]](<Ylvëstrïa.md>) | [![[Pasted image 20240611204602.png]]](<Cannibals of Gloomstone Cavern>) |
 | [![[kalskog peaceful.webp]]](<Kalskog>) | [![[Pasted image 20240611140949.png]]](<Francindo>) | [![[Pasted image 20240416144334.png]]](<Amara>) |
 | [![[Pasted image 20240418185732.png]]](<Spirit Reader Shanya's>) | [![[Lyle 1.png]]](<Lyle>) | [![[Pasted image 20240303214448.png]]](<Rowena Growheart>) |
 | [![[Nythria.png]]](<Nythria>) | [![[Pasted image 20240418185745.png]]](<Norbert's General>) | [![[Pasted image 20240419142031.png]]](<Boar>) |

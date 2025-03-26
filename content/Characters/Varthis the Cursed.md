@@ -13,5 +13,5 @@ aliases:
 - Raised the first two skeletons that the gang fought whilst exploring [[Gloomstone Cavern]]
 - Fought the gang after they were trapped by [[Kiara]] and [[Lunette Emberfall|Lunette]]
 - Raised the skeleton of [[Orson Emberfall]] as an undead soldier to fight for him
-- Was killed by [[Ylvëstrïa Wuvarion]] after raising [[Korgar the Spiked Menace]] from the dead after he was killed by [[Ysgarlad]]
-- [[Ylvëstrïa Wuvarion|Woo]] took the [[Orb of Varthis]]
+- Was killed by [[Ylvëstrïa]] after raising [[Korgar the Spiked Menace]] from the dead after he was killed by [[Ysgarlad]]
+- [[Ylvëstrïa|Woo]] took the [[Orb of Varthis]]

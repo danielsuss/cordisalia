@@ -15,7 +15,7 @@ aliases:
 - The gang brought her to [[Rorkard]] to be healed by [[Shanya]]
 - [[Ysgarlad]] swore to her that they would get their revenge on [[Kiara]]
 ###### [[Chapter 7 - Morgrith's Final Banquet]]
-- After being healed by [[Shanya]], she was taken by [[Ylvëstrïa Wuvarion|Woo]] to buy new clothes at the [[Ironhand Forge]]
+- After being healed by [[Shanya]], she was taken by [[Ylvëstrïa|Woo]] to buy new clothes at the [[Ironhand Forge]]
 - She explored the [[Abandoned Thieves Guild]] with the gang
 - She took the notes of [[Kiara|Kiara's]] plan to summon [[Morgrith the Mother|Morgrith]] in [[Kalskog]] to the [[Cruster Guild]] while the gang went to fight in [[Morgrith's Lair]]
 ###### [[Chapter 8 - Surprise Attack!]]

@@ -10,6 +10,6 @@ aliases:
 - [[Francindo]] is a man from [[Rorkard]] and the owner of the [[Ironhand Forge]]
 ###### Appearances
 ###### [[Chapter 5 - Kiara's Deception]]
-- He bought [[Giant Boar]] pelt from [[Ysgarlad]] and [[Ylvëstrïa Wuvarion|Woo]], and outfitted [[Liri]] with some much needed new clothes
+- He bought [[Giant Boar]] pelt from [[Ysgarlad]] and [[Ylvëstrïa|Woo]], and outfitted [[Liri]] with some much needed new clothes
 ###### [[Chapter 7 - Morgrith's Final Banquet]]
 - Outfitted [[Amara]] with new apparel after her rescue
