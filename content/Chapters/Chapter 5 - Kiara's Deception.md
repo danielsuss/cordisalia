@@ -33,7 +33,7 @@ aliases:
 - after a long gruelling fight and against all odds, the gang manages to come out on top, albeit with [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] going down.
 - [[Ysgarlad]] revives [[Brogan Stone-Flask|Brogan]] with a health potion, who then in turn revives [[Ylvëstrïa|Woo]] with a healing spell
 - The gang loot the bodies of their adversaries, finding 300GP
-- [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] each take one of [[Orson's Longswords]]
+- [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] each take one of [[Orson's Shortswords]]
 - [[Ylvëstrïa|Woo]] takes the [[Orb of Varthis]]
 - [[Ysgarlad]] takes [[Orson's Scarf]] to give to [[Mirabel Emberfall]]
 - Left trapped in the cave

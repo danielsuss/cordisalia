@@ -1,5 +1,5 @@
 ---
 draft: "true"
 aliases:
-  - Goblins
 ---
+![[lesser pink lodestone.png]]

@@ -2,6 +2,7 @@
 aliases:
   - Fragments of the Eternal Shadow
 ---
+![[fragment of the eternal shado.png]]
 ###### Overview
 A mysterious purple gemstone.
 - According to [[Crystus]]:

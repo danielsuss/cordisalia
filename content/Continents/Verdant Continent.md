@@ -10,7 +10,10 @@ The [[Verdant Continent]] is one of the 6 continents of Cordisalia. It is a lush
 - [[Breisken]]
 ###### Other Settlements
 - [[Kalskog]]
+- [[Highvale Manor]]
 ###### Other Points of Interest
 - [[Verdant Forest]]
 - [[River Midwood]]
 - [[Gloomstone Cavern]]
+- [[Florion's Ridge]]
+- [[Florion's Sanctum]]

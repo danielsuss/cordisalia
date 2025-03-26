@@ -721,7 +721,7 @@ draft: "true"
 - after a long gruelling fight and against all odds, the gang manages to come out on top, albeit with [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] going down.
 - [[Ysgarlad]] revives [[Brogan Stone-Flask|Brogan]] with a health potion, who then in turn revives [[Ylvëstrïa|Woo]] with a healing spell
 - The gang loot the bodies of their adversaries, finding 300GP
-- [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] each take one of [[Orson's Longswords]]
+- [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] each take one of [[Orson's Shortswords]]
 - [[Ylvëstrïa|Woo]] takes the [[Orb of Varthis]]
 - [[Ysgarlad]] takes [[Orson's Scarf]] to give to [[Mirabel Emberfall]]
 - Left trapped in the cave, the story continues...
@@ -800,7 +800,7 @@ draft: "true"
 - gang devises a plan
 - [[Ylvëstrïa|Woo]] and [[Brogan Stone-Flask|Brogan]] will sneak around [[Morgrith the Mother|Mother]] and assassinate [[Morgrith's Servant|Mother's Servant]]
 - [[Ysgarlad]] throws [[Liri]] in rat form, who hits the wall, distracting the servant as he looks to nab the rodent
-- they manage to sneak past and kill the servant successfully, using [[Orson's Longswords]]
+- they manage to sneak past and kill the servant successfully, using [[Orson's Shortswords]]
 - [[Morgrith the Mother|Mother]] is demanding more food
 - [[Brogan Stone-Flask|Brogan]] fails to catch the servant's head before it hits the ground, causing [[Morgrith the Mother|Mother]] to look in their direction
 - [[Ylvëstrïa|Woo]] successfully deceives [[Morgrith the Mother|Mother]] by imitating the servant
@@ -1747,7 +1747,7 @@ aliases:
 - after a long gruelling fight and against all odds, the gang manages to come out on top, albeit with [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] going down.
 - [[Ysgarlad]] revives [[Brogan Stone-Flask|Brogan]] with a health potion, who then in turn revives [[Ylvëstrïa|Woo]] with a healing spell
 - The gang loot the bodies of their adversaries, finding 300GP
-- [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] each take one of [[Orson's Longswords]]
+- [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]] each take one of [[Orson's Shortswords]]
 - [[Ylvëstrïa|Woo]] takes the [[Orb of Varthis]]
 - [[Ysgarlad]] takes [[Orson's Scarf]] to give to [[Mirabel Emberfall]]
 - Left trapped in the cave
@@ -1778,7 +1778,7 @@ aliases:
 - gang devises a plan
 - [[Ylvëstrïa|Woo]] and [[Brogan Stone-Flask|Brogan]] will sneak around [[Morgrith the Mother|Mother]] and assassinate [[Morgrith's Servant|Mother's Servant]]
 - [[Ysgarlad]] throws [[Liri]] in rat form, who hits the wall, distracting the servant as he looks to nab the rodent
-- they manage to sneak past and kill the servant successfully, using [[Orson's Longswords]]
+- they manage to sneak past and kill the servant successfully, using [[Orson's Shortswords]]
 - [[Morgrith the Mother|Mother]] is demanding more food
 - [[Brogan Stone-Flask|Brogan]] fails to catch the servant's head before it hits the ground, causing [[Morgrith the Mother|Mother]] to look in their direction
 - [[Ylvëstrïa|Woo]] successfully deceives [[Morgrith the Mother|Mother]] by imitating the servant
@@ -2802,7 +2802,7 @@ aliases:
 ###### Appearances
 ###### [[Chapter 5 - Kiara's Deception]]
 - The gang fought him when they had to fight the [[Cannibals of Gloomstone Cavern]]
-- [[Orson's Scarf]] was taken by [[Ysgarlad]] to give to [[Mirabel Emberfall]], and one of each of [[Orson's Longswords]] were taken by [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]]
+- [[Orson's Scarf]] was taken by [[Ysgarlad]] to give to [[Mirabel Emberfall]], and one of each of [[Orson's Shortswords]] were taken by [[Brogan Stone-Flask|Brogan]] and [[Ylvëstrïa|Woo]]
 ###### Gallery
 |                                                                         |                                                                                                   |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |

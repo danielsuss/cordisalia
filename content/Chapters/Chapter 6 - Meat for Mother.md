@@ -20,7 +20,7 @@ aliases:
 - gang devises a plan
 - [[Ylvëstrïa|Woo]] and [[Brogan Stone-Flask|Brogan]] will sneak around [[Morgrith the Mother|Mother]] and assassinate [[Morgrith's Servant|Mother's Servant]]
 - [[Ysgarlad]] throws [[Liri]] in rat form, who hits the wall, distracting the servant as he looks to nab the rodent
-- they manage to sneak past and kill the servant successfully, using [[Orson's Longswords]]
+- they manage to sneak past and kill the servant successfully, using [[Orson's Shortswords]]
 - [[Morgrith the Mother|Mother]] is demanding more food
 - [[Brogan Stone-Flask|Brogan]] fails to catch the servant's head before it hits the ground, causing [[Morgrith the Mother|Mother]] to look in their direction
 - [[Ylvëstrïa|Woo]] successfully deceives [[Morgrith the Mother|Mother]] by imitating the servant
