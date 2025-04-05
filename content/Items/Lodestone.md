@@ -2,7 +2,7 @@
 draft: 
 aliases:
 ---
-![[lesser green lodestone 1.png]]
+![[lesser green lodestone.png]]
 ###### Overview
 - A type of magic infused stone, capable of bestowing a piece of equipment with magical properties of varying intensities
 - Requires an [[Arcane Smith]] to apply them to a piece of equipment

@@ -1,5 +1,5 @@
 ---
-draft: "true"
+draft: 
 aliases:
 ---
 ![[cruster guild 1.webp]]

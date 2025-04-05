@@ -1,5 +1,5 @@
 ---
-draft: "true"
+draft: 
 aliases:
 ---
 *Dwarf Male 23 [[Burning Expanse]]*
