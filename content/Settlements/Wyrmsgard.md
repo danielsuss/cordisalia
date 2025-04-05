@@ -1,23 +1,20 @@
 ---
-draft: "true"
+draft: 
 aliases:
 ---
-![[Wyrmsgard.png]]
-### Locations
-Black Market - [[Wyrm's Shadow]]
-Inn - [[Lythorax's Roost]]
-Store - [[Scales & Sundries]]
-Point of History
-Leader's Quarters
-Dragon Academy - [[Drakenspire Conservatory]]
-Port
-Magic Location potentially within dragon academy
-Arcane Smith - missing but out to find - [[Haldor Shop]]
-hot springs 
-florion's tear
-
-[[Wyrm's Shadow]]
-Lythorax's Roost
-Scales & Sundries
-Drakenspire Conservatory
-Haldor Shop
+![[Wyrmsgard 1.png]]
+###### Overview
+[[Wyrmsgard]] is a large settlement on the [[Verdant Continent]], lying at the top of [[Florion's Ridge]], and to the west of the [[Cragneedle Woods]]. It is one of the few places in [[index|Cordisalia]] where dragons are commonplace.
+###### Characters from [[Wyrmsgard]]
+- [[Evie]]
+- [[Lysander]]
+- [[Crausse]]
+- [[Torbert]]
+- [[Wee Gwyndaff]]
+- [[Haldor]]
+###### Locations
+- [[Lythorax's Roost]]
+- [[Wyrm's Shadow]]
+- [[Haldor Shop]]
+- [[Torbert's General]]
+- [[Wyvern's Port]]

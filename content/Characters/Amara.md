@@ -3,8 +3,7 @@ draft:
 aliases:
   - Amara's
 ---
-*Human Female 24 [[Bay of Groves]]*
-![[Pasted image 20240416144334.png]]
+*Human Female 24 [[Bay of Groves]]*![[Amara.png]]
 > *I will... Kiara...*
 ###### Overview
 - [[Amara]] is an adventurer from the [[Bay of Groves]]
@@ -23,6 +22,9 @@ aliases:
 - She ordered her [[Amara's Red Wolves|Red Wolves]] to kill [[Kiara]] after [[Ysgarlad]] was finished interrogating her
 ###### [[Chapter 9 - Florion's Tears]]
 - Told the gang of her wish to see the dragons in [[Wyrmsgard]], resulting in the gang accompanying her on the journey through [[Florion's Ridge]]
+###### [[Chapter 10.2 - Enter! Wyrmsgard!]]
+- Arrived in [[Wyrmsgard]] with the gang, and stayed at [[Lythorax's Roost]]
 ###### Gallery
 | *Rescued from [[Gloomstone Cavern]]*<br>![[Pasted image 20240416144334.png]] | *Healed in [[Rorkard]]*<br>![[Amara.webp]] |
 | ---------------------------------------------------------------------------- | ------------------------------------------ |
+| *Travelling through [[Florion's Ridge]]*![[Amara.png]]                       |                                            |

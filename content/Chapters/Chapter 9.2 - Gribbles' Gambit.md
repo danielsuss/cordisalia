@@ -84,3 +84,5 @@ aliases:
 - as they look back they see gribbles smiling
 - gribbles fades into gold dust and blows away in the wind, the arrow dropping from what was once his body
 - mug and wyatt hear one last more serious voice, no longer gribbles' voice, saying "im counting on you", before leaving highvale manor and the shacklehold behind
+
+*Our story continues in [[Chapter 10.1 - Murlin the ''Magician'']]...*

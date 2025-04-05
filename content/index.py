@@ -248,7 +248,7 @@ def update_index_file():
     
     # Get the explore section exactly as it is
     explore_section_match = re.search(r'(## Explore By Category[\s\S]*?)## Recently Added / Updated', content)
-    explore_section = explore_section_match.group(1).strip() if explore_section_match else "## Explore By Category\n- [Characters](https://cordisalia.pages.dev/Characters/)\n- [Creatures](https://cordisalia.pages.dev/Creatures/)\n- [Groups](https://cordisalia.pages.dev/Groups/)\n- [Continents](https://cordisalia.pages.dev/Continents/)\n- [Settlements](https://cordisalia.pages.dev/Settlements/)\n- [Points of Interest](https://cordisalia.pages.dev/Points-of-Interest/)\n- [Lore](https://cordisalia.pages.dev/Lore/)\n- [Items](https://cordisalia.pages.dev/Items/)"
+    explore_section = explore_section_match.group(1).strip() if explore_section_match else "## Explore By Category\n- [Characters](https://cordisalia.pages.dev/Characters/)\n- [Creatures](https://cordisalia.pages.dev/Creatures/)\n- [Groups](https://cordisalia.pages.dev/Groups/)\n- [Continents](https://cordisalia.pages.dev/Continents/)\n- [Settlements](https://cordisalia.pages.dev/Settlements/)\n- [Points of Interest](https://cordisalia.pages.dev/Points-of-Interest/)\n- [Lore](https://cordisalia.pages.dev/Lore/)\n- [Items](https://cordisalia.pages.dev/Items/)\n- [Books](https://cordisalia.pages.dev/Books/)"
     
     # 1. Update chapter list
     chapter_files = get_chapter_files()

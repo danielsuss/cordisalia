@@ -46,3 +46,5 @@ The man puts his hands on his head and cracks his neck.
 ****
 Chains drop from his sleeves, and with a grunt, he whips [[Wyatt Holloway|Wyatt]] across his back. He throws one of [[Wyatt Holloway|Wyatt's]] pistols on the floor in front of him, and snaps it in two with nothing but his boot. The man puts his hands on his head and cracks his neck again. He laughs, before nodding to the guards and walking away. The guards throw [[Wyatt Holloway|Wyatt]] into a nearby cell.
 ![[Shacklehold Cell.png]]
+
+*Our story continues in [[Chapter 9.2 - Gribbles' Gambit]]...*

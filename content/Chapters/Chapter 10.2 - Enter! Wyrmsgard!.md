@@ -1,0 +1,132 @@
+---
+draft: "true"
+aliases:
+---
+###### Abridged (WIP)
+- after journeying through [[Florion's Ridge]], the gang finally reaches [[Wyrmsgard]]
+- they see a pure white dragon flying overhead and into wyrmsgard, [[Liri]] manages to see a person riding atop the dragon with a glinting silver helmet
+- the gang follow the path to the southern dragon lift, which they ride up into wyrmsgard
+- at the top of the lift, they are met by a dwarf, [[Murlin]], who is [[Brogan Stone-Flask|Brogan's]] brother.
+*See [[Chapter 10.1 - Murlin the ''Magician'']]*
+- murlin informs brogan of his mother's illness, telling him he needs to return home at once to look after her, brogan agrees
+- murlin leads the gang through wyrmsgard to the northern dragon lift, which they take to descend to [[Wyvern's Port]]
+- brogan gets on a boat headed back to his home in the [[Burning Expanse]]
+- before brogan's boat sets off, [[Ysgarlad]] buys a trumpet from an instrument merchant who is carrying his cargo off of his docked ship
+- [[Ysgarlad]] plays the last post on the trumpet as brogan sails off into the sunset
+- the gang head back into wyrmsgard with murlin, by which time it is the evening
+- murlin takes them to the inn he is staying at, [[Lythorax's Roost]]
+- on the way there, they get stopped by a kid beggar, ysgarlad gives him some coin
+- the gang meets [[Evie]] a bartender / inkeeper at the roost
+- she tells them a bit about lythorax's roost before a man, [[Lysander]] walks over and interrupts the conversation
+- Evie: "Prince Highvale, what do you want can't you see im busy"
+- Lysander: "Evie how many times do I have to tell you not to call me that, yes you are correct, that is my last name, but i'd rather be judged by my own actions than some letters given to me at birth - anyway, more importantly, i think i've got it figured out"
+- Evie: "Lysander i don't have time right now for your stupid recent obsession with [[The Veilstalker]], can't you see i've got customers"
+- evie shoos lysander away
+- he looks annoyed and walks back to his table kicking dust and gets back to yapping to his friends
+- evie apologises for the interruption, and the gang books to stay at the inn
+- the next morning, Murlin wakes everyone up at 6 am, to help him with his job - hunting red [[Bugbear|Bugbears]] in the [[Cragneedle Woods]]
+- the gang set out for the woods, [[Amara]] stays at the inn
+- on the way to the woods, they walk past where the beggar kid was yesterday, he is no longer there, however one of his leather gloves is left on the floor where he once was
+- when they get to the woods, liri transforms into a cat, sniffing out any new scents
+- the gang remarks how her this transform, instead of being pure blue has some purple highlights
+- liri meows back
+- after a bit of walking, liri gets a new scent, starts running fast along the trail
+- the gang follow her
+- they run into a clearing, with a campfire, a pot on the campfire, and two people, [[Mugwort Snaggletooth|Mugwort]] and [[Wyatt Holloway|Wyatt]]
+- Liri asks what mugwort is cooking, says it smells so good, and that if he lets her have some that they can have half of their reward for killing the bugbears
+- the rest of the gang is apprehensive, ysgarlad tells liri to come back
+- mugwort is enthusiastic, starts giving the slop sermon, wyatt is more apprehensive
+- [[Ylvëstrïa|Woo]] and murlin go and sit by wyatt
+- Liri begs ysgarlad to let her try the slop and mead
+- he eventually caves and liri tries the slop and mead, to her delight
+- during all the chaos, all but wyatt miss the fact that there are three tall figures within the trees that seem to be watching them
+- the three figures happen to be three giant red bugbears, who have been attracted by the smell of mug's slop
+****
+- Woo sends a fireball at the three, doing heavy damage to the one in the centre and the one on the right
+- mugwort misses a ray of sickness on the leftmost one
+- the one on the right sprints up to wyatt, misses a double overhead slam
+- wyatt shoots the bugbear in the chest, before trying to run away,
+- gets hit by an opportunity attack, jumps behind ysgarlad and drinks a health potion
+- the central bugbear charges at mugwort, going for a swipe with it's claws, misses
+- ysgarlad charges and positions himself in the centre of the two bugbears that just charged,
+- pommel strikes and slices the head off of one of them, hits the other with a slash
+- murlin uses his deck of cards and draws a heavy card, throws it at the bugbear ysgarlad slashed, knocking it into critical condition
+- the final bugbear charges at murlin, winding up a heavy stomp, murlin steps aside to dodge it
+- woo fires off magic missiles, killing the bugbear in critical condition with a shot through the eye, and dealing a lot of damage to the final remaining one
+- mugwort sends an acid splash at it, but the bugbear manages to block it
+- wyatt shoots the final bugbear square between the eyes, finishing it off
+****
+- while everyone was fighting liri was enjoying the slop and mead, nothing unusual to her
+- the gang harvests the bugbear hide and their tusks, to fulfill murlin's job
+- they take 3 hide and 6 tusks
+- mugwort decides to harvest the bugbear meat, taking a slab from each one
+- everyone finally has a chance to discuss what is going on and properly introduce themselves
+- wyatt and mugwort explain how they were captured, about the shacklehold, and the ledger
+- wyatt shows them the odd stone he picked up, ysgarlad recalls that it's another [[Lodestone]], similar to the one that woo got from hoagle
+- woo detects that her green lodestone has a wind element energy about it, whereas wyatt's pink one has a mystical alluring energy
+- mugwort wants to taste the green
+- woo says no unless wyatt gives her the pink
+- back and forth with green and pink
+- ysgarlad brings everyone back to reality, suggests that wyatt and mugwort join them in going back to wyrmsgard, so they can help them free the slaves from the shacklehold
+- mugwort and wyatt agree
+- all back in wyrmsgard, everyone follows murlin to go and collect the reward for the job they were on
+- murlin takes them to [[Wyrm's Shadow]], where they meet [[Crausse]], the one who hired him
+- crausse greets murlin normally, however looks shocked for a split second when everyone else turns the corner, then goes back to normal
+- Murlin introduces them all to "Gausse"
+- Crausse is impressed with murlin's work, gives him the gold pieces as agreed, 200 gp for each hide, 100 gp for each tusk.
+- Murlin shares the 1200gp total evenly throughout the group
+- Wyatt get's a chilling feeling running down his spine from crausse
+- Crausse offers them more work if they want it, saying they know where to find him
+- ysgarlad has to restrain mugwort from crawling into Crausse's shop
+****
+- after getting the reward from crausse, everyone splits up
+- Murlin takes ysgarlad, wyatt, mugwort and liri shopping, woo heads back to where the beggar kid's glove was
+- woo picks up the glove, nothing unordinary about it, apart from the fact that it has a very faint burned / smoke smell
+- she decides to head back to lythorax's roost to have a drink
+- ysgarlad wants to go to a smithy, murlin takes them to the [[Haldor Shop]], which appears to be closed
+- murlin then takes them close by to a general goods store, [[Torbert's General]]
+- they are greeted by a small boy, [[Wee Gwyndaff]] - "Welcome to Torbert's baked goods, would you like to buy some of our general items?"
+- [[Wee Gwyndaff]] is interrupted by his father [[Torbert]], - "Wee Gwyndaff, you're meant to say, Welcome to Torbert's General, would you like to try one of our new baked goods, anyway nevermind, go help your mother out back"
+- Wee gwyndaff goes to the back of the shop, torbert tells the story of how wee gwyndaff is a wee chef, inventing new recipes and such. seems to resonate with mugwort
+- torbert tells them about wee gwyndaff's [[Double Gwongberry Stuffed Muffin]], how it was the best muffin, and so they turned torbert's general into torbert's baked goods, to try and help wee gwyndaff make a name for himself
+- and then a well known glutton [[Mustros]] came and tasted it, and decided to steal the recipe, turning it into the [[Triple Gwongberry Stuffed Muffin]]
+- how that ruined wee gwyndaff's dream, torbert wants to see his son fulfilling his dream again
+- ysgarlad wants to buy plate armour, explaining the smithy is shut
+- torbert says its his lucky day, as haldor, the owner of the smithy, trusted torbert with selling some of his inventory while he's on a retreat
+- the plate armour is slightly too expensive for ysgarlad, however mugwort manages to persuade torbert to lower the price, saying that when wee gwyndaff reaches age 18, he will take him on a culinary adventure.
+- torbert agrees, exclaiming wee gwyndaff will look forwards to that
+- meanwhile, woo decides to go back to the wyrm's shadow, to see if she can find anythign about the beggar kid
+- she sneaks around the roof tops, being wary of anyone seeing her
+- she detects a very faint similar smell to that on the glove near crausse's shop
+- she also hears various different groups of people mention the veilstalker as they walk past
+- she decides to head back to the inn
+- back in torberts general, mugwort buys a pot of [[Lilacmary]], a herb native to the [[Cragneedle Woods]], and a punnet of [[Gwongberry|Gwongberries]]
+- wyatt buys two sets of throwing knives, and two health potions
+- as the gang is on their way out of the store, torbert tells them he's doing something new, something he calls "Bookwyrms" - like a library service where his customers can borrow one of his books from his collection
+- Presents the gang with three books that they could borrow
+	- The Rise of Wyrmsgard
+	- Tale of the Stonemancer
+	- Secrets of Alladaroth
+- After much discussion, murlin makes the decision, and the gang borrows the book [[Tale of the Stonemancer]]
+- Mugwort asks torbert where a good place to set up a food stall would be, torbert tells him outside lythorax's roost, with all the people drinking would be a good spot
+- ysgarlad, murlin, liri and mugwort head back to lythorax's roost, wyatt heads back to wyrm's shadow to seek out information
+- back at lythorax's roost, ysgarlad murlin and liri meet up with woo, mugwort sets up his slop and mead stall
+- woo informs the gang that she's been hearing the name veilstalker thrown around quite alot
+- the gang begin to speculate on who the veilstalker is, and where they could get some more information
+- meanwhile, in wyrm's shadow, wyatt has met up with one of his criminal associates, by means of his syndicate tattoo
+- asks the man about crausse, about the ledger, and about the shacklehold
+- regarding crausse, according to the man, he is a well known figure in wyrmsgard, on good terms with pretty much most he interacts with, has been in the city for the past decade and a half.
+- apparently he leaves wyrmsgard and comes back quite regularly
+- regarding the shacklehold, the man doesn't know what that is
+- regarding the ledger, the man recognises the house names from several aristocratic families across the verdant continent, notible the ones from wyrmsgard:
+	- the [[Highvale Family]] - a very important family sitting at the top of wyrmsgard's aristocracy
+	- the [[Scalebinder Family]] - a moderately important family in the aristocracy
+	- the [[Ashmount Family]] - a family recently new to nobility and wyrmsgard's aristocracy
+- upon closer inspection of the ledger, wyatt sees something written at the bottom of the page
+- "Highvale Ball - xx/xx/xx" and a date, in about one month's time
+- Wyatt pays the man for his oath of secrecy, and heads back to Lythorax's roost to reconvene with the rest of the gang
+- Mugwort has had some success selling slop and mead to the taverngoers
+- Wyatt reveals what he has learned to the gang, requesting nothing leaves the confines of the group
+- discussions are had about what has been learned over the day, the veilstalker, the fact that lysander is a highvale, is it / is it not all related
+- discuss the highvale ball, how that could be an in for freeing the slaves from the shacklehold
+- Ysgarlad requests to see the ledger, he recognises only the Highvale family name, and one other family name, one from his homeland the frozen highlands, the [[Lyosønn Family]] - his family

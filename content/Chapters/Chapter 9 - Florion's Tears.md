@@ -62,3 +62,5 @@ aliases:
 - after another day of travel, the greenery has returned to normal and the terrain is getting more rocky and steep. the weather has returned to sunny
 - they see a giant cliff face ahead of them, and upon closer inspection they look up and can see a village at the top of the cliff
 - as they are looking at the village, they feel coming from behind them, and suddenly a pure white dragon is over head, flying towards [[Wyrmsgard]]
+
+*Our story continues in [[Chapter 9.1 - Retribution, Cuisine]]...*

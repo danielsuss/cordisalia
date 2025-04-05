@@ -1,10 +1,10 @@
 ---
-draft: 
+draft: "true"
 aliases:
   - Liri's
 ---
 *Sprite Female 10 ???*
-![[Pasted image 20240423002234.png]]
+![[Liri.png]]
 > *Woaaaaah that was so cool!!*
 ###### Overview
 - [[Liri]] is a young sprite that has been travelling with the gang since they found her in the [[Verdant Forest]]
@@ -36,3 +36,11 @@ aliases:
 - The energy seemed to cling to her for a moment, her wings and eyes purple, with purple sparks around her body, before she fainted
 ###### [[Chapter 9 - Florion's Tears]]
 - Continued to travel with the gang through [[Florion's Ridge]]
+###### [[Chapter 10.2 - Enter! Wyrmsgard!]]
+- Transformed into a cat while the gang was hunting down [[Bugbear|Bugbears]] in the [[Cragneedle Woods]], ended up leading them to [[Mugwort Snaggletooth|Mugwort]] and [[Wyatt Holloway|Wyatt]]
+- Enjoyed [[Mugwort Snaggletooth|Mugwort's]] slop and mead
+###### Gallery
+|                                                                   |                                         |
+| ----------------------------------------------------------------- | --------------------------------------- |
+| *Freed in the Verdant Forest*![[Pasted image 20240423002234.png]] | *Travelling with the gang*![[Liri.png]] |
+| *Cat form in the [[Cragneedle Woods]]*![[Liri Cat.png]]           |                                         |

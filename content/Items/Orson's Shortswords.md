@@ -4,7 +4,7 @@ aliases:
 ---
 ![[orsons shortswords.png]]
 ###### Overview
-- A pair of magic imbued longswords used by [[Orson Emberfall]]
+- A pair of magic imbued shortswords used by [[Orson Emberfall]]
 - They have the following ability:
 	- Orson's Will - Upon taking a successful hit from each of Orson's Shortswords on the same turn, the victim is inflicted with an extra (1d8) bonus damage.
 ###### Appearances
