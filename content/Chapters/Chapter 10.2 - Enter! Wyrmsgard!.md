@@ -75,7 +75,7 @@ aliases:
 - Murlin introduces them all to "Gausse"
 - Crausse is impressed with murlin's work, gives him the gold pieces as agreed, 200 gp for each hide, 100 gp for each tusk.
 - Murlin shares the 1200gp total evenly throughout the group
-- Wyatt get's a chilling feeling running down his spine from crausse
+- Wyatt gets a chilling feeling running down his spine from crausse
 - Crausse offers them more work if they want it, saying they know where to find him
 - ysgarlad has to restrain mugwort from crawling into Crausse's shop
 ****
@@ -107,7 +107,7 @@ aliases:
 	- The Rise of Wyrmsgard
 	- Tale of the Stonemancer
 	- Secrets of Alladaroth
-- After much discussion, murlin makes the decision, and the gang borrows the book [[Tale of the Stonemancer]]
+- After much discussion, murlin makes the decision, and the gang borrows the book [[Books/Tale of the Stonemancer]]
 - Mugwort asks torbert where a good place to set up a food stall would be, torbert tells him outside lythorax's roost, with all the people drinking would be a good spot
 - ysgarlad, murlin, liri and mugwort head back to lythorax's roost, wyatt heads back to wyrm's shadow to seek out information
 - back at lythorax's roost, ysgarlad murlin and liri meet up with woo, mugwort sets up his slop and mead stall

@@ -11,5 +11,5 @@ aliases:
 ###### [[Chapter 10.2 - Enter! Wyrmsgard!]]
 - Told the gang the tale of [[Wee Gwyndaff]] and the [[Double Gwongberry Stuffed Muffin]]
 - Was persuaded by [[Mugwort Snaggletooth|Mugwort]] to sell [[Ysgarlad]] his plate armour at a discount in exchange for taking [[Wee Gwyndaff]] on a culinary adventure in the future
-- Gave [[Murlin]] the book [[Tale of the Stonemancer]] as part of his "Bookwyrms" scheme
+- Gave [[Murlin]] the book [[Books/Tale of the Stonemancer]] as part of his "Bookwyrms" scheme
 - Told [[Mugwort Snaggletooth|Mugwort]] that the best place to set up his slop stall was probably outside [[Lythorax's Roost]]
